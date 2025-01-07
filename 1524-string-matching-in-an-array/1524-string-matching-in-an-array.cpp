@@ -11,13 +11,14 @@ public:
                 {
                     if(words[j].find(words[i])!=string::npos)
                     {
-                        vct.push_back(words[i]);
+                        vct.push_back(words[i]); 
+                        break;
                     }
                 }
             }
         } 
-        set<string>st(vct.begin(),vct.end()); 
-        vct.assign(st.begin(),st.end()); 
+        // set<string>st(vct.begin(),vct.end()); 
+        // vct.assign(st.begin(),st.end()); 
         return vct;
     }
 };
