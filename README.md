@@ -6,6 +6,7 @@ LeetCode Solution
 ## Array
 |  |
 | ------- |
+| [0079-word-search](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0079-word-search) |
 | [0966-binary-subarrays-with-sum](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0966-binary-subarrays-with-sum) |
 | [1370-count-number-of-nice-subarrays](https://github.com/rahulkamble2026rk/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1524-string-matching-in-an-array](https://github.com/rahulkamble2026rk/Leetcode/tree/master/1524-string-matching-in-an-array) |
@@ -34,6 +35,7 @@ LeetCode Solution
 ## String
 |  |
 | ------- |
+| [0079-word-search](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0079-word-search) |
 | [1524-string-matching-in-an-array](https://github.com/rahulkamble2026rk/Leetcode/tree/master/1524-string-matching-in-an-array) |
 | [2700-substring-xor-queries](https://github.com/rahulkamble2026rk/Leetcode/tree/master/2700-substring-xor-queries) |
 ## String Matching
@@ -51,5 +53,14 @@ LeetCode Solution
 ## Matrix
 |  |
 | ------- |
+| [0079-word-search](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0079-word-search) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/rahulkamble2026rk/Leetcode/tree/master/2794-maximum-number-of-moves-in-a-grid) |
+## Backtracking
+|  |
+| ------- |
+| [0079-word-search](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0079-word-search) |
+## Depth-First Search
+|  |
+| ------- |
+| [0079-word-search](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->
