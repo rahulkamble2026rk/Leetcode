@@ -15,6 +15,7 @@ LeetCode Solution
 | [1370-count-number-of-nice-subarrays](https://github.com/rahulkamble2026rk/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1524-string-matching-in-an-array](https://github.com/rahulkamble2026rk/Leetcode/tree/master/1524-string-matching-in-an-array) |
 | [2227-sum-of-subarray-ranges](https://github.com/rahulkamble2026rk/Leetcode/tree/master/2227-sum-of-subarray-ranges) |
+| [2245-destroying-asteroids](https://github.com/rahulkamble2026rk/Leetcode/tree/master/2245-destroying-asteroids) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/rahulkamble2026rk/Leetcode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2700-substring-xor-queries](https://github.com/rahulkamble2026rk/Leetcode/tree/master/2700-substring-xor-queries) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/rahulkamble2026rk/Leetcode/tree/master/2794-maximum-number-of-moves-in-a-grid) |
@@ -124,4 +125,9 @@ LeetCode Solution
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0316-remove-duplicate-letters) |
 | [1159-smallest-subsequence-of-distinct-characters](https://github.com/rahulkamble2026rk/Leetcode/tree/master/1159-smallest-subsequence-of-distinct-characters) |
+| [2245-destroying-asteroids](https://github.com/rahulkamble2026rk/Leetcode/tree/master/2245-destroying-asteroids) |
+## Sorting
+|  |
+| ------- |
+| [2245-destroying-asteroids](https://github.com/rahulkamble2026rk/Leetcode/tree/master/2245-destroying-asteroids) |
 <!---LeetCode Topics End-->
