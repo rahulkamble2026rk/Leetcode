@@ -44,6 +44,7 @@ LeetCode Solution
 |  |
 | ------- |
 | [0079-word-search](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0079-word-search) |
+| [0316-remove-duplicate-letters](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0316-remove-duplicate-letters) |
 | [1524-string-matching-in-an-array](https://github.com/rahulkamble2026rk/Leetcode/tree/master/1524-string-matching-in-an-array) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/rahulkamble2026rk/Leetcode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2700-substring-xor-queries](https://github.com/rahulkamble2026rk/Leetcode/tree/master/2700-substring-xor-queries) |
@@ -92,6 +93,7 @@ LeetCode Solution
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0155-min-stack) |
+| [0316-remove-duplicate-letters](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0316-remove-duplicate-letters) |
 | [0496-next-greater-element-i](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0943-sum-of-subarray-minimums](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0943-sum-of-subarray-minimums) |
@@ -104,6 +106,7 @@ LeetCode Solution
 ## Monotonic Stack
 |  |
 | ------- |
+| [0316-remove-duplicate-letters](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0316-remove-duplicate-letters) |
 | [0496-next-greater-element-i](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0943-sum-of-subarray-minimums](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0943-sum-of-subarray-minimums) |
@@ -113,4 +116,8 @@ LeetCode Solution
 |  |
 | ------- |
 | [1072-next-greater-node-in-linked-list](https://github.com/rahulkamble2026rk/Leetcode/tree/master/1072-next-greater-node-in-linked-list) |
+## Greedy
+|  |
+| ------- |
+| [0316-remove-duplicate-letters](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0316-remove-duplicate-letters) |
 <!---LeetCode Topics End-->
