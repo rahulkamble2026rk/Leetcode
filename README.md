@@ -12,6 +12,7 @@ LeetCode Solution
 | [0943-sum-of-subarray-minimums](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0943-sum-of-subarray-minimums) |
 | [0952-word-subsets](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0952-word-subsets) |
 | [0966-binary-subarrays-with-sum](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0966-binary-subarrays-with-sum) |
+| [1046-max-consecutive-ones-iii](https://github.com/rahulkamble2026rk/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1072-next-greater-node-in-linked-list](https://github.com/rahulkamble2026rk/Leetcode/tree/master/1072-next-greater-node-in-linked-list) |
 | [1370-count-number-of-nice-subarrays](https://github.com/rahulkamble2026rk/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1524-string-matching-in-an-array](https://github.com/rahulkamble2026rk/Leetcode/tree/master/1524-string-matching-in-an-array) |
@@ -36,12 +37,14 @@ LeetCode Solution
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0966-binary-subarrays-with-sum](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0966-binary-subarrays-with-sum) |
+| [1046-max-consecutive-ones-iii](https://github.com/rahulkamble2026rk/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1370-count-number-of-nice-subarrays](https://github.com/rahulkamble2026rk/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/rahulkamble2026rk/Leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 ## Prefix Sum
 |  |
 | ------- |
 | [0966-binary-subarrays-with-sum](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0966-binary-subarrays-with-sum) |
+| [1046-max-consecutive-ones-iii](https://github.com/rahulkamble2026rk/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1370-count-number-of-nice-subarrays](https://github.com/rahulkamble2026rk/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/rahulkamble2026rk/Leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 ## Math
@@ -152,4 +155,8 @@ LeetCode Solution
 |  |
 | ------- |
 | [0937-online-stock-span](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0937-online-stock-span) |
+## Binary Search
+|  |
+| ------- |
+| [1046-max-consecutive-ones-iii](https://github.com/rahulkamble2026rk/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 <!---LeetCode Topics End-->
