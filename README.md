@@ -8,6 +8,7 @@ LeetCode Solution
 | ------- |
 | [0079-word-search](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0079-word-search) |
 | [0455-assign-cookies](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0455-assign-cookies) |
+| [0456-132-pattern](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0456-132-pattern) |
 | [0496-next-greater-element-i](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0943-sum-of-subarray-minimums](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0943-sum-of-subarray-minimums) |
@@ -122,6 +123,7 @@ LeetCode Solution
 | [0155-min-stack](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0155-min-stack) |
 | [0316-remove-duplicate-letters](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0316-remove-duplicate-letters) |
 | [0402-remove-k-digits](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0402-remove-k-digits) |
+| [0456-132-pattern](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0456-132-pattern) |
 | [0496-next-greater-element-i](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0937-online-stock-span](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0937-online-stock-span) |
@@ -139,6 +141,7 @@ LeetCode Solution
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0316-remove-duplicate-letters) |
 | [0402-remove-k-digits](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0402-remove-k-digits) |
+| [0456-132-pattern](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0456-132-pattern) |
 | [0496-next-greater-element-i](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0937-online-stock-span](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0937-online-stock-span) |
@@ -173,6 +176,7 @@ LeetCode Solution
 ## Binary Search
 |  |
 | ------- |
+| [0456-132-pattern](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0456-132-pattern) |
 | [1046-max-consecutive-ones-iii](https://github.com/rahulkamble2026rk/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 ## Counting
 |  |
@@ -184,4 +188,8 @@ LeetCode Solution
 | ------- |
 | [0455-assign-cookies](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0455-assign-cookies) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/rahulkamble2026rk/Leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
+## Ordered Set
+|  |
+| ------- |
+| [0456-132-pattern](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0456-132-pattern) |
 <!---LeetCode Topics End-->
