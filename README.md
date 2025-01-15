@@ -125,6 +125,7 @@ LeetCode Solution
 ## Backtracking
 |  |
 | ------- |
+| [0077-combinations](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0077-combinations) |
 | [0079-word-search](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0079-word-search) |
 ## Depth-First Search
 |  |
