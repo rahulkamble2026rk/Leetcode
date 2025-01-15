@@ -16,6 +16,6 @@ public:
         int start2 = H1ofe2 * 60 + M1ofe2;
         int end2 = H2ofe2 * 60 + M2ofe2;
 
-        return !(end1 < start2 || end2 < start1);
+        return max(start1,start2)<=min(end1,end2);
     }
 };
