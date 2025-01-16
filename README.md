@@ -6,6 +6,7 @@ LeetCode Solution
 ## Array
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0057-insert-interval) |
@@ -115,6 +116,7 @@ LeetCode Solution
 ## Dynamic Programming
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0055-jump-game) |
 | [0435-non-overlapping-intervals](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0678-valid-parenthesis-string](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0678-valid-parenthesis-string) |
@@ -190,6 +192,7 @@ LeetCode Solution
 ## Greedy
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0055-jump-game) |
 | [0316-remove-duplicate-letters](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0316-remove-duplicate-letters) |
 | [0402-remove-k-digits](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0402-remove-k-digits) |
