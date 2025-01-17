@@ -41,6 +41,7 @@ LeetCode Solution
 | [2792-neighboring-bitwise-xor](https://github.com/rahulkamble2026rk/Leetcode/tree/master/2792-neighboring-bitwise-xor) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/rahulkamble2026rk/Leetcode/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/rahulkamble2026rk/Leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+| [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/rahulkamble2026rk/Leetcode/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
 ## Hash Table
 |  |
 | ------- |
@@ -57,6 +58,7 @@ LeetCode Solution
 | [2700-substring-xor-queries](https://github.com/rahulkamble2026rk/Leetcode/tree/master/2700-substring-xor-queries) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/rahulkamble2026rk/Leetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/rahulkamble2026rk/Leetcode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
+| [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/rahulkamble2026rk/Leetcode/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/rahulkamble2026rk/Leetcode/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Sliding Window
 |  |
@@ -118,6 +120,7 @@ LeetCode Solution
 | [2700-substring-xor-queries](https://github.com/rahulkamble2026rk/Leetcode/tree/master/2700-substring-xor-queries) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/rahulkamble2026rk/Leetcode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2792-neighboring-bitwise-xor](https://github.com/rahulkamble2026rk/Leetcode/tree/master/2792-neighboring-bitwise-xor) |
+| [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/rahulkamble2026rk/Leetcode/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
 ## Dynamic Programming
 |  |
 | ------- |
