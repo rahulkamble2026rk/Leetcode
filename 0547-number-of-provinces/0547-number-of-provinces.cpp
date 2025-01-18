@@ -19,7 +19,7 @@ public:
         }  
 
         vector<int>visited(n+1,0); 
-        for(int i=0;i<visited.size();i++)
+        for(int i=1;i<=n;i++)
         {
             if(visited[i]==0) 
             {   
@@ -28,7 +28,7 @@ public:
             }
         }
       
-      return count-1;
+      return count;
     } 
     void dfs(int node,vector<vector<int>>adjlist,vector<int>&visited)
     {
