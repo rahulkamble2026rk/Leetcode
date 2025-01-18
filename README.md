@@ -150,6 +150,7 @@ LeetCode Solution
 |  |
 | ------- |
 | [0079-word-search](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0079-word-search) |
+| [0547-number-of-provinces](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0547-number-of-provinces) |
 ## Trie
 |  |
 | ------- |
@@ -272,4 +273,16 @@ LeetCode Solution
 |  |
 | ------- |
 | [2050-count-good-numbers](https://github.com/rahulkamble2026rk/Leetcode/tree/master/2050-count-good-numbers) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0547-number-of-provinces) |
+## Union Find
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0547-number-of-provinces) |
+## Graph
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0547-number-of-provinces) |
 <!---LeetCode Topics End-->
