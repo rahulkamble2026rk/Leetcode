@@ -5,14 +5,14 @@ public:
         int n=image.size();
         int m=image[0].size(); 
         int intialcolour=image[sr][sc];
-        vector<vector<int>>visited(n,vector<int>(m,0)); 
-         for(int i=0;i<n;i++)
-         {
-            for(int j=0;j<m;j++)
-            {
-                visited[i][j]=image[i][j];
-            }
-         }
+        vector<vector<int>>visited=image; 
+        //  for(int i=0;i<n;i++)
+        //  {
+        //     for(int j=0;j<m;j++)
+        //     {
+        //         visited[i][j]=image[i][j];
+        //     }
+        //  }
         queue<pair<pair<int,int>,int>>que;  
         que.push({{sr,sc},color}); 
           
