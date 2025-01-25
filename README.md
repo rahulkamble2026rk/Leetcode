@@ -191,6 +191,7 @@ LeetCode Solution
 | [0871-keys-and-rooms](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0871-keys-and-rooms) |
 | [1073-number-of-enclaves](https://github.com/rahulkamble2026rk/Leetcode/tree/master/1073-number-of-enclaves) |
 | [1396-count-servers-that-communicate](https://github.com/rahulkamble2026rk/Leetcode/tree/master/1396-count-servers-that-communicate) |
+| [2793-count-the-number-of-complete-components](https://github.com/rahulkamble2026rk/Leetcode/tree/master/2793-count-the-number-of-complete-components) |
 ## Trie
 |  |
 | ------- |
@@ -334,6 +335,7 @@ LeetCode Solution
 | [1396-count-servers-that-communicate](https://github.com/rahulkamble2026rk/Leetcode/tree/master/1396-count-servers-that-communicate) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/rahulkamble2026rk/Leetcode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1876-map-of-highest-peak](https://github.com/rahulkamble2026rk/Leetcode/tree/master/1876-map-of-highest-peak) |
+| [2793-count-the-number-of-complete-components](https://github.com/rahulkamble2026rk/Leetcode/tree/master/2793-count-the-number-of-complete-components) |
 ## Union Find
 |  |
 | ------- |
@@ -343,6 +345,7 @@ LeetCode Solution
 | [0801-is-graph-bipartite](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0801-is-graph-bipartite) |
 | [1073-number-of-enclaves](https://github.com/rahulkamble2026rk/Leetcode/tree/master/1073-number-of-enclaves) |
 | [1396-count-servers-that-communicate](https://github.com/rahulkamble2026rk/Leetcode/tree/master/1396-count-servers-that-communicate) |
+| [2793-count-the-number-of-complete-components](https://github.com/rahulkamble2026rk/Leetcode/tree/master/2793-count-the-number-of-complete-components) |
 ## Graph
 |  |
 | ------- |
@@ -354,6 +357,7 @@ LeetCode Solution
 | [0820-find-eventual-safe-states](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0820-find-eventual-safe-states) |
 | [0871-keys-and-rooms](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0871-keys-and-rooms) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/rahulkamble2026rk/Leetcode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+| [2793-count-the-number-of-complete-components](https://github.com/rahulkamble2026rk/Leetcode/tree/master/2793-count-the-number-of-complete-components) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
