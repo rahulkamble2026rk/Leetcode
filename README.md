@@ -22,6 +22,7 @@ LeetCode Solution
 | [0503-next-greater-element-ii](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0542-01-matrix](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0542-01-matrix) |
 | [0575-distribute-candies](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0575-distribute-candies) |
+| [0695-max-area-of-island](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0733-flood-fill) |
 | [0890-lemonade-change](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0890-lemonade-change) |
 | [0943-sum-of-subarray-minimums](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0943-sum-of-subarray-minimums) |
@@ -163,6 +164,7 @@ LeetCode Solution
 | [0200-number-of-islands](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0200-number-of-islands) |
 | [0407-trapping-rain-water-ii](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0407-trapping-rain-water-ii) |
 | [0542-01-matrix](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0542-01-matrix) |
+| [0695-max-area-of-island](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0733-flood-fill) |
 | [1036-rotting-oranges](https://github.com/rahulkamble2026rk/Leetcode/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/rahulkamble2026rk/Leetcode/tree/master/1073-number-of-enclaves) |
@@ -191,6 +193,7 @@ LeetCode Solution
 | [0210-course-schedule-ii](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0684-redundant-connection) |
+| [0695-max-area-of-island](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0733-flood-fill) |
 | [0744-network-delay-time](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0744-network-delay-time) |
 | [0801-is-graph-bipartite](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0801-is-graph-bipartite) |
@@ -335,6 +338,7 @@ LeetCode Solution
 | [0542-01-matrix](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0684-redundant-connection) |
+| [0695-max-area-of-island](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0733-flood-fill) |
 | [0744-network-delay-time](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0744-network-delay-time) |
 | [0801-is-graph-bipartite](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0801-is-graph-bipartite) |
@@ -356,6 +360,7 @@ LeetCode Solution
 | [0200-number-of-islands](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0684-redundant-connection) |
+| [0695-max-area-of-island](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0695-max-area-of-island) |
 | [0801-is-graph-bipartite](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0801-is-graph-bipartite) |
 | [1073-number-of-enclaves](https://github.com/rahulkamble2026rk/Leetcode/tree/master/1073-number-of-enclaves) |
 | [1396-count-servers-that-communicate](https://github.com/rahulkamble2026rk/Leetcode/tree/master/1396-count-servers-that-communicate) |
