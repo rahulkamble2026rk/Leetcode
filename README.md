@@ -53,6 +53,7 @@ LeetCode Solution
 | [2685-first-completely-painted-row-or-column](https://github.com/rahulkamble2026rk/Leetcode/tree/master/2685-first-completely-painted-row-or-column) |
 | [2700-substring-xor-queries](https://github.com/rahulkamble2026rk/Leetcode/tree/master/2700-substring-xor-queries) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/rahulkamble2026rk/Leetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
+| [2764-maximum-number-of-fish-in-a-grid](https://github.com/rahulkamble2026rk/Leetcode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/rahulkamble2026rk/Leetcode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2792-neighboring-bitwise-xor](https://github.com/rahulkamble2026rk/Leetcode/tree/master/2792-neighboring-bitwise-xor) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/rahulkamble2026rk/Leetcode/tree/master/2794-maximum-number-of-moves-in-a-grid) |
@@ -172,6 +173,7 @@ LeetCode Solution
 | [1876-map-of-highest-peak](https://github.com/rahulkamble2026rk/Leetcode/tree/master/1876-map-of-highest-peak) |
 | [2606-difference-between-ones-and-zeros-in-row-and-column](https://github.com/rahulkamble2026rk/Leetcode/tree/master/2606-difference-between-ones-and-zeros-in-row-and-column) |
 | [2685-first-completely-painted-row-or-column](https://github.com/rahulkamble2026rk/Leetcode/tree/master/2685-first-completely-painted-row-or-column) |
+| [2764-maximum-number-of-fish-in-a-grid](https://github.com/rahulkamble2026rk/Leetcode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/rahulkamble2026rk/Leetcode/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 ## Backtracking
 |  |
@@ -197,6 +199,7 @@ LeetCode Solution
 | [0871-keys-and-rooms](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0871-keys-and-rooms) |
 | [1073-number-of-enclaves](https://github.com/rahulkamble2026rk/Leetcode/tree/master/1073-number-of-enclaves) |
 | [1396-count-servers-that-communicate](https://github.com/rahulkamble2026rk/Leetcode/tree/master/1396-count-servers-that-communicate) |
+| [2764-maximum-number-of-fish-in-a-grid](https://github.com/rahulkamble2026rk/Leetcode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2793-count-the-number-of-complete-components](https://github.com/rahulkamble2026rk/Leetcode/tree/master/2793-count-the-number-of-complete-components) |
 ## Trie
 |  |
@@ -344,6 +347,7 @@ LeetCode Solution
 | [1396-count-servers-that-communicate](https://github.com/rahulkamble2026rk/Leetcode/tree/master/1396-count-servers-that-communicate) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/rahulkamble2026rk/Leetcode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1876-map-of-highest-peak](https://github.com/rahulkamble2026rk/Leetcode/tree/master/1876-map-of-highest-peak) |
+| [2764-maximum-number-of-fish-in-a-grid](https://github.com/rahulkamble2026rk/Leetcode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2793-count-the-number-of-complete-components](https://github.com/rahulkamble2026rk/Leetcode/tree/master/2793-count-the-number-of-complete-components) |
 ## Union Find
 |  |
@@ -355,6 +359,7 @@ LeetCode Solution
 | [0801-is-graph-bipartite](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0801-is-graph-bipartite) |
 | [1073-number-of-enclaves](https://github.com/rahulkamble2026rk/Leetcode/tree/master/1073-number-of-enclaves) |
 | [1396-count-servers-that-communicate](https://github.com/rahulkamble2026rk/Leetcode/tree/master/1396-count-servers-that-communicate) |
+| [2764-maximum-number-of-fish-in-a-grid](https://github.com/rahulkamble2026rk/Leetcode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2793-count-the-number-of-complete-components](https://github.com/rahulkamble2026rk/Leetcode/tree/master/2793-count-the-number-of-complete-components) |
 ## Graph
 |  |
