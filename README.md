@@ -205,6 +205,7 @@ LeetCode Solution
 | [0871-keys-and-rooms](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0871-keys-and-rooms) |
 | [1073-number-of-enclaves](https://github.com/rahulkamble2026rk/Leetcode/tree/master/1073-number-of-enclaves) |
 | [1396-count-servers-that-communicate](https://github.com/rahulkamble2026rk/Leetcode/tree/master/1396-count-servers-that-communicate) |
+| [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/rahulkamble2026rk/Leetcode/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/rahulkamble2026rk/Leetcode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2793-count-the-number-of-complete-components](https://github.com/rahulkamble2026rk/Leetcode/tree/master/2793-count-the-number-of-complete-components) |
 ## Trie
@@ -353,6 +354,7 @@ LeetCode Solution
 | [1171-shortest-path-in-binary-matrix](https://github.com/rahulkamble2026rk/Leetcode/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1396-count-servers-that-communicate](https://github.com/rahulkamble2026rk/Leetcode/tree/master/1396-count-servers-that-communicate) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/rahulkamble2026rk/Leetcode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+| [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/rahulkamble2026rk/Leetcode/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [1876-map-of-highest-peak](https://github.com/rahulkamble2026rk/Leetcode/tree/master/1876-map-of-highest-peak) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/rahulkamble2026rk/Leetcode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2793-count-the-number-of-complete-components](https://github.com/rahulkamble2026rk/Leetcode/tree/master/2793-count-the-number-of-complete-components) |
@@ -383,6 +385,7 @@ LeetCode Solution
 | [0871-keys-and-rooms](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0871-keys-and-rooms) |
 | [1039-find-the-town-judge](https://github.com/rahulkamble2026rk/Leetcode/tree/master/1039-find-the-town-judge) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/rahulkamble2026rk/Leetcode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+| [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/rahulkamble2026rk/Leetcode/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/rahulkamble2026rk/Leetcode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2793-count-the-number-of-complete-components](https://github.com/rahulkamble2026rk/Leetcode/tree/master/2793-count-the-number-of-complete-components) |
 | [3189-find-champion-ii](https://github.com/rahulkamble2026rk/Leetcode/tree/master/3189-find-champion-ii) |
