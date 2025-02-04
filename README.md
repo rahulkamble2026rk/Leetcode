@@ -13,6 +13,7 @@ LeetCode Solution
 | [0079-word-search](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0079-word-search) |
 | [0130-surrounded-regions](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0200-number-of-islands) |
+| [0303-range-sum-query-immutable](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0407-trapping-rain-water-ii](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0407-trapping-rain-water-ii) |
 | [0435-non-overlapping-intervals](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
@@ -101,6 +102,7 @@ LeetCode Solution
 ## Prefix Sum
 |  |
 | ------- |
+| [0303-range-sum-query-immutable](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0966-binary-subarrays-with-sum](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/rahulkamble2026rk/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1370-count-number-of-nice-subarrays](https://github.com/rahulkamble2026rk/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
@@ -249,6 +251,7 @@ LeetCode Solution
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0155-min-stack) |
+| [0303-range-sum-query-immutable](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0937-online-stock-span](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0937-online-stock-span) |
 | [2357-count-integers-in-intervals](https://github.com/rahulkamble2026rk/Leetcode/tree/master/2357-count-integers-in-intervals) |
 ## Monotonic Stack
