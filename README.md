@@ -85,6 +85,7 @@ LeetCode Solution
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/rahulkamble2026rk/Leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1502-construct-k-palindrome-strings](https://github.com/rahulkamble2026rk/Leetcode/tree/master/1502-construct-k-palindrome-strings) |
 | [1770-minimum-deletions-to-make-character-frequencies-unique](https://github.com/rahulkamble2026rk/Leetcode/tree/master/1770-minimum-deletions-to-make-character-frequencies-unique) |
+| [1844-maximum-number-of-balls-in-a-box](https://github.com/rahulkamble2026rk/Leetcode/tree/master/1844-maximum-number-of-balls-in-a-box) |
 | [1901-equal-sum-arrays-with-minimum-number-of-operations](https://github.com/rahulkamble2026rk/Leetcode/tree/master/1901-equal-sum-arrays-with-minimum-number-of-operations) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/rahulkamble2026rk/Leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2685-first-completely-painted-row-or-column](https://github.com/rahulkamble2026rk/Leetcode/tree/master/2685-first-completely-painted-row-or-column) |
@@ -121,6 +122,7 @@ LeetCode Solution
 | [0168-excel-sheet-column-title](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0168-excel-sheet-column-title) |
 | [1370-count-number-of-nice-subarrays](https://github.com/rahulkamble2026rk/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1585-the-kth-factor-of-n](https://github.com/rahulkamble2026rk/Leetcode/tree/master/1585-the-kth-factor-of-n) |
+| [1844-maximum-number-of-balls-in-a-box](https://github.com/rahulkamble2026rk/Leetcode/tree/master/1844-maximum-number-of-balls-in-a-box) |
 | [2050-count-good-numbers](https://github.com/rahulkamble2026rk/Leetcode/tree/master/2050-count-good-numbers) |
 ## String
 |  |
@@ -327,6 +329,7 @@ LeetCode Solution
 | [1364-tuple-with-same-product](https://github.com/rahulkamble2026rk/Leetcode/tree/master/1364-tuple-with-same-product) |
 | [1396-count-servers-that-communicate](https://github.com/rahulkamble2026rk/Leetcode/tree/master/1396-count-servers-that-communicate) |
 | [1502-construct-k-palindrome-strings](https://github.com/rahulkamble2026rk/Leetcode/tree/master/1502-construct-k-palindrome-strings) |
+| [1844-maximum-number-of-balls-in-a-box](https://github.com/rahulkamble2026rk/Leetcode/tree/master/1844-maximum-number-of-balls-in-a-box) |
 | [1901-equal-sum-arrays-with-minimum-number-of-operations](https://github.com/rahulkamble2026rk/Leetcode/tree/master/1901-equal-sum-arrays-with-minimum-number-of-operations) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/rahulkamble2026rk/Leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/rahulkamble2026rk/Leetcode/tree/master/3455-minimum-length-of-string-after-operations) |
