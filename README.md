@@ -159,6 +159,7 @@ LeetCode Solution
 ## Bit Manipulation
 |  |
 | ------- |
+| [0338-counting-bits](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0338-counting-bits) |
 | [2509-minimize-xor](https://github.com/rahulkamble2026rk/Leetcode/tree/master/2509-minimize-xor) |
 | [2519-find-the-original-array-of-prefix-xor](https://github.com/rahulkamble2026rk/Leetcode/tree/master/2519-find-the-original-array-of-prefix-xor) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/rahulkamble2026rk/Leetcode/tree/master/2533-bitwise-xor-of-all-pairings) |
@@ -172,6 +173,7 @@ LeetCode Solution
 | [0045-jump-game-ii](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0070-climbing-stairs) |
+| [0338-counting-bits](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0338-counting-bits) |
 | [0435-non-overlapping-intervals](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0542-01-matrix](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0542-01-matrix) |
 | [0678-valid-parenthesis-string](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0678-valid-parenthesis-string) |
