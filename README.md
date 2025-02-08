@@ -88,6 +88,7 @@ LeetCode Solution
 | [1844-maximum-number-of-balls-in-a-box](https://github.com/rahulkamble2026rk/Leetcode/tree/master/1844-maximum-number-of-balls-in-a-box) |
 | [1901-equal-sum-arrays-with-minimum-number-of-operations](https://github.com/rahulkamble2026rk/Leetcode/tree/master/1901-equal-sum-arrays-with-minimum-number-of-operations) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/rahulkamble2026rk/Leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
+| [2434-design-a-number-container-system](https://github.com/rahulkamble2026rk/Leetcode/tree/master/2434-design-a-number-container-system) |
 | [2685-first-completely-painted-row-or-column](https://github.com/rahulkamble2026rk/Leetcode/tree/master/2685-first-completely-painted-row-or-column) |
 | [2700-substring-xor-queries](https://github.com/rahulkamble2026rk/Leetcode/tree/master/2700-substring-xor-queries) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/rahulkamble2026rk/Leetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
@@ -266,6 +267,7 @@ LeetCode Solution
 | [0303-range-sum-query-immutable](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0937-online-stock-span](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0937-online-stock-span) |
 | [2357-count-integers-in-intervals](https://github.com/rahulkamble2026rk/Leetcode/tree/master/2357-count-integers-in-intervals) |
+| [2434-design-a-number-container-system](https://github.com/rahulkamble2026rk/Leetcode/tree/master/2434-design-a-number-container-system) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -344,6 +346,7 @@ LeetCode Solution
 | ------- |
 | [0456-132-pattern](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0456-132-pattern) |
 | [2357-count-integers-in-intervals](https://github.com/rahulkamble2026rk/Leetcode/tree/master/2357-count-integers-in-intervals) |
+| [2434-design-a-number-container-system](https://github.com/rahulkamble2026rk/Leetcode/tree/master/2434-design-a-number-container-system) |
 ## Segment Tree
 |  |
 | ------- |
@@ -423,6 +426,7 @@ LeetCode Solution
 | [0407-trapping-rain-water-ii](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0407-trapping-rain-water-ii) |
 | [0744-network-delay-time](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0744-network-delay-time) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/rahulkamble2026rk/Leetcode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+| [2434-design-a-number-container-system](https://github.com/rahulkamble2026rk/Leetcode/tree/master/2434-design-a-number-container-system) |
 ## Shortest Path
 |  |
 | ------- |
