@@ -60,6 +60,7 @@ LeetCode Solution
 | [2519-find-the-original-array-of-prefix-xor](https://github.com/rahulkamble2026rk/Leetcode/tree/master/2519-find-the-original-array-of-prefix-xor) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/rahulkamble2026rk/Leetcode/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2536-determine-if-two-events-have-conflict](https://github.com/rahulkamble2026rk/Leetcode/tree/master/2536-determine-if-two-events-have-conflict) |
+| [2586-longest-square-streak-in-an-array](https://github.com/rahulkamble2026rk/Leetcode/tree/master/2586-longest-square-streak-in-an-array) |
 | [2606-difference-between-ones-and-zeros-in-row-and-column](https://github.com/rahulkamble2026rk/Leetcode/tree/master/2606-difference-between-ones-and-zeros-in-row-and-column) |
 | [2685-first-completely-painted-row-or-column](https://github.com/rahulkamble2026rk/Leetcode/tree/master/2685-first-completely-painted-row-or-column) |
 | [2700-substring-xor-queries](https://github.com/rahulkamble2026rk/Leetcode/tree/master/2700-substring-xor-queries) |
@@ -95,6 +96,7 @@ LeetCode Solution
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/rahulkamble2026rk/Leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2434-design-a-number-container-system](https://github.com/rahulkamble2026rk/Leetcode/tree/master/2434-design-a-number-container-system) |
 | [2448-count-number-of-bad-pairs](https://github.com/rahulkamble2026rk/Leetcode/tree/master/2448-count-number-of-bad-pairs) |
+| [2586-longest-square-streak-in-an-array](https://github.com/rahulkamble2026rk/Leetcode/tree/master/2586-longest-square-streak-in-an-array) |
 | [2685-first-completely-painted-row-or-column](https://github.com/rahulkamble2026rk/Leetcode/tree/master/2685-first-completely-painted-row-or-column) |
 | [2700-substring-xor-queries](https://github.com/rahulkamble2026rk/Leetcode/tree/master/2700-substring-xor-queries) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/rahulkamble2026rk/Leetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
@@ -191,6 +193,7 @@ LeetCode Solution
 | [0943-sum-of-subarray-minimums](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0943-sum-of-subarray-minimums) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/rahulkamble2026rk/Leetcode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2205-find-good-days-to-rob-the-bank](https://github.com/rahulkamble2026rk/Leetcode/tree/master/2205-find-good-days-to-rob-the-bank) |
+| [2586-longest-square-streak-in-an-array](https://github.com/rahulkamble2026rk/Leetcode/tree/master/2586-longest-square-streak-in-an-array) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/rahulkamble2026rk/Leetcode/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 ## Matrix
 |  |
@@ -329,6 +332,7 @@ LeetCode Solution
 | [1770-minimum-deletions-to-make-character-frequencies-unique](https://github.com/rahulkamble2026rk/Leetcode/tree/master/1770-minimum-deletions-to-make-character-frequencies-unique) |
 | [2245-destroying-asteroids](https://github.com/rahulkamble2026rk/Leetcode/tree/master/2245-destroying-asteroids) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/rahulkamble2026rk/Leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
+| [2586-longest-square-streak-in-an-array](https://github.com/rahulkamble2026rk/Leetcode/tree/master/2586-longest-square-streak-in-an-array) |
 ## Data Stream
 |  |
 | ------- |
@@ -339,6 +343,7 @@ LeetCode Solution
 | [0456-132-pattern](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0456-132-pattern) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [1046-max-consecutive-ones-iii](https://github.com/rahulkamble2026rk/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
+| [2586-longest-square-streak-in-an-array](https://github.com/rahulkamble2026rk/Leetcode/tree/master/2586-longest-square-streak-in-an-array) |
 ## Counting
 |  |
 | ------- |
