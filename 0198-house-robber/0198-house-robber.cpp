@@ -1,18 +1,51 @@
+// class Solution {
+// public:
+//     int rob(vector<int>& nums) 
+//     {
+//         int n=nums.size();  
+//         vector<int>dp(n,-1);
+//         return maxrobb(n-1,nums,dp);
+//     } 
+//     int maxrobb(int ind,vector<int>&nums,vector<int>&dp)
+//     {   
+//          if(ind<0)
+//         {
+//             return 0;
+//         }
+//         if(ind==0)
+//         {
+//             return nums[ind];
+//         }  
+//         if(dp[ind]!=-1)
+//         {
+//             return dp[ind];
+//         } 
+       
+//         int pick=nums[ind]+maxrobb(ind-2,nums,dp); 
+//         int notpick=maxrobb(ind-1,nums,dp); 
+//         return dp[ind]=max(pick,notpick);
+//     }
+// }; 
+
+
 class Solution {
 public:
-    int robHelper(vector<int>& nums, int index, vector<int>& dp) {
-        if (index >= nums.size()) return 0;  // Base case
-        if (dp[index] != -1) return dp[index];  // Return cached result
-
-        // Either rob this house and jump 2 steps, or skip this house
-        int robCurrent = nums[index] + robHelper(nums, index + 2, dp);
-        int skipCurrent = robHelper(nums, index + 1, dp);
-
-        return dp[index] = max(robCurrent, skipCurrent);
-    }
-
-    int rob(vector<int>& nums) {
-        vector<int> dp(nums.size(), -1);  // Memoization
-        return robHelper(nums, 0, dp);
-    }
+    int rob(vector<int>& nums) 
+    {
+        int n=nums.size();  
+        vector<int>dp(n,-1); 
+        dp[0]=nums[0];
+        for(int i=1;i<n;i++)
+        {
+            int pick=nums[i]; 
+            if(i>1)
+            {
+                pick+=dp[i-2];
+            } 
+            int notpick=0+dp[i-1]; 
+            dp[i]=max(pick,notpick);
+        }
+        return dp[n-1];
+    } 
+    
 };
