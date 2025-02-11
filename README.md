@@ -152,6 +152,7 @@ LeetCode Solution
 | [1524-string-matching-in-an-array](https://github.com/rahulkamble2026rk/Leetcode/tree/master/1524-string-matching-in-an-array) |
 | [1770-minimum-deletions-to-make-character-frequencies-unique](https://github.com/rahulkamble2026rk/Leetcode/tree/master/1770-minimum-deletions-to-make-character-frequencies-unique) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/rahulkamble2026rk/Leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
+| [2021-remove-all-occurrences-of-a-substring](https://github.com/rahulkamble2026rk/Leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/rahulkamble2026rk/Leetcode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/rahulkamble2026rk/Leetcode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2536-determine-if-two-events-have-conflict](https://github.com/rahulkamble2026rk/Leetcode/tree/master/2536-determine-if-two-events-have-conflict) |
@@ -273,6 +274,7 @@ LeetCode Solution
 | [0943-sum-of-subarray-minimums](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0943-sum-of-subarray-minimums) |
 | [1072-next-greater-node-in-linked-list](https://github.com/rahulkamble2026rk/Leetcode/tree/master/1072-next-greater-node-in-linked-list) |
 | [1159-smallest-subsequence-of-distinct-characters](https://github.com/rahulkamble2026rk/Leetcode/tree/master/1159-smallest-subsequence-of-distinct-characters) |
+| [2021-remove-all-occurrences-of-a-substring](https://github.com/rahulkamble2026rk/Leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/rahulkamble2026rk/Leetcode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2227-sum-of-subarray-ranges](https://github.com/rahulkamble2026rk/Leetcode/tree/master/2227-sum-of-subarray-ranges) |
 | [3447-clear-digits](https://github.com/rahulkamble2026rk/Leetcode/tree/master/3447-clear-digits) |
@@ -458,6 +460,7 @@ LeetCode Solution
 ## Simulation
 |  |
 | ------- |
+| [2021-remove-all-occurrences-of-a-substring](https://github.com/rahulkamble2026rk/Leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2606-difference-between-ones-and-zeros-in-row-and-column](https://github.com/rahulkamble2026rk/Leetcode/tree/master/2606-difference-between-ones-and-zeros-in-row-and-column) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/rahulkamble2026rk/Leetcode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3447-clear-digits](https://github.com/rahulkamble2026rk/Leetcode/tree/master/3447-clear-digits) |
