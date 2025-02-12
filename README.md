@@ -13,6 +13,7 @@ LeetCode Solution
 | [0063-unique-paths-ii](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0079-word-search](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0079-word-search) |
+| [0120-triangle](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0120-triangle) |
 | [0130-surrounded-regions](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0130-surrounded-regions) |
 | [0198-house-robber](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0200-number-of-islands) |
@@ -190,6 +191,7 @@ LeetCode Solution
 | [0063-unique-paths-ii](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0070-climbing-stairs) |
+| [0120-triangle](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0120-triangle) |
 | [0198-house-robber](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0213-house-robber-ii) |
 | [0338-counting-bits](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0338-counting-bits) |
