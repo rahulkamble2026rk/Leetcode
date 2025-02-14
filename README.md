@@ -20,6 +20,7 @@ LeetCode Solution
 | [0213-house-robber-ii](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0213-house-robber-ii) |
 | [0303-range-sum-query-immutable](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0407-trapping-rain-water-ii](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0407-trapping-rain-water-ii) |
+| [0416-partition-equal-subset-sum](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0455-assign-cookies) |
@@ -202,6 +203,7 @@ LeetCode Solution
 | [0198-house-robber](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0213-house-robber-ii) |
 | [0338-counting-bits](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0338-counting-bits) |
+| [0416-partition-equal-subset-sum](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0542-01-matrix](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0542-01-matrix) |
 | [0678-valid-parenthesis-string](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0678-valid-parenthesis-string) |
