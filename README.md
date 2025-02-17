@@ -57,6 +57,7 @@ LeetCode Solution
 | [1876-map-of-highest-peak](https://github.com/rahulkamble2026rk/Leetcode/tree/master/1876-map-of-highest-peak) |
 | [1901-equal-sum-arrays-with-minimum-number-of-operations](https://github.com/rahulkamble2026rk/Leetcode/tree/master/1901-equal-sum-arrays-with-minimum-number-of-operations) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/rahulkamble2026rk/Leetcode/tree/master/1927-maximum-ascending-subarray-sum) |
+| [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/rahulkamble2026rk/Leetcode/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2205-find-good-days-to-rob-the-bank](https://github.com/rahulkamble2026rk/Leetcode/tree/master/2205-find-good-days-to-rob-the-bank) |
 | [2227-sum-of-subarray-ranges](https://github.com/rahulkamble2026rk/Leetcode/tree/master/2227-sum-of-subarray-ranges) |
 | [2245-destroying-asteroids](https://github.com/rahulkamble2026rk/Leetcode/tree/master/2245-destroying-asteroids) |
@@ -183,6 +184,7 @@ LeetCode Solution
 |  |
 | ------- |
 | [0338-counting-bits](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0338-counting-bits) |
+| [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/rahulkamble2026rk/Leetcode/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2509-minimize-xor](https://github.com/rahulkamble2026rk/Leetcode/tree/master/2509-minimize-xor) |
 | [2519-find-the-original-array-of-prefix-xor](https://github.com/rahulkamble2026rk/Leetcode/tree/master/2519-find-the-original-array-of-prefix-xor) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/rahulkamble2026rk/Leetcode/tree/master/2533-bitwise-xor-of-all-pairings) |
@@ -211,6 +213,7 @@ LeetCode Solution
 | [0943-sum-of-subarray-minimums](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0943-sum-of-subarray-minimums) |
 | [0967-minimum-falling-path-sum](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0967-minimum-falling-path-sum) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/rahulkamble2026rk/Leetcode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
+| [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/rahulkamble2026rk/Leetcode/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2205-find-good-days-to-rob-the-bank](https://github.com/rahulkamble2026rk/Leetcode/tree/master/2205-find-good-days-to-rob-the-bank) |
 | [2586-longest-square-streak-in-an-array](https://github.com/rahulkamble2026rk/Leetcode/tree/master/2586-longest-square-streak-in-an-array) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/rahulkamble2026rk/Leetcode/tree/master/2794-maximum-number-of-moves-in-a-grid) |
@@ -369,6 +372,7 @@ LeetCode Solution
 | [0456-132-pattern](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0456-132-pattern) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [1046-max-consecutive-ones-iii](https://github.com/rahulkamble2026rk/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
+| [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/rahulkamble2026rk/Leetcode/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2586-longest-square-streak-in-an-array](https://github.com/rahulkamble2026rk/Leetcode/tree/master/2586-longest-square-streak-in-an-array) |
 ## Counting
 |  |
@@ -387,12 +391,14 @@ LeetCode Solution
 | ------- |
 | [0455-assign-cookies](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0455-assign-cookies) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
+| [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/rahulkamble2026rk/Leetcode/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/rahulkamble2026rk/Leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/rahulkamble2026rk/Leetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 ## Ordered Set
 |  |
 | ------- |
 | [0456-132-pattern](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0456-132-pattern) |
+| [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/rahulkamble2026rk/Leetcode/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2357-count-integers-in-intervals](https://github.com/rahulkamble2026rk/Leetcode/tree/master/2357-count-integers-in-intervals) |
 | [2434-design-a-number-container-system](https://github.com/rahulkamble2026rk/Leetcode/tree/master/2434-design-a-number-container-system) |
 ## Segment Tree
@@ -510,4 +516,8 @@ LeetCode Solution
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0062-unique-paths) |
+## Bitmask
+|  |
+| ------- |
+| [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/rahulkamble2026rk/Leetcode/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 <!---LeetCode Topics End-->
