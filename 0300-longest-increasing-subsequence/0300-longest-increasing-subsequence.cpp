@@ -11,6 +11,8 @@ public:
     {
         if (ind < 0)  
         {
+            if (prev == nums.size() || nums[0] < nums[prev])  
+                return 1;
             return 0;
         }
 
