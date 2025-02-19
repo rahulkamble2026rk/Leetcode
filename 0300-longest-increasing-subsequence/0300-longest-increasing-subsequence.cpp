@@ -9,10 +9,12 @@ public:
 
     int longestLIS(int ind, int prev, vector<int>& nums,vector<vector<int>>&dp)
     {
-        if (ind < 0)  
+        if (ind == 0)  
         {
             if (prev == nums.size() || nums[0] < nums[prev])  
-                return 1;
+                {
+                    return 1;
+                }
             return 0;
         }
 
