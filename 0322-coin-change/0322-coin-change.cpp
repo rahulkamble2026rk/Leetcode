@@ -9,7 +9,10 @@ public:
     } 
     int count(vector<int>coins,int amount,int ind,vector<vector<int>>&dp)
     {
-         
+        if(amount==0)
+        {
+            return 0;
+        }  
         if(dp[ind][amount]!=-1)
         {
             return dp[ind][amount];
