@@ -149,6 +149,7 @@ LeetCode Solution
 | ------- |
 | [0062-unique-paths](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0070-climbing-stairs) |
+| [0096-unique-binary-search-trees](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0168-excel-sheet-column-title](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0168-excel-sheet-column-title) |
 | [1370-count-number-of-nice-subarrays](https://github.com/rahulkamble2026rk/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1477-product-of-the-last-k-numbers](https://github.com/rahulkamble2026rk/Leetcode/tree/master/1477-product-of-the-last-k-numbers) |
@@ -213,6 +214,7 @@ LeetCode Solution
 | [0063-unique-paths-ii](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0070-climbing-stairs) |
+| [0096-unique-binary-search-trees](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0120-triangle](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0120-triangle) |
 | [0198-house-robber](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0213-house-robber-ii) |
@@ -550,9 +552,15 @@ LeetCode Solution
 ## Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0096-unique-binary-search-trees) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/rahulkamble2026rk/Leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0096-unique-binary-search-trees) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/rahulkamble2026rk/Leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0096-unique-binary-search-trees](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0096-unique-binary-search-trees) |
 <!---LeetCode Topics End-->
