@@ -1,32 +1,31 @@
-#include <iostream>
-#include <vector>
-#include <queue>
-
-using namespace std;
-
 class Solution {
 public:
     long long maxSum(vector<vector<int>>& grid, vector<int>& limits, int k) 
     {
-        priority_queue<int> pq; // Max-heap to store all top elements
+        //At most k element from teh matrix 
+        //The number of the elemetns taken from ith row does not exceed limits[i] 
 
-        for (int i = 0; i < grid.size(); i++)
+        for(int i=0;i<grid.size();i++)
         {
-            int size = min(limits[i], (int)grid[i].size()); // Take min to avoid overflow
-            
-            // Sort only the required `limits[i]` elements in descending order
-            sort(grid[i].rbegin(), grid[i].rend()); 
+            sort(grid[i].rbegin(),grid[i].rend());
+        }
+        priority_queue<int> pq;
 
-            for (int j = 0; j < size; j++) 
+        for(int i=0;i<grid.size();i++)
+        {
+            int size=limits[i]; 
+            for(int j=0;j<size;j++)
             {   
-                pq.push(grid[i][j]); // Push top elements into max-heap
+                //cout<<"I am going inside the priority queue"<<grid[i][j]<<endl;
+                pq.push(grid[i][j]);
             }
         } 
 
-        long long sum = 0;
-        for (int i = 0; i < k ; i++) 
+        long long sum=0;
+        for(int i=0;i<k;i++)
         {
-            sum += pq.top();
+            sum+=pq.top(); 
+           // cout<<"I am at the top"<<pq.top()<<endl;
             pq.pop();
         } 
         return sum;
