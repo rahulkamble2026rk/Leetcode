@@ -24,7 +24,7 @@ public:
         } 
 
         long long sum = 0;
-        for (int i = 0; i < k && !pq.empty(); i++) 
+        for (int i = 0; i < k ; i++) 
         {
             sum += pq.top();
             pq.pop();
