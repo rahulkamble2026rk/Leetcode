@@ -74,6 +74,7 @@ LeetCode Solution
 | [2519-find-the-original-array-of-prefix-xor](https://github.com/rahulkamble2026rk/Leetcode/tree/master/2519-find-the-original-array-of-prefix-xor) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/rahulkamble2026rk/Leetcode/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2536-determine-if-two-events-have-conflict](https://github.com/rahulkamble2026rk/Leetcode/tree/master/2536-determine-if-two-events-have-conflict) |
+| [2551-apply-operations-to-an-array](https://github.com/rahulkamble2026rk/Leetcode/tree/master/2551-apply-operations-to-an-array) |
 | [2586-longest-square-streak-in-an-array](https://github.com/rahulkamble2026rk/Leetcode/tree/master/2586-longest-square-streak-in-an-array) |
 | [2606-difference-between-ones-and-zeros-in-row-and-column](https://github.com/rahulkamble2026rk/Leetcode/tree/master/2606-difference-between-ones-and-zeros-in-row-and-column) |
 | [2685-first-completely-painted-row-or-column](https://github.com/rahulkamble2026rk/Leetcode/tree/master/2685-first-completely-painted-row-or-column) |
@@ -427,6 +428,7 @@ LeetCode Solution
 | [0532-k-diff-pairs-in-an-array](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/rahulkamble2026rk/Leetcode/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/rahulkamble2026rk/Leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
+| [2551-apply-operations-to-an-array](https://github.com/rahulkamble2026rk/Leetcode/tree/master/2551-apply-operations-to-an-array) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/rahulkamble2026rk/Leetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 ## Ordered Set
 |  |
@@ -530,6 +532,7 @@ LeetCode Solution
 |  |
 | ------- |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/rahulkamble2026rk/Leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
+| [2551-apply-operations-to-an-array](https://github.com/rahulkamble2026rk/Leetcode/tree/master/2551-apply-operations-to-an-array) |
 | [2606-difference-between-ones-and-zeros-in-row-and-column](https://github.com/rahulkamble2026rk/Leetcode/tree/master/2606-difference-between-ones-and-zeros-in-row-and-column) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/rahulkamble2026rk/Leetcode/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/rahulkamble2026rk/Leetcode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
