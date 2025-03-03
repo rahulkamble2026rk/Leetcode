@@ -42,7 +42,7 @@ public:
         string temp = s;
         reverse(temp.begin(), temp.end());
 
-        if (s == temp)  
+        if (s == temp)  // If already a palindrome
         {
             return 0;
         }  
