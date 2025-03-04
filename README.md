@@ -162,6 +162,7 @@ LeetCode Solution
 | [1585-the-kth-factor-of-n](https://github.com/rahulkamble2026rk/Leetcode/tree/master/1585-the-kth-factor-of-n) |
 | [1844-maximum-number-of-balls-in-a-box](https://github.com/rahulkamble2026rk/Leetcode/tree/master/1844-maximum-number-of-balls-in-a-box) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/rahulkamble2026rk/Leetcode/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
+| [1971-incremental-memory-leak](https://github.com/rahulkamble2026rk/Leetcode/tree/master/1971-incremental-memory-leak) |
 | [2050-count-good-numbers](https://github.com/rahulkamble2026rk/Leetcode/tree/master/2050-count-good-numbers) |
 | [2448-count-number-of-bad-pairs](https://github.com/rahulkamble2026rk/Leetcode/tree/master/2448-count-number-of-bad-pairs) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/rahulkamble2026rk/Leetcode/tree/master/2802-find-the-punishment-number-of-an-integer) |
@@ -544,6 +545,7 @@ LeetCode Solution
 ## Simulation
 |  |
 | ------- |
+| [1971-incremental-memory-leak](https://github.com/rahulkamble2026rk/Leetcode/tree/master/1971-incremental-memory-leak) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/rahulkamble2026rk/Leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/rahulkamble2026rk/Leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/rahulkamble2026rk/Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
