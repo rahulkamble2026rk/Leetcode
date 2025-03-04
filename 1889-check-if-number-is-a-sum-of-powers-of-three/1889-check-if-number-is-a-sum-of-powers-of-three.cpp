@@ -22,7 +22,7 @@ public:
         {
             return true;
         } 
-        
+
         if(ind==0) 
         {
             if(vct[ind]==target)
@@ -39,9 +39,8 @@ public:
         bool  take=false; 
         if(target>=vct[ind])
         { 
-            cout<<"I am in"<<vct[ind]<<endl;
             take=findoccurance(vct,target-vct[ind],ind-1); 
-            
+           if (take) cout << "Selected: " << vct[ind] << endl;  
         } 
         return (take||nottake);
     }
