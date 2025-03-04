@@ -12,17 +12,22 @@ public:
         // {
         //         cout<<i<<endl;
         // }   
-        int size=vct.size();
-        return findoccurance(vct,n,size-1);
+        int size=vct.size(); 
+         unordered_map<int, unordered_map<int, int>> dp;
+        return findoccurance(vct,n,size-1,dp);
        
     }  
-    bool findoccurance(vector<int>vct,int target,int ind)
+    bool findoccurance(vector<int>vct,int target,int ind,unordered_map<int, unordered_map<int, int>>&dp)
     {   
         if(target==0)
         {
             return true;
         } 
-
+         
+         if(dp[ind].count(target))
+         {
+            return dp[ind][target];
+         }
         if(ind==0) 
         {
             if(vct[ind]==target)
@@ -35,14 +40,14 @@ public:
             }
         } 
         
-        bool nottake=findoccurance(vct,target,ind-1); 
+        bool nottake=findoccurance(vct,target,ind-1,dp); 
         bool  take=false; 
         if(target>=vct[ind])
         { 
-            take=findoccurance(vct,target-vct[ind],ind-1); 
+            take=findoccurance(vct,target-vct[ind],ind-1,dp); 
            if (take) cout << "Selected: " << vct[ind] << endl;  
         } 
-        return (take||nottake);
+        return dp[ind][target]=(take||nottake);
     }
    
 };
