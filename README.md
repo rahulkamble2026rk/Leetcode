@@ -165,6 +165,7 @@ LeetCode Solution
 | [1971-incremental-memory-leak](https://github.com/rahulkamble2026rk/Leetcode/tree/master/1971-incremental-memory-leak) |
 | [2050-count-good-numbers](https://github.com/rahulkamble2026rk/Leetcode/tree/master/2050-count-good-numbers) |
 | [2448-count-number-of-bad-pairs](https://github.com/rahulkamble2026rk/Leetcode/tree/master/2448-count-number-of-bad-pairs) |
+| [2575-minimum-cuts-to-divide-a-circle](https://github.com/rahulkamble2026rk/Leetcode/tree/master/2575-minimum-cuts-to-divide-a-circle) |
 | [2649-count-total-number-of-colored-cells](https://github.com/rahulkamble2026rk/Leetcode/tree/master/2649-count-total-number-of-colored-cells) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/rahulkamble2026rk/Leetcode/tree/master/2802-find-the-punishment-number-of-an-integer) |
 ## String
@@ -594,4 +595,8 @@ LeetCode Solution
 |  |
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0096-unique-binary-search-trees) |
+## Geometry
+|  |
+| ------- |
+| [2575-minimum-cuts-to-divide-a-circle](https://github.com/rahulkamble2026rk/Leetcode/tree/master/2575-minimum-cuts-to-divide-a-circle) |
 <!---LeetCode Topics End-->
