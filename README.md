@@ -174,6 +174,7 @@ LeetCode Solution
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0079-word-search](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0079-word-search) |
+| [0115-distinct-subsequences](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0115-distinct-subsequences) |
 | [0168-excel-sheet-column-title](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0168-excel-sheet-column-title) |
 | [0316-remove-duplicate-letters](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0316-remove-duplicate-letters) |
 | [0402-remove-k-digits](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0402-remove-k-digits) |
@@ -230,6 +231,7 @@ LeetCode Solution
 | [0064-minimum-path-sum](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0070-climbing-stairs) |
 | [0096-unique-binary-search-trees](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0096-unique-binary-search-trees) |
+| [0115-distinct-subsequences](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0115-distinct-subsequences) |
 | [0120-triangle](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0120-triangle) |
 | [0198-house-robber](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0213-house-robber-ii) |
