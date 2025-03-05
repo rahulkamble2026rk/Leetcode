@@ -38,11 +38,11 @@ public:
         
         vector<vector<int>> dp(ind1 + 1, vector<int>(ind2 + 1, 0));
 
-        for(int i=0;i<ind1;i++)
+        for(int i=0;i<=ind1;i++)
         {
             dp[i][0]=0;     //if the one of the index is 0 then it will give 0
         } 
-        for(int j=0;j<ind2;j++)
+        for(int j=0;j<=ind2;j++)
         {
             dp[0][j]=0;
         }
