@@ -165,6 +165,7 @@ LeetCode Solution
 | [1971-incremental-memory-leak](https://github.com/rahulkamble2026rk/Leetcode/tree/master/1971-incremental-memory-leak) |
 | [2050-count-good-numbers](https://github.com/rahulkamble2026rk/Leetcode/tree/master/2050-count-good-numbers) |
 | [2448-count-number-of-bad-pairs](https://github.com/rahulkamble2026rk/Leetcode/tree/master/2448-count-number-of-bad-pairs) |
+| [2491-smallest-even-multiple](https://github.com/rahulkamble2026rk/Leetcode/tree/master/2491-smallest-even-multiple) |
 | [2575-minimum-cuts-to-divide-a-circle](https://github.com/rahulkamble2026rk/Leetcode/tree/master/2575-minimum-cuts-to-divide-a-circle) |
 | [2649-count-total-number-of-colored-cells](https://github.com/rahulkamble2026rk/Leetcode/tree/master/2649-count-total-number-of-colored-cells) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/rahulkamble2026rk/Leetcode/tree/master/2802-find-the-punishment-number-of-an-integer) |
@@ -569,6 +570,7 @@ LeetCode Solution
 |  |
 | ------- |
 | [1585-the-kth-factor-of-n](https://github.com/rahulkamble2026rk/Leetcode/tree/master/1585-the-kth-factor-of-n) |
+| [2491-smallest-even-multiple](https://github.com/rahulkamble2026rk/Leetcode/tree/master/2491-smallest-even-multiple) |
 ## Memoization
 |  |
 | ------- |
