@@ -18,6 +18,7 @@ LeetCode Solution
 | [0198-house-robber](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0200-number-of-islands) |
 | [0213-house-robber-ii](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0213-house-robber-ii) |
+| [0216-combination-sum-iii](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0216-combination-sum-iii) |
 | [0300-longest-increasing-subsequence](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0303-range-sum-query-immutable](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0322-coin-change](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0322-coin-change) |
@@ -296,6 +297,7 @@ LeetCode Solution
 | ------- |
 | [0077-combinations](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0077-combinations) |
 | [0079-word-search](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0079-word-search) |
+| [0216-combination-sum-iii](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0216-combination-sum-iii) |
 | [0494-target-sum](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0494-target-sum) |
 | [0813-all-paths-from-source-to-target](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0813-all-paths-from-source-to-target) |
 | [2107-find-unique-binary-string](https://github.com/rahulkamble2026rk/Leetcode/tree/master/2107-find-unique-binary-string) |
