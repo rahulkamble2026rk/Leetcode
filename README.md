@@ -182,6 +182,7 @@ LeetCode Solution
 | [0316-remove-duplicate-letters](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0316-remove-duplicate-letters) |
 | [0402-remove-k-digits](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0402-remove-k-digits) |
 | [0434-number-of-segments-in-a-string](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0434-number-of-segments-in-a-string) |
+| [0466-count-the-repetitions](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0466-count-the-repetitions) |
 | [0516-longest-palindromic-subsequence](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0583-delete-operation-for-two-strings) |
 | [0678-valid-parenthesis-string](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0678-valid-parenthesis-string) |
@@ -243,6 +244,7 @@ LeetCode Solution
 | [0338-counting-bits](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0338-counting-bits) |
 | [0416-partition-equal-subset-sum](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0435-non-overlapping-intervals) |
+| [0466-count-the-repetitions](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0466-count-the-repetitions) |
 | [0494-target-sum](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0494-target-sum) |
 | [0516-longest-palindromic-subsequence](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0518-coin-change-ii) |
