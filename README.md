@@ -87,6 +87,7 @@ LeetCode Solution
 | [2792-neighboring-bitwise-xor](https://github.com/rahulkamble2026rk/Leetcode/tree/master/2792-neighboring-bitwise-xor) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/rahulkamble2026rk/Leetcode/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [3106-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/rahulkamble2026rk/Leetcode/tree/master/3106-length-of-the-longest-subsequence-that-sums-to-target) |
+| [3227-find-missing-and-repeated-values](https://github.com/rahulkamble2026rk/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/rahulkamble2026rk/Leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/rahulkamble2026rk/Leetcode/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/rahulkamble2026rk/Leetcode/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
@@ -126,6 +127,7 @@ LeetCode Solution
 | [2700-substring-xor-queries](https://github.com/rahulkamble2026rk/Leetcode/tree/master/2700-substring-xor-queries) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/rahulkamble2026rk/Leetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/rahulkamble2026rk/Leetcode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
+| [3227-find-missing-and-repeated-values](https://github.com/rahulkamble2026rk/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3420-find-occurrences-of-an-element-in-an-array](https://github.com/rahulkamble2026rk/Leetcode/tree/master/3420-find-occurrences-of-an-element-in-an-array) |
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/rahulkamble2026rk/Leetcode/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/rahulkamble2026rk/Leetcode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
@@ -169,6 +171,7 @@ LeetCode Solution
 | [2575-minimum-cuts-to-divide-a-circle](https://github.com/rahulkamble2026rk/Leetcode/tree/master/2575-minimum-cuts-to-divide-a-circle) |
 | [2649-count-total-number-of-colored-cells](https://github.com/rahulkamble2026rk/Leetcode/tree/master/2649-count-total-number-of-colored-cells) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/rahulkamble2026rk/Leetcode/tree/master/2802-find-the-punishment-number-of-an-integer) |
+| [3227-find-missing-and-repeated-values](https://github.com/rahulkamble2026rk/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
 ## String
 |  |
 | ------- |
@@ -284,6 +287,7 @@ LeetCode Solution
 | [2685-first-completely-painted-row-or-column](https://github.com/rahulkamble2026rk/Leetcode/tree/master/2685-first-completely-painted-row-or-column) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/rahulkamble2026rk/Leetcode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/rahulkamble2026rk/Leetcode/tree/master/2794-maximum-number-of-moves-in-a-grid) |
+| [3227-find-missing-and-repeated-values](https://github.com/rahulkamble2026rk/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3764-maximum-sum-with-at-most-k-elements](https://github.com/rahulkamble2026rk/Leetcode/tree/master/3764-maximum-sum-with-at-most-k-elements) |
 ## Backtracking
 |  |
