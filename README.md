@@ -170,6 +170,7 @@ LeetCode Solution
 | [2448-count-number-of-bad-pairs](https://github.com/rahulkamble2026rk/Leetcode/tree/master/2448-count-number-of-bad-pairs) |
 | [2491-smallest-even-multiple](https://github.com/rahulkamble2026rk/Leetcode/tree/master/2491-smallest-even-multiple) |
 | [2575-minimum-cuts-to-divide-a-circle](https://github.com/rahulkamble2026rk/Leetcode/tree/master/2575-minimum-cuts-to-divide-a-circle) |
+| [2610-closest-prime-numbers-in-range](https://github.com/rahulkamble2026rk/Leetcode/tree/master/2610-closest-prime-numbers-in-range) |
 | [2649-count-total-number-of-colored-cells](https://github.com/rahulkamble2026rk/Leetcode/tree/master/2649-count-total-number-of-colored-cells) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/rahulkamble2026rk/Leetcode/tree/master/2802-find-the-punishment-number-of-an-integer) |
 | [3227-find-missing-and-repeated-values](https://github.com/rahulkamble2026rk/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
@@ -581,6 +582,7 @@ LeetCode Solution
 | ------- |
 | [1585-the-kth-factor-of-n](https://github.com/rahulkamble2026rk/Leetcode/tree/master/1585-the-kth-factor-of-n) |
 | [2491-smallest-even-multiple](https://github.com/rahulkamble2026rk/Leetcode/tree/master/2491-smallest-even-multiple) |
+| [2610-closest-prime-numbers-in-range](https://github.com/rahulkamble2026rk/Leetcode/tree/master/2610-closest-prime-numbers-in-range) |
 ## Memoization
 |  |
 | ------- |
