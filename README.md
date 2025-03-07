@@ -170,6 +170,7 @@ LeetCode Solution
 | [2448-count-number-of-bad-pairs](https://github.com/rahulkamble2026rk/Leetcode/tree/master/2448-count-number-of-bad-pairs) |
 | [2491-smallest-even-multiple](https://github.com/rahulkamble2026rk/Leetcode/tree/master/2491-smallest-even-multiple) |
 | [2575-minimum-cuts-to-divide-a-circle](https://github.com/rahulkamble2026rk/Leetcode/tree/master/2575-minimum-cuts-to-divide-a-circle) |
+| [2595-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/rahulkamble2026rk/Leetcode/tree/master/2595-smallest-value-after-replacing-with-sum-of-prime-factors) |
 | [2610-closest-prime-numbers-in-range](https://github.com/rahulkamble2026rk/Leetcode/tree/master/2610-closest-prime-numbers-in-range) |
 | [2649-count-total-number-of-colored-cells](https://github.com/rahulkamble2026rk/Leetcode/tree/master/2649-count-total-number-of-colored-cells) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/rahulkamble2026rk/Leetcode/tree/master/2802-find-the-punishment-number-of-an-integer) |
@@ -566,6 +567,7 @@ LeetCode Solution
 | [2265-partition-array-according-to-given-pivot](https://github.com/rahulkamble2026rk/Leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/rahulkamble2026rk/Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2551-apply-operations-to-an-array](https://github.com/rahulkamble2026rk/Leetcode/tree/master/2551-apply-operations-to-an-array) |
+| [2595-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/rahulkamble2026rk/Leetcode/tree/master/2595-smallest-value-after-replacing-with-sum-of-prime-factors) |
 | [2606-difference-between-ones-and-zeros-in-row-and-column](https://github.com/rahulkamble2026rk/Leetcode/tree/master/2606-difference-between-ones-and-zeros-in-row-and-column) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/rahulkamble2026rk/Leetcode/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/rahulkamble2026rk/Leetcode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
@@ -582,6 +584,7 @@ LeetCode Solution
 | ------- |
 | [1585-the-kth-factor-of-n](https://github.com/rahulkamble2026rk/Leetcode/tree/master/1585-the-kth-factor-of-n) |
 | [2491-smallest-even-multiple](https://github.com/rahulkamble2026rk/Leetcode/tree/master/2491-smallest-even-multiple) |
+| [2595-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/rahulkamble2026rk/Leetcode/tree/master/2595-smallest-value-after-replacing-with-sum-of-prime-factors) |
 | [2610-closest-prime-numbers-in-range](https://github.com/rahulkamble2026rk/Leetcode/tree/master/2610-closest-prime-numbers-in-range) |
 ## Memoization
 |  |
