@@ -55,6 +55,7 @@ LeetCode Solution
 | [1364-tuple-with-same-product](https://github.com/rahulkamble2026rk/Leetcode/tree/master/1364-tuple-with-same-product) |
 | [1370-count-number-of-nice-subarrays](https://github.com/rahulkamble2026rk/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1396-count-servers-that-communicate](https://github.com/rahulkamble2026rk/Leetcode/tree/master/1396-count-servers-that-communicate) |
+| [1449-print-words-vertically](https://github.com/rahulkamble2026rk/Leetcode/tree/master/1449-print-words-vertically) |
 | [1477-product-of-the-last-k-numbers](https://github.com/rahulkamble2026rk/Leetcode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/rahulkamble2026rk/Leetcode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1524-string-matching-in-an-array](https://github.com/rahulkamble2026rk/Leetcode/tree/master/1524-string-matching-in-an-array) |
@@ -195,6 +196,7 @@ LeetCode Solution
 | [1170-shortest-common-supersequence](https://github.com/rahulkamble2026rk/Leetcode/tree/master/1170-shortest-common-supersequence) |
 | [1250-longest-common-subsequence](https://github.com/rahulkamble2026rk/Leetcode/tree/master/1250-longest-common-subsequence) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/rahulkamble2026rk/Leetcode/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
+| [1449-print-words-vertically](https://github.com/rahulkamble2026rk/Leetcode/tree/master/1449-print-words-vertically) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/rahulkamble2026rk/Leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1502-construct-k-palindrome-strings](https://github.com/rahulkamble2026rk/Leetcode/tree/master/1502-construct-k-palindrome-strings) |
 | [1508-longest-happy-prefix](https://github.com/rahulkamble2026rk/Leetcode/tree/master/1508-longest-happy-prefix) |
@@ -564,6 +566,7 @@ LeetCode Solution
 ## Simulation
 |  |
 | ------- |
+| [1449-print-words-vertically](https://github.com/rahulkamble2026rk/Leetcode/tree/master/1449-print-words-vertically) |
 | [1971-incremental-memory-leak](https://github.com/rahulkamble2026rk/Leetcode/tree/master/1971-incremental-memory-leak) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/rahulkamble2026rk/Leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/rahulkamble2026rk/Leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
