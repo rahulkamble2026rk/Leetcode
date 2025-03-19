@@ -23,7 +23,8 @@ public:
          while(n>m)  
           {
             n = n & n-1;
-          } 
+          }  
+          cout<<(left&right);
        return m&n;
     }
 };
