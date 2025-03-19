@@ -12,7 +12,8 @@ public:
                 nums[i+1]=nums[i+1]^1; 
                 nums[i+2]=nums[i+2]^1; 
                 count++;
-            } 
+            }  
+           
             
         }  
 
