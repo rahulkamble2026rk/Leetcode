@@ -25,7 +25,7 @@ public:
        int overlap=0; 
        for(int i=0;i<points.size();i++)
        {
-        if(points[i].second==0)
+        if(points[i].second==0) //if end comes 
         {
             overlap--;
         } 
@@ -42,3 +42,14 @@ public:
        return lines>=3;
     }
 };
+ 
+
+//  Algorithm: Sweep-line algorithm
+
+// Entering a Rectangle: Increment overlap by +1
+
+// Exiting a Rectangle: Decrement overlap by -1
+
+// Same Coordinate Rule: If two points share the same coordinate, process the end point before the start point
+
+// Valid Gap: When overlap becomes 0, a gap (potential cut) is identified
