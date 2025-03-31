@@ -121,6 +121,7 @@ LeetCode Solution
 | [0496-next-greater-element-i](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0575-distribute-candies](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0575-distribute-candies) |
+| [0768-partition-labels](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0768-partition-labels) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0952-word-subsets](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0952-word-subsets) |
 | [0966-binary-subarrays-with-sum](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0966-binary-subarrays-with-sum) |
@@ -220,6 +221,7 @@ LeetCode Solution
 | [0516-longest-palindromic-subsequence](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0583-delete-operation-for-two-strings) |
 | [0678-valid-parenthesis-string](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0678-valid-parenthesis-string) |
+| [0768-partition-labels](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0768-partition-labels) |
 | [0952-word-subsets](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0952-word-subsets) |
 | [1159-smallest-subsequence-of-distinct-characters](https://github.com/rahulkamble2026rk/Leetcode/tree/master/1159-smallest-subsequence-of-distinct-characters) |
 | [1170-shortest-common-supersequence](https://github.com/rahulkamble2026rk/Leetcode/tree/master/1170-shortest-common-supersequence) |
@@ -443,6 +445,7 @@ LeetCode Solution
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0455-assign-cookies) |
 | [0678-valid-parenthesis-string](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0678-valid-parenthesis-string) |
+| [0768-partition-labels](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0768-partition-labels) |
 | [0890-lemonade-change](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0890-lemonade-change) |
 | [1159-smallest-subsequence-of-distinct-characters](https://github.com/rahulkamble2026rk/Leetcode/tree/master/1159-smallest-subsequence-of-distinct-characters) |
 | [1502-construct-k-palindrome-strings](https://github.com/rahulkamble2026rk/Leetcode/tree/master/1502-construct-k-palindrome-strings) |
@@ -508,6 +511,7 @@ LeetCode Solution
 | [0086-partition-list](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0086-partition-list) |
 | [0455-assign-cookies](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0455-assign-cookies) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
+| [0768-partition-labels](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0768-partition-labels) |
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/rahulkamble2026rk/Leetcode/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/rahulkamble2026rk/Leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/rahulkamble2026rk/Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
