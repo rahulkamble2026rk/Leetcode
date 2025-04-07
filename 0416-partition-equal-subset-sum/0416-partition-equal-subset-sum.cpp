@@ -36,3 +36,5 @@ public:
         return dp[ind][target]=(take||nottake);
     }
 };
+
+//tabulazation appraoch :
