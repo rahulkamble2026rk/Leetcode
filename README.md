@@ -22,6 +22,7 @@ LeetCode Solution
 | [0200-number-of-islands](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0200-number-of-islands) |
 | [0213-house-robber-ii](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0213-house-robber-ii) |
 | [0216-combination-sum-iii](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0216-combination-sum-iii) |
+| [0274-h-index](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0274-h-index) |
 | [0300-longest-increasing-subsequence](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0303-range-sum-query-immutable](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0322-coin-change](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0322-coin-change) |
@@ -477,6 +478,7 @@ LeetCode Solution
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0056-merge-intervals) |
+| [0274-h-index](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0274-h-index) |
 | [0435-non-overlapping-intervals](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0455-assign-cookies) |
@@ -704,4 +706,8 @@ LeetCode Solution
 |  |
 | ------- |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/rahulkamble2026rk/Leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+## Counting Sort
+|  |
+| ------- |
+| [0274-h-index](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0274-h-index) |
 <!---LeetCode Topics End-->
