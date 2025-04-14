@@ -1,35 +1,27 @@
 class Solution {
 public:
-    int lengthOfLIS(vector<int>& nums) 
+    int lengthOfLIS(vector<int>& nums)  
+    { 
+        vector<vector<int>>dp(nums.size()+1,vector<int>(nums.size()+1,-1));
+        return maxlengthLIS(nums,0,-1,dp);
+    }  
+    int maxlengthLIS(vector<int>&nums,int ind,int prev, vector<vector<int>>&dp)
     {
-        int n = nums.size(); 
-        vector<vector<int>>dp(n,vector<int>(n+1,-1));
-        return longestLIS(n - 1, n, nums,dp);  
-    } 
-
-    int longestLIS(int ind, int prev, vector<int>& nums,vector<vector<int>>&dp)
-    {
-        if (ind == 0)  
+        if(ind>=nums.size())
         {
-            if (prev == nums.size() || nums[0] < nums[prev])  
-                {
-                    return 1;
-                }
             return 0;
-        }
-
-        if(dp[ind][prev]!=-1)
+        } 
+        if(dp[ind][prev+1]!=-1)
         {
-            return dp[ind][prev];
+            return dp[ind][prev+1];
         }
-        int nottake = longestLIS(ind - 1, prev, nums,dp);
-        int take = 0;
-
-        if (prev==nums.size()||nums[ind] < nums[prev]) 
-        {   
-            take = 1 + longestLIS(ind - 1, ind, nums,dp);
-        }
-
-        return dp[ind][prev]=max(take, nottake);
+        int len1=0+maxlengthLIS(nums,ind+1,prev,dp);  //not take  
+        int len2=0;
+        if(prev==-1 || nums[ind]>nums[prev])
+        {
+             len2=1+maxlengthLIS(nums,ind+1,ind,dp);
+        } 
+        return dp[ind][prev+1]=max(len1,len2);
     }
+
 };
