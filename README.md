@@ -43,6 +43,7 @@ LeetCode Solution
 | [0575-distribute-candies](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0575-distribute-candies) |
 | [0665-non-decreasing-array](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0665-non-decreasing-array) |
 | [0695-max-area-of-island](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0695-max-area-of-island) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0733-flood-fill](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0733-flood-fill) |
 | [0747-min-cost-climbing-stairs](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0747-min-cost-climbing-stairs) |
 | [0890-lemonade-change](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0890-lemonade-change) |
@@ -316,6 +317,7 @@ LeetCode Solution
 | [0542-01-matrix](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0542-01-matrix) |
 | [0583-delete-operation-for-two-strings](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0583-delete-operation-for-two-strings) |
 | [0678-valid-parenthesis-string](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0678-valid-parenthesis-string) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0747-min-cost-climbing-stairs](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0747-min-cost-climbing-stairs) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0943-sum-of-subarray-minimums](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0943-sum-of-subarray-minimums) |
@@ -466,6 +468,7 @@ LeetCode Solution
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0455-assign-cookies) |
 | [0678-valid-parenthesis-string](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0678-valid-parenthesis-string) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0768-partition-labels](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0768-partition-labels) |
 | [0890-lemonade-change](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0890-lemonade-change) |
 | [1159-smallest-subsequence-of-distinct-characters](https://github.com/rahulkamble2026rk/Leetcode/tree/master/1159-smallest-subsequence-of-distinct-characters) |
