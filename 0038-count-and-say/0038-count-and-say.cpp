@@ -22,12 +22,16 @@ public:
         string newstring=""; 
         int count = 1;
 
-        for (int j = 1; j <= str.size(); j++) {
-            if (j < str.size() && str[j] == str[j - 1]) {
+        for (int j = 0; j < str.size(); j++)  
+        {
+            if (j+1<str.size() && str[j] == str[j+1])  
+            {
                 count++;
-            } else {
+            }  
+            else  
+            {
                 newstring += to_string(count);
-                newstring += str[j - 1];
+                newstring += str[j];
                 count = 1;
             }
         }
