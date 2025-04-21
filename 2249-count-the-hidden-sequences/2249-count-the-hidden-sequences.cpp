@@ -8,7 +8,9 @@ public:
             sum+=i; 
             maxi=max(maxi,sum); 
             mini=min(mini,sum);
-        } 
-        return max(0L, upper - lower - maxi + mini + 1);
+        }  
+        int Bound=upper-lower; 
+        int Range=maxi-mini;
+        return max(0, (Bound-Range )+1);
     }
 };
