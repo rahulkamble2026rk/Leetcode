@@ -129,6 +129,7 @@ LeetCode Solution
 | [3643-zero-array-transformation-ii](https://github.com/rahulkamble2026rk/Leetcode/tree/master/3643-zero-array-transformation-ii) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/rahulkamble2026rk/Leetcode/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/rahulkamble2026rk/Leetcode/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
+| [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/rahulkamble2026rk/Leetcode/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 | [3738-make-array-non-decreasing](https://github.com/rahulkamble2026rk/Leetcode/tree/master/3738-make-array-non-decreasing) |
 | [3764-maximum-sum-with-at-most-k-elements](https://github.com/rahulkamble2026rk/Leetcode/tree/master/3764-maximum-sum-with-at-most-k-elements) |
 | [3773-minimum-pair-removal-to-sort-array-i](https://github.com/rahulkamble2026rk/Leetcode/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
