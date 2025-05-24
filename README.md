@@ -120,6 +120,7 @@ LeetCode Solution
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/rahulkamble2026rk/Leetcode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/rahulkamble2026rk/Leetcode/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 | [3176-minimum-sum-of-mountain-triplets-i](https://github.com/rahulkamble2026rk/Leetcode/tree/master/3176-minimum-sum-of-mountain-triplets-i) |
+| [3194-find-words-containing-character](https://github.com/rahulkamble2026rk/Leetcode/tree/master/3194-find-words-containing-character) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/rahulkamble2026rk/Leetcode/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3227-find-missing-and-repeated-values](https://github.com/rahulkamble2026rk/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/rahulkamble2026rk/Leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
@@ -301,6 +302,7 @@ LeetCode Solution
 | [2536-determine-if-two-events-have-conflict](https://github.com/rahulkamble2026rk/Leetcode/tree/master/2536-determine-if-two-events-have-conflict) |
 | [2700-substring-xor-queries](https://github.com/rahulkamble2026rk/Leetcode/tree/master/2700-substring-xor-queries) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/rahulkamble2026rk/Leetcode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
+| [3194-find-words-containing-character](https://github.com/rahulkamble2026rk/Leetcode/tree/master/3194-find-words-containing-character) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/rahulkamble2026rk/Leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3447-clear-digits](https://github.com/rahulkamble2026rk/Leetcode/tree/master/3447-clear-digits) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/rahulkamble2026rk/Leetcode/tree/master/3455-minimum-length-of-string-after-operations) |
