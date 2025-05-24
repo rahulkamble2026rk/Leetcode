@@ -136,6 +136,7 @@ LeetCode Solution
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/rahulkamble2026rk/Leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3483-alternating-groups-ii](https://github.com/rahulkamble2026rk/Leetcode/tree/master/3483-alternating-groups-ii) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/rahulkamble2026rk/Leetcode/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
+| [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/rahulkamble2026rk/Leetcode/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/rahulkamble2026rk/Leetcode/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3639-zero-array-transformation-i](https://github.com/rahulkamble2026rk/Leetcode/tree/master/3639-zero-array-transformation-i) |
 | [3643-zero-array-transformation-ii](https://github.com/rahulkamble2026rk/Leetcode/tree/master/3643-zero-array-transformation-ii) |
@@ -534,6 +535,7 @@ LeetCode Solution
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/rahulkamble2026rk/Leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2509-minimize-xor](https://github.com/rahulkamble2026rk/Leetcode/tree/master/2509-minimize-xor) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/rahulkamble2026rk/Leetcode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
+| [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/rahulkamble2026rk/Leetcode/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 | [3738-make-array-non-decreasing](https://github.com/rahulkamble2026rk/Leetcode/tree/master/3738-make-array-non-decreasing) |
 | [3764-maximum-sum-with-at-most-k-elements](https://github.com/rahulkamble2026rk/Leetcode/tree/master/3764-maximum-sum-with-at-most-k-elements) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/rahulkamble2026rk/Leetcode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
@@ -557,6 +559,7 @@ LeetCode Solution
 | [2888-minimum-index-of-a-valid-split](https://github.com/rahulkamble2026rk/Leetcode/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3321-type-of-triangle](https://github.com/rahulkamble2026rk/Leetcode/tree/master/3321-type-of-triangle) |
 | [3430-count-days-without-meetings](https://github.com/rahulkamble2026rk/Leetcode/tree/master/3430-count-days-without-meetings) |
+| [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/rahulkamble2026rk/Leetcode/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/rahulkamble2026rk/Leetcode/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 | [3764-maximum-sum-with-at-most-k-elements](https://github.com/rahulkamble2026rk/Leetcode/tree/master/3764-maximum-sum-with-at-most-k-elements) |
 ## Data Stream
