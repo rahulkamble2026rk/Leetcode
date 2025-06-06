@@ -55,6 +55,7 @@ LeetCode Solution
 | [0952-word-subsets](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0952-word-subsets) |
 | [0966-binary-subarrays-with-sum](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0966-binary-subarrays-with-sum) |
 | [0967-minimum-falling-path-sum](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0967-minimum-falling-path-sum) |
+| [1032-satisfiability-of-equality-equations](https://github.com/rahulkamble2026rk/Leetcode/tree/master/1032-satisfiability-of-equality-equations) |
 | [1034-subarrays-with-k-different-integers](https://github.com/rahulkamble2026rk/Leetcode/tree/master/1034-subarrays-with-k-different-integers) |
 | [1036-rotting-oranges](https://github.com/rahulkamble2026rk/Leetcode/tree/master/1036-rotting-oranges) |
 | [1039-find-the-town-judge](https://github.com/rahulkamble2026rk/Leetcode/tree/master/1039-find-the-town-judge) |
@@ -284,6 +285,7 @@ LeetCode Solution
 | [0678-valid-parenthesis-string](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0768-partition-labels](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0768-partition-labels) |
 | [0952-word-subsets](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0952-word-subsets) |
+| [1032-satisfiability-of-equality-equations](https://github.com/rahulkamble2026rk/Leetcode/tree/master/1032-satisfiability-of-equality-equations) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/rahulkamble2026rk/Leetcode/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1133-last-substring-in-lexicographical-order](https://github.com/rahulkamble2026rk/Leetcode/tree/master/1133-last-substring-in-lexicographical-order) |
 | [1159-smallest-subsequence-of-distinct-characters](https://github.com/rahulkamble2026rk/Leetcode/tree/master/1159-smallest-subsequence-of-distinct-characters) |
@@ -681,6 +683,7 @@ LeetCode Solution
 | [0684-redundant-connection](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0695-max-area-of-island) |
 | [0801-is-graph-bipartite](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0801-is-graph-bipartite) |
+| [1032-satisfiability-of-equality-equations](https://github.com/rahulkamble2026rk/Leetcode/tree/master/1032-satisfiability-of-equality-equations) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/rahulkamble2026rk/Leetcode/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1073-number-of-enclaves](https://github.com/rahulkamble2026rk/Leetcode/tree/master/1073-number-of-enclaves) |
 | [1396-count-servers-that-communicate](https://github.com/rahulkamble2026rk/Leetcode/tree/master/1396-count-servers-that-communicate) |
@@ -700,6 +703,7 @@ LeetCode Solution
 | [0813-all-paths-from-source-to-target](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0813-all-paths-from-source-to-target) |
 | [0820-find-eventual-safe-states](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0820-find-eventual-safe-states) |
 | [0871-keys-and-rooms](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0871-keys-and-rooms) |
+| [1032-satisfiability-of-equality-equations](https://github.com/rahulkamble2026rk/Leetcode/tree/master/1032-satisfiability-of-equality-equations) |
 | [1039-find-the-town-judge](https://github.com/rahulkamble2026rk/Leetcode/tree/master/1039-find-the-town-judge) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/rahulkamble2026rk/Leetcode/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/rahulkamble2026rk/Leetcode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
