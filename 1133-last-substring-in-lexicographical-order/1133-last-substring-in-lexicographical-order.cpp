@@ -22,17 +22,17 @@ class Solution {
 public:
     string lastSubstring(string s) {
         char maxChar = *max_element(s.begin(), s.end());
-        std::string_view best = "";
+        string_view best = "";
 
         for (int i = 0; i < s.size(); ++i) {
             if (s[i] == maxChar) {
-                std::string_view candidate = std::string_view(s).substr(i);
+              string_view candidate = string_view(s).substr(i);
                 if (candidate > best) {
                     best = candidate;
                 }
             }
         }
 
-        return std::string(best);
+        return string(best);
     }
 };
