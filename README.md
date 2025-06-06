@@ -283,6 +283,7 @@ LeetCode Solution
 | [0678-valid-parenthesis-string](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0768-partition-labels](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0768-partition-labels) |
 | [0952-word-subsets](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0952-word-subsets) |
+| [1058-lexicographically-smallest-equivalent-string](https://github.com/rahulkamble2026rk/Leetcode/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1159-smallest-subsequence-of-distinct-characters](https://github.com/rahulkamble2026rk/Leetcode/tree/master/1159-smallest-subsequence-of-distinct-characters) |
 | [1170-shortest-common-supersequence](https://github.com/rahulkamble2026rk/Leetcode/tree/master/1170-shortest-common-supersequence) |
 | [1250-longest-common-subsequence](https://github.com/rahulkamble2026rk/Leetcode/tree/master/1250-longest-common-subsequence) |
@@ -672,6 +673,7 @@ LeetCode Solution
 | [0684-redundant-connection](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0695-max-area-of-island) |
 | [0801-is-graph-bipartite](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0801-is-graph-bipartite) |
+| [1058-lexicographically-smallest-equivalent-string](https://github.com/rahulkamble2026rk/Leetcode/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1073-number-of-enclaves](https://github.com/rahulkamble2026rk/Leetcode/tree/master/1073-number-of-enclaves) |
 | [1396-count-servers-that-communicate](https://github.com/rahulkamble2026rk/Leetcode/tree/master/1396-count-servers-that-communicate) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/rahulkamble2026rk/Leetcode/tree/master/1442-number-of-operations-to-make-network-connected) |
