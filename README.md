@@ -195,6 +195,7 @@ LeetCode Solution
 | [3420-find-occurrences-of-an-element-in-an-array](https://github.com/rahulkamble2026rk/Leetcode/tree/master/3420-find-occurrences-of-an-element-in-an-array) |
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/rahulkamble2026rk/Leetcode/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/rahulkamble2026rk/Leetcode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
+| [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/rahulkamble2026rk/Leetcode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/rahulkamble2026rk/Leetcode/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/rahulkamble2026rk/Leetcode/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/rahulkamble2026rk/Leetcode/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
@@ -311,6 +312,7 @@ LeetCode Solution
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/rahulkamble2026rk/Leetcode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3194-find-words-containing-character](https://github.com/rahulkamble2026rk/Leetcode/tree/master/3194-find-words-containing-character) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/rahulkamble2026rk/Leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+| [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/rahulkamble2026rk/Leetcode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3447-clear-digits](https://github.com/rahulkamble2026rk/Leetcode/tree/master/3447-clear-digits) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/rahulkamble2026rk/Leetcode/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/rahulkamble2026rk/Leetcode/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
@@ -484,6 +486,7 @@ LeetCode Solution
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/rahulkamble2026rk/Leetcode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2227-sum-of-subarray-ranges](https://github.com/rahulkamble2026rk/Leetcode/tree/master/2227-sum-of-subarray-ranges) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/rahulkamble2026rk/Leetcode/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
+| [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/rahulkamble2026rk/Leetcode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3447-clear-digits](https://github.com/rahulkamble2026rk/Leetcode/tree/master/3447-clear-digits) |
 | [3738-make-array-non-decreasing](https://github.com/rahulkamble2026rk/Leetcode/tree/master/3738-make-array-non-decreasing) |
 ## Design
@@ -544,6 +547,7 @@ LeetCode Solution
 | [2509-minimize-xor](https://github.com/rahulkamble2026rk/Leetcode/tree/master/2509-minimize-xor) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/rahulkamble2026rk/Leetcode/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/rahulkamble2026rk/Leetcode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
+| [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/rahulkamble2026rk/Leetcode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/rahulkamble2026rk/Leetcode/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 | [3738-make-array-non-decreasing](https://github.com/rahulkamble2026rk/Leetcode/tree/master/3738-make-array-non-decreasing) |
 | [3764-maximum-sum-with-at-most-k-elements](https://github.com/rahulkamble2026rk/Leetcode/tree/master/3764-maximum-sum-with-at-most-k-elements) |
@@ -722,6 +726,7 @@ LeetCode Solution
 | [2434-design-a-number-container-system](https://github.com/rahulkamble2026rk/Leetcode/tree/master/2434-design-a-number-container-system) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/rahulkamble2026rk/Leetcode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/rahulkamble2026rk/Leetcode/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
+| [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/rahulkamble2026rk/Leetcode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3764-maximum-sum-with-at-most-k-elements](https://github.com/rahulkamble2026rk/Leetcode/tree/master/3764-maximum-sum-with-at-most-k-elements) |
 | [3773-minimum-pair-removal-to-sort-array-i](https://github.com/rahulkamble2026rk/Leetcode/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
 ## Shortest Path
