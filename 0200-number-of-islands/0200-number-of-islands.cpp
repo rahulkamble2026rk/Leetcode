@@ -1,50 +1,42 @@
 class Solution {
 public:
-    int numIslands(vector<vector<char>>& grid) 
-    {
-        int n=grid.size(); 
-        int m=grid[0].size(); 
-
-        vector<vector<int>>visited(n,vector<int>(m,0));
-        vector<int>delrow={0,0,-1,1}; 
-        vector<int>delcol={1,-1,0,0};      
-        int count=0;
-        for(int i=0;i<n;i++)
+    int numIslands(vector<vector<char>>& grid)  
+    { 
+        int m=grid.size(); 
+        int n=grid[0].size(); 
+        int islands=0; 
+        vector<int>delrow={0,0,+1,-1}; 
+        vector<int>delcol={+1,-1,0,0};
+        vector<vector<int>>visited(m,vector<int>(n,0)); 
+        for(int i=0;i<visited.size();i++)
         {
-            for(int j=0;j<m;j++)
+            for(int j=0;j<visited[i].size();j++)
             {
-                if(visited[i][j]==0 && grid[i][j]=='1')
+                if(!visited[i][j] && grid[i][j]=='1')
                 {
-                    count++; 
-                    bfs(i,j,visited,grid,delrow,delcol);
+                    islands++;  
+                    dfs(visited,grid[i][j],i,j,grid,delrow,delcol);
                 }
             }
         } 
-        return count;
+        return islands;
     } 
-    void bfs(int row,int col,vector<vector<int>>&visited,vector<vector<char>>grid,vector<int>delrow,vector<int>delcol)
+
+    void dfs(vector<vector<int>>&visited,char ch,int x,int y,vector<vector<char>>& grid,vector<int>delrow,vector<int>delcol) 
     {
-        visited[row][col]=1; 
-        queue<pair<int,int>>que; 
-        que.push({row,col}); 
+            visited[x][y]=1; 
+           for(int i=0;i<4;i++)
+           {
+            int new_x=x+delrow[i]; 
+            int new_y=y+delcol[i]; 
 
-        while(!que.empty())
-        {
-            int curr_row=que.front().first; 
-            int curr_col=que.front().second; 
-            que.pop();  
-
-            for(int i=0;i<4;i++)
-            {
-                int newrow=curr_row+delrow[i]; 
-                int newcol=curr_col+delcol[i]; 
-                if(newrow>=0 && newrow<grid.size() && newcol>=0 && newcol<grid[0].size() && visited[newrow][newcol]==0 && grid[newrow][newcol]=='1')
-                {
-                    visited[newrow][newcol]=1; 
-                    que.push({newrow,newcol});
-                }
+            if(new_x>=0 && new_x<visited.size() && new_y>=0 && new_y<visited[0].size() && visited[new_x][new_y]!=1 && grid[new_x][new_y]=='1')
+            {   
+                /*  if we remove tehj grid[new_x][new_y]=='1' , our DFS will visit and mark water ('0') as visited.
+                    You’ll end up merging land and water into one component.
+                    You may incorrectly count water as part of an island.*/
+                dfs(visited,grid[new_x][new_y],new_x,new_y,grid,delrow,delcol);
             }
-
-        }
+           }
     }
 };
