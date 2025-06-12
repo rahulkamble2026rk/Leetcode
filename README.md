@@ -146,6 +146,7 @@ LeetCode Solution
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/rahulkamble2026rk/Leetcode/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/rahulkamble2026rk/Leetcode/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 | [3738-make-array-non-decreasing](https://github.com/rahulkamble2026rk/Leetcode/tree/master/3738-make-array-non-decreasing) |
+| [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/rahulkamble2026rk/Leetcode/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 | [3764-maximum-sum-with-at-most-k-elements](https://github.com/rahulkamble2026rk/Leetcode/tree/master/3764-maximum-sum-with-at-most-k-elements) |
 | [3773-minimum-pair-removal-to-sort-array-i](https://github.com/rahulkamble2026rk/Leetcode/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/rahulkamble2026rk/Leetcode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
