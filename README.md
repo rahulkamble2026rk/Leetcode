@@ -75,6 +75,7 @@ LeetCode Solution
 | [1524-string-matching-in-an-array](https://github.com/rahulkamble2026rk/Leetcode/tree/master/1524-string-matching-in-an-array) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/rahulkamble2026rk/Leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1656-count-good-triplets](https://github.com/rahulkamble2026rk/Leetcode/tree/master/1656-count-good-triplets) |
+| [1663-detect-cycles-in-2d-grid](https://github.com/rahulkamble2026rk/Leetcode/tree/master/1663-detect-cycles-in-2d-grid) |
 | [1704-special-positions-in-a-binary-matrix](https://github.com/rahulkamble2026rk/Leetcode/tree/master/1704-special-positions-in-a-binary-matrix) |
 | [1876-map-of-highest-peak](https://github.com/rahulkamble2026rk/Leetcode/tree/master/1876-map-of-highest-peak) |
 | [1901-equal-sum-arrays-with-minimum-number-of-operations](https://github.com/rahulkamble2026rk/Leetcode/tree/master/1901-equal-sum-arrays-with-minimum-number-of-operations) |
@@ -420,6 +421,7 @@ LeetCode Solution
 | [1171-shortest-path-in-binary-matrix](https://github.com/rahulkamble2026rk/Leetcode/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1396-count-servers-that-communicate](https://github.com/rahulkamble2026rk/Leetcode/tree/master/1396-count-servers-that-communicate) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/rahulkamble2026rk/Leetcode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+| [1663-detect-cycles-in-2d-grid](https://github.com/rahulkamble2026rk/Leetcode/tree/master/1663-detect-cycles-in-2d-grid) |
 | [1704-special-positions-in-a-binary-matrix](https://github.com/rahulkamble2026rk/Leetcode/tree/master/1704-special-positions-in-a-binary-matrix) |
 | [1876-map-of-highest-peak](https://github.com/rahulkamble2026rk/Leetcode/tree/master/1876-map-of-highest-peak) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/rahulkamble2026rk/Leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
@@ -465,6 +467,7 @@ LeetCode Solution
 | [1396-count-servers-that-communicate](https://github.com/rahulkamble2026rk/Leetcode/tree/master/1396-count-servers-that-communicate) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/rahulkamble2026rk/Leetcode/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/rahulkamble2026rk/Leetcode/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
+| [1663-detect-cycles-in-2d-grid](https://github.com/rahulkamble2026rk/Leetcode/tree/master/1663-detect-cycles-in-2d-grid) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/rahulkamble2026rk/Leetcode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2793-count-the-number-of-complete-components](https://github.com/rahulkamble2026rk/Leetcode/tree/master/2793-count-the-number-of-complete-components) |
 ## Trie
@@ -692,6 +695,7 @@ LeetCode Solution
 | [1442-number-of-operations-to-make-network-connected](https://github.com/rahulkamble2026rk/Leetcode/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/rahulkamble2026rk/Leetcode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/rahulkamble2026rk/Leetcode/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
+| [1663-detect-cycles-in-2d-grid](https://github.com/rahulkamble2026rk/Leetcode/tree/master/1663-detect-cycles-in-2d-grid) |
 | [1876-map-of-highest-peak](https://github.com/rahulkamble2026rk/Leetcode/tree/master/1876-map-of-highest-peak) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/rahulkamble2026rk/Leetcode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2793-count-the-number-of-complete-components](https://github.com/rahulkamble2026rk/Leetcode/tree/master/2793-count-the-number-of-complete-components) |
@@ -711,6 +715,7 @@ LeetCode Solution
 | [1073-number-of-enclaves](https://github.com/rahulkamble2026rk/Leetcode/tree/master/1073-number-of-enclaves) |
 | [1396-count-servers-that-communicate](https://github.com/rahulkamble2026rk/Leetcode/tree/master/1396-count-servers-that-communicate) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/rahulkamble2026rk/Leetcode/tree/master/1442-number-of-operations-to-make-network-connected) |
+| [1663-detect-cycles-in-2d-grid](https://github.com/rahulkamble2026rk/Leetcode/tree/master/1663-detect-cycles-in-2d-grid) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/rahulkamble2026rk/Leetcode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2793-count-the-number-of-complete-components](https://github.com/rahulkamble2026rk/Leetcode/tree/master/2793-count-the-number-of-complete-components) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/rahulkamble2026rk/Leetcode/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
