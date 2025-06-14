@@ -273,6 +273,7 @@ LeetCode Solution
 | [2595-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/rahulkamble2026rk/Leetcode/tree/master/2595-smallest-value-after-replacing-with-sum-of-prime-factors) |
 | [2610-closest-prime-numbers-in-range](https://github.com/rahulkamble2026rk/Leetcode/tree/master/2610-closest-prime-numbers-in-range) |
 | [2649-count-total-number-of-colored-cells](https://github.com/rahulkamble2026rk/Leetcode/tree/master/2649-count-total-number-of-colored-cells) |
+| [2704-maximum-difference-by-remapping-a-digit](https://github.com/rahulkamble2026rk/Leetcode/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/rahulkamble2026rk/Leetcode/tree/master/2802-find-the-punishment-number-of-an-integer) |
 | [2998-count-symmetric-integers](https://github.com/rahulkamble2026rk/Leetcode/tree/master/2998-count-symmetric-integers) |
 | [3227-find-missing-and-repeated-values](https://github.com/rahulkamble2026rk/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
@@ -563,6 +564,7 @@ LeetCode Solution
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/rahulkamble2026rk/Leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2509-minimize-xor](https://github.com/rahulkamble2026rk/Leetcode/tree/master/2509-minimize-xor) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/rahulkamble2026rk/Leetcode/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
+| [2704-maximum-difference-by-remapping-a-digit](https://github.com/rahulkamble2026rk/Leetcode/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/rahulkamble2026rk/Leetcode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/rahulkamble2026rk/Leetcode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/rahulkamble2026rk/Leetcode/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
