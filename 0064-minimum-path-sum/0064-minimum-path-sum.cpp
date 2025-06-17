@@ -1,33 +1,31 @@
+
 class Solution {
 public:
-    int minPathSum(vector<vector<int>>& grid)  
-    {
-      int m=grid.size(); 
-        int n=grid[0].size();  
-        vector<vector<int>>dp(m,vector<int>(n,-1));
-        return count(m-1,n-1,grid,dp);
+    int minPathSum(vector<vector<int>>& grid) 
+    {  
+        //1.by using the Memoization:  
+        int m=grid.size(); 
+        int n=grid[0].size();
+        vector<vector<int>>dp(m+1,vector<int>(n+1,-1));
+        return totaluniquepath(grid,0,0,dp);
     } 
-    int count(int i,int j,vector<vector<int>>& obstacleGrid,vector<vector<int>>&dp)
-    {    
-        if(i<0 || j<0)   //this part will get consider
+    int totaluniquepath(vector<vector<int>>& obstacleGrid,int i, int j,vector<vector<int>>&dp)
+    {   
+         if(i>=obstacleGrid.size() || j>=obstacleGrid[0].size()) 
         {
-            return INT_MAX;
-        }  
-
-        if(i==0 && j==0) 
+            return 1e9;
+        } 
+        if(i==obstacleGrid.size()-1 && j==obstacleGrid[0].size()-1)
         {
-            return obstacleGrid[0][0];
-        }  
-
+            return obstacleGrid[i][j];
+        } 
+         
         if(dp[i][j]!=-1)
         {
             return dp[i][j];
         }
-        
-        
-        
-        int up = (i > 0) ?count(i-1,j,obstacleGrid,dp): INT_MAX;
-       int left = (j > 0) ?count(i,j-1,obstacleGrid,dp) : INT_MAX;
-        return dp[i][j]=obstacleGrid[i][j]+min(up,left);
-    } 
-};
+        int right=totaluniquepath(obstacleGrid,i,j+1,dp); 
+        int down=totaluniquepath(obstacleGrid,i+1,j,dp); 
+        return dp[i][j]=obstacleGrid[i][j]+min(right,down);
+    }
+}; 
