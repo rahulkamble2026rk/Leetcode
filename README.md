@@ -6,6 +6,7 @@ LeetCode Solution
 ## Array
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0035-search-insert-position) |
 | [0045-jump-game-ii](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0056-merge-intervals) |
@@ -605,6 +606,7 @@ LeetCode Solution
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0035-search-insert-position) |
 | [0300-longest-increasing-subsequence](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0456-132-pattern](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0456-132-pattern) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
