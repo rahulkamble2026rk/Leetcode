@@ -257,6 +257,7 @@ LeetCode Solution
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0062-unique-paths) |
+| [0069-sqrtx](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0070-climbing-stairs) |
 | [0096-unique-binary-search-trees](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0168-excel-sheet-column-title](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0168-excel-sheet-column-title) |
@@ -612,6 +613,7 @@ LeetCode Solution
 | [0033-search-in-rotated-sorted-array](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0069-sqrtx) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0456-132-pattern](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0456-132-pattern) |
