@@ -10,11 +10,11 @@ public:
             int count=ub-lb;  
             if(count==1)
             {
-                ans=nums[i];
-                break;
+                return ans=nums[i];
+                
             }
         } 
-        return ans;
+        return 0;
 
     }
 };
