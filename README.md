@@ -217,6 +217,7 @@ LeetCode Solution
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/rahulkamble2026rk/Leetcode/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/rahulkamble2026rk/Leetcode/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/rahulkamble2026rk/Leetcode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
+| [3754-maximum-manhattan-distance-after-k-changes](https://github.com/rahulkamble2026rk/Leetcode/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3773-minimum-pair-removal-to-sort-array-i](https://github.com/rahulkamble2026rk/Leetcode/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/rahulkamble2026rk/Leetcode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3797-design-spreadsheet](https://github.com/rahulkamble2026rk/Leetcode/tree/master/3797-design-spreadsheet) |
@@ -290,6 +291,7 @@ LeetCode Solution
 | [2998-count-symmetric-integers](https://github.com/rahulkamble2026rk/Leetcode/tree/master/2998-count-symmetric-integers) |
 | [3227-find-missing-and-repeated-values](https://github.com/rahulkamble2026rk/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3321-type-of-triangle](https://github.com/rahulkamble2026rk/Leetcode/tree/master/3321-type-of-triangle) |
+| [3754-maximum-manhattan-distance-after-k-changes](https://github.com/rahulkamble2026rk/Leetcode/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 ## String
 |  |
 | ------- |
@@ -340,6 +342,7 @@ LeetCode Solution
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/rahulkamble2026rk/Leetcode/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/rahulkamble2026rk/Leetcode/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/rahulkamble2026rk/Leetcode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
+| [3754-maximum-manhattan-distance-after-k-changes](https://github.com/rahulkamble2026rk/Leetcode/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/rahulkamble2026rk/Leetcode/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 | [3797-design-spreadsheet](https://github.com/rahulkamble2026rk/Leetcode/tree/master/3797-design-spreadsheet) |
 ## String Matching
@@ -654,6 +657,7 @@ LeetCode Solution
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/rahulkamble2026rk/Leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/rahulkamble2026rk/Leetcode/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/rahulkamble2026rk/Leetcode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
+| [3754-maximum-manhattan-distance-after-k-changes](https://github.com/rahulkamble2026rk/Leetcode/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 ## Two Pointers
 |  |
 | ------- |
