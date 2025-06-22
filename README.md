@@ -267,6 +267,7 @@ LeetCode Solution
 | [0070-climbing-stairs](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0070-climbing-stairs) |
 | [0096-unique-binary-search-trees](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0168-excel-sheet-column-title](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0168-excel-sheet-column-title) |
+| [0343-integer-break](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0343-integer-break) |
 | [0797-rabbits-in-forest](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0797-rabbits-in-forest) |
 | [0909-stone-game](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0909-stone-game) |
 | [1370-count-number-of-nice-subarrays](https://github.com/rahulkamble2026rk/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
@@ -391,6 +392,7 @@ LeetCode Solution
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0322-coin-change](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0322-coin-change) |
 | [0338-counting-bits](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0338-counting-bits) |
+| [0343-integer-break](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0343-integer-break) |
 | [0416-partition-equal-subset-sum](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0466-count-the-repetitions](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0466-count-the-repetitions) |
