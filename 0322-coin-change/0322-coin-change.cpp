@@ -1,40 +1,36 @@
 class Solution {
 public:
-    int coinChange(vector<int>& coins, int amount) 
+    int coinChange(vector<int>& coins, int W)  
     {   
-        int n=coins.size(); 
-        vector<vector<int>>dp(n,vector<int>(amount+1,-1));
-        int res=count(coins,amount,n-1,dp);
-        return (res>=1e9)?-1:res;
-    } 
-    int count(vector<int>coins,int amount,int ind,vector<vector<int>>&dp)
-    {
-        if(amount==0)
-        {
-            return 0;
-        }  
-        if(dp[ind][amount]!=-1)
-        {
-            return dp[ind][amount];
-        }
-        if(ind==0)
-        {
-            if(amount%coins[ind]==0)
-            {
-                return (amount/coins[ind]);
-            } 
-            else
-            {
-                return 1e9;
-            }
+        int n=coins.size();
+        vector<vector<int>>dp(coins.size(),vector<int>(W+1,1e9)); 
+
+    //1.Intialize the base condition : 
+    //if the  
+      for (int w = 0; w <= W; w++) 
+      {
+        if (w % coins[0] == 0) {
+                dp[0][w] = w / coins[0]; // take coin[0] as many times as needed
+            }  
         }
 
-        int nottake=0+count(coins,amount,ind-1,dp); 
-        int take=1e9; 
-        if(amount>=coins[ind])
-        {
-            take=1+count(coins,amount-coins[ind],ind,dp);  //as we are taking the element infinty so there is no need to take the ind-1 , beause we can take that element after word as well 
-        } 
-        return dp[ind][amount]=min(nottake,take);
+    //now interration .
+  
+     for(int i=1;i<n;i++)
+     {
+         for(int w=0;w<=W;w++)
+         {
+              int not_take=dp[i-1][w];  
+              int take=1e9;
+               if(coins[i]<=w) 
+               {
+                   take=1+dp[i][w-coins[i]];
+               } 
+               dp[i][w]=min(take,not_take);
+         }
+     } 
+     int ans = dp[n - 1][W];
+        return ans >= 1e9 ? -1 : ans;
     }
-};
+}; 
+
