@@ -6,19 +6,24 @@ public:
         int size2=text2.size(); 
         //1.recursion 
         //2.Memoization:  
-        //3.Tabulzaton:
-        vector<vector<int>>dp(size1+1,vector<int>(size2+1,0));  
+        //3.Tabulzaton: 
+        //4.Optimization: As here thre is use of the dp[i-1][j] ot dp[i][j-1] , so can do the optimization , 
+
+        // vector<vector<int>>dp(size1+1,vector<int>(size2+1,0));   
+
+        vector<int>prev(size2+1,0);  
+        vector<int>curr(size2+1,0); 
 
         //intilization : take the base case of teh memoization and start : 
-        for(int i=0;i<size1;i++)
-        {
-            dp[i][0]=0; 
-        } 
+        // for(int i=0;i<size1;i++)
+        // {
+        //     dp[i][0]=0; 
+        // } 
 
-        for(int j=0;j<size2;j++)
-        {
-            dp[0][j]=0;
-        }
+        // for(int j=0;j<size2;j++)
+        // {
+        //     dp[0][j]=0;
+        // }
        
          for(int i=1;i<=size1;i++)
          {
@@ -26,15 +31,16 @@ public:
             {
                 if(text1[i-1]==text2[j-1])
                 {
-                    dp[i][j]=1+dp[i-1][j-1];
+                    curr[j]=1+prev[j-1];
                 }  
                 else 
                 {
-                    dp[i][j]=max(dp[i-1][j],dp[i][j-1]);
+                    curr[j]=max(prev[j],curr[j-1]);
                 }
             }
+            prev=curr;
          } 
-         return dp[size1][size2];
+         return prev[size2];
         // return longestSub(size1-1,size2-1,text1,text2,dp);
     } 
     int longestSub(int ind1,int ind2,string s1,string s2, vector<vector<int>>&dp)
