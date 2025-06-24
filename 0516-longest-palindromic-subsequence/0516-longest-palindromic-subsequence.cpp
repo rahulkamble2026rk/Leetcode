@@ -11,12 +11,12 @@ public:
         //tabilzation:
         vector<vector<int>>dp(size1+1,vector<int>(size1+1,0)); 
 
-        for(int i=0;i<size1;i++)
+        for(int i=0;i<=size1;i++)
         {
             dp[i][0]=0;
         } 
 
-        for(int j=0;j<size1;j++)
+        for(int j=0;j<=size1;j++)
         {
             dp[0][j]=0;
         }  
@@ -39,7 +39,17 @@ public:
                     dp[i][j]=max(take1,take2);
                 }
             }
-        }
+        } 
+
+
+        // for(int i=0;i<=size1;i++)
+        // {
+        //     for(int j=0;j<=size1;j++)
+        //     {
+        //         cout<<"dp["<<i<<"]["<<j<<"] => "<<dp[i][j]<<" , ";
+        //     } 
+        //     cout<<endl;
+        // }
         // return countLongestPallindromic(size1-1,size1-1,s,p,dp);    
         return dp[size1][size1];
     }  
