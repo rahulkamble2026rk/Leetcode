@@ -8,7 +8,7 @@ public:
         string p=s; 
         reverse(p.begin(),p.end());  
         vector<vector<int>>dp(size1+1,vector<int>(size1+1,-1));
-        return countLongestPallindromic(size1,size1,s,p,dp)-1;   
+        return countLongestPallindromic(size1-1,size1-1,s,p,dp);   
     }  
     int countLongestPallindromic(int ind1,int ind2,string&first,string&second,vector<vector<int>>&dp)
     {   
