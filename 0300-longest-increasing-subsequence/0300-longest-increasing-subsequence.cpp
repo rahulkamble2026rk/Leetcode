@@ -1,71 +1,58 @@
 // class Solution {
 // public:
 //     int lengthOfLIS(vector<int>& nums)  
-//     { 
-//         vector<vector<int>>dp(nums.size()+1,vector<int>(nums.size()+1,-1));
-//         return maxlengthLIS(nums,0,-1,dp);
-//     }  
-//     int maxlengthLIS(vector<int>&nums,int ind,int prev, vector<vector<int>>&dp)
 //     {
-//         if(ind>=nums.size())
+//         //we have to find the increasing subsequence: subsequence means either take or not take and also contain the previous element index so in the future we can take the increasing numbers only , so :
+//         return LIS(nums,0, -1);   // intially take the previos index as -1
+//     }  
+
+//     int LIS(vector<int>&nums,int ind ,int prev_index) 
+//     {
+//         //Base condition: 
+//         if(ind==nums.size())
 //         {
 //             return 0;
-//         } 
-//         if(dp[ind][prev+1]!=-1)
-//         {
-//             return dp[ind][prev+1];
 //         }
-//         int len1=0+maxlengthLIS(nums,ind+1,prev,dp);  //not take  
-//         int len2=0;
-//         if(prev==-1 || nums[ind]>nums[prev])
-//         {
-//              len2=1+maxlengthLIS(nums,ind+1,ind,dp);
-//         } 
-//         return dp[ind][prev+1]=max(len1,len2);
+//          //either take , or not 
+
+//          int not_take=0+LIS(nums,ind+1,prev_index); //as we does not take current element so prev index remains same 
+          
+//           int take=-1e9; 
+//           if(prev_index==-1 || nums[ind]>nums[prev_index])
+//           {
+//              take=1+LIS(nums,ind+1,ind);   //current element will become the next element's prev index;
+//           } 
+//           return max(take,not_take);
+    
 //     }
 
-// }; 
+// };
 
 
 class Solution {
 public:
     int lengthOfLIS(vector<int>& nums)  
-    { 
-        vector<vector<int>>dp(nums.size()+1,vector<int>(nums.size()+1,0)); 
-
-        for(int ind=nums.size()-1;ind>=0;ind--)
-        {
-            for(int prev=ind-1;prev>=-1;prev--)
-            {
-                int not_take=dp[ind+1][prev+1]; 
-                int take=0; 
-
-                if(prev==-1 || nums[ind]>nums[prev])
-                {
-                    take=1+dp[ind+1][ind+1];
-                } 
-                dp[ind][prev+1]=max(take,not_take);
-            }
-        }
-        return dp[0][0];
-    }  
-    int maxlengthLIS(vector<int>&nums,int ind,int prev, vector<vector<int>>&dp)
-    {
-        if(ind>=nums.size())
-        {
-            return 0;
-        } 
-        if(dp[ind][prev+1]!=-1)
-        {
-            return dp[ind][prev+1];
-        }
-        int len1=0+maxlengthLIS(nums,ind+1,prev,dp);  //not take  
-        int len2=0;
-        if(prev==-1 || nums[ind]>nums[prev])
-        {
-             len2=1+maxlengthLIS(nums,ind+1,ind,dp);
-        } 
-        return dp[ind][prev+1]=max(len1,len2);
+    {  
+        vector<vector<int>>dp(nums.size(),vector<int>(nums.size()+1,-1));  
+        //we wana to store the ind and prev_index , but the intailly the prev_index is getting start from the -1 , so which not feasible for us , to access the -1
+        return LIS(nums, 0, -1,dp);
     }
 
+    int LIS(vector<int>& nums, int ind, int prev_index,vector<vector<int>>&dp) {
+        if (ind == nums.size()) {
+            return 0;
+        }
+
+        if(dp[ind][prev_index+1]!=-1)     ///Beacause if we use prev_index=-1 intiallly then that might be wrong , so prev_index+1
+        {
+            return dp[ind][prev_index+1];
+        }
+        int not_take = LIS(nums, ind + 1, prev_index,dp);
+        int take = INT_MIN;
+        if (prev_index == -1 || nums[ind] > nums[prev_index]) {
+            take = 1 + LIS(nums, ind + 1, ind,dp);
+        }
+
+        return dp[ind][prev_index+1]=max(take, not_take);
+    }
 };
