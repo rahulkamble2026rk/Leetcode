@@ -92,6 +92,7 @@ LeetCode Solution
 | [2048-build-array-from-permutation](https://github.com/rahulkamble2026rk/Leetcode/tree/master/2048-build-array-from-permutation) |
 | [2107-find-unique-binary-string](https://github.com/rahulkamble2026rk/Leetcode/tree/master/2107-find-unique-binary-string) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/rahulkamble2026rk/Leetcode/tree/master/2144-maximum-difference-between-increasing-elements) |
+| [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/rahulkamble2026rk/Leetcode/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/rahulkamble2026rk/Leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/rahulkamble2026rk/Leetcode/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/rahulkamble2026rk/Leetcode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
@@ -639,6 +640,7 @@ LeetCode Solution
 | [0907-koko-eating-bananas](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0907-koko-eating-bananas) |
 | [1046-max-consecutive-ones-iii](https://github.com/rahulkamble2026rk/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/rahulkamble2026rk/Leetcode/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
+| [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/rahulkamble2026rk/Leetcode/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/rahulkamble2026rk/Leetcode/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/rahulkamble2026rk/Leetcode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/rahulkamble2026rk/Leetcode/tree/master/2394-count-subarrays-with-score-less-than-k) |
