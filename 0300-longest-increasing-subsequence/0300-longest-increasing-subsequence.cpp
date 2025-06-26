@@ -58,27 +58,87 @@
 // }; 
 
 
+// class Solution {
+// public:
+//     int lengthOfLIS(vector<int>& nums)  
+//     { 
+//         vector<vector<int>>dp(nums.size()+1,vector<int>(nums.size()+1,0)); 
+//         //as we cannot access the -1 index of the dp table so that's why we are using the nums.size()+1 
+
+//         for(int ind=nums.size()-1;ind>=0;ind--)
+//         {
+//             for(int prev_index=ind-1;prev_index>=-1;prev_index--)
+//             {
+//                 int not_take = dp[ind + 1][prev_index+1];
+//                 int take = INT_MIN;
+//                 if (prev_index == -1 || nums[ind] > nums[prev_index])  
+//                 {
+//                     take = 1 + dp[ind+1][ind+1];
+//                 } 
+//                 dp[ind][prev_index+1]=max(take,not_take);
+        
+//             }
+//         } 
+//         return dp[0][-1+1];
+//     }
+// };
+
+
+// class Solution {
+// public:
+//     int lengthOfLIS(vector<int>& nums)  
+//     { 
+//         vector<int>next(nums.size()+1,0) ,curr(nums.size()+1,0);
+        
+//         for(int ind=nums.size()-1;ind>=0;ind--)
+//         {
+//             for(int prev_index=ind-1;prev_index>=-1;prev_index--)
+//             {
+//                 int not_take = next[prev_index+1];
+//                 int take = INT_MIN;
+//                 if (prev_index == -1 || nums[ind] > nums[prev_index])  
+//                 {
+//                     take = 1 + next[ind+1];
+//                 } 
+//                 curr[prev_index+1]=max(take,not_take);
+        
+//             } 
+//             next=curr;
+//         } 
+//         return next[0];
+//     }
+// };
+ 
+
+//4.space optimization is nothing but techique in  which keep the whole code of the tabulation as it is
+//take one curr, next vector 
+//in the code use the next 
+//in the storing current use the curr
+//replace next=curr;
+//return next[-1][1];  
+
+
 class Solution {
 public:
     int lengthOfLIS(vector<int>& nums)  
-    { 
-        vector<vector<int>>dp(nums.size()+1,vector<int>(nums.size()+1,0)); 
-        //as we cannot access the -1 index of the dp table so that's why we are using the nums.size()+1 
+    {  
+        vector<int>dp(nums.size(),1); //Intially the length of the lis of the all number will be 1,by default   
 
-        for(int ind=nums.size()-1;ind>=0;ind--)
+
+        //comparing with the previos elements and check 
+
+        int maxi=1;
+        for(int ind=0;ind<nums.size();ind++)
         {
-            for(int prev_index=ind-1;prev_index>=-1;prev_index--)
+            for(int prev=0;prev<ind;prev++)
             {
-                int not_take = dp[ind + 1][prev_index+1];
-                int take = INT_MIN;
-                if (prev_index == -1 || nums[ind] > nums[prev_index])  
+                if(nums[prev]<nums[ind])
                 {
-                    take = 1 + dp[ind+1][ind+1];
-                } 
-                dp[ind][prev_index+1]=max(take,not_take);
-        
-            }
+                    dp[ind]=max(dp[ind],1+dp[prev]);
+                }
+            } 
+            maxi=max(maxi,dp[ind]);
         } 
-        return dp[0][-1+1];
+        return maxi; 
     }
 };
