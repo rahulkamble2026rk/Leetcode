@@ -50,6 +50,7 @@ LeetCode Solution
 | [0542-01-matrix](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0542-01-matrix) |
 | [0575-distribute-candies](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0575-distribute-candies) |
 | [0665-non-decreasing-array](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0665-non-decreasing-array) |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0695-max-area-of-island](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0695-max-area-of-island) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0721-accounts-merge](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0721-accounts-merge) |
@@ -411,6 +412,7 @@ LeetCode Solution
 | [0518-coin-change-ii](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0518-coin-change-ii) |
 | [0542-01-matrix](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0542-01-matrix) |
 | [0583-delete-operation-for-two-strings](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0583-delete-operation-for-two-strings) |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0678-valid-parenthesis-string](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0747-min-cost-climbing-stairs](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0747-min-cost-climbing-stairs) |
@@ -703,6 +705,7 @@ LeetCode Solution
 ## Segment Tree
 |  |
 | ------- |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [2357-count-integers-in-intervals](https://github.com/rahulkamble2026rk/Leetcode/tree/master/2357-count-integers-in-intervals) |
 ## Brainteaser
 |  |
@@ -904,4 +907,8 @@ LeetCode Solution
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0673-number-of-longest-increasing-subsequence) |
 <!---LeetCode Topics End-->
