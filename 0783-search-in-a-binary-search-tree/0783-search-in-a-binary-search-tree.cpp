@@ -24,9 +24,18 @@ public:
         if(root->val==val)
         {
             return root;
+        }   
+        TreeNode* rc=NULL; 
+         TreeNode* lc=NULL;
+        if(val>root->val)
+        {
+             rc=check(root->right,val); 
         } 
-        TreeNode* lc=check(root->left,val); 
-        TreeNode* rc=check(root->right,val); 
+        else if(val<root->val)
+        {
+            lc=check(root->left,val); 
+        }
+       
         if(lc!=NULL) 
         {
             return lc;
