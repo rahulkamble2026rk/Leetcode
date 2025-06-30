@@ -30,12 +30,12 @@ public:
         if(val>root->val)   //means val is present at the  right side then move to the right side
         {
             root->right=insert(root->right,val); 
-            // return root;
+            return root;
         } 
         else if(val<root->val)
         {
             root->left=insert(root->left,val);  
-            // return root;
+            return root;
         } 
 
         return root;
