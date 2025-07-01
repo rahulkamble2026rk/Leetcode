@@ -1,41 +1,45 @@
 class Solution {
 public:
     Node* connect(Node* root) {
-        if (!root) return NULL;
+        if (root == NULL) return NULL;
 
         vector<vector<Node*>> store;
         traverse_store(root, store);
-        connect_levels(store);
+
+        change(store);
         return root;
     }
 
     void traverse_store(Node* root, vector<vector<Node*>>& store) {
-        queue<Node*> que;
-        que.push(root);
+        queue<Node*> que1;
+        queue<Node*> que2;
+        vector<Node*> level;
 
-        while (!que.empty()) {
-            int size = que.size();
-            vector<Node*> level;
+        que1.push(root);
 
-            for (int i = 0; i < size; ++i) {
-                Node* node = que.front();
-                que.pop();
-                level.push_back(node);
+        do {
+            while (!que1.empty()) {
+                Node* temp = que1.front();
+                que1.pop();
 
-                if (node->left) que.push(node->left);
-                if (node->right) que.push(node->right);
+                level.push_back(temp);
+
+                if (temp->left != NULL) que2.push(temp->left);
+                if (temp->right != NULL) que2.push(temp->right);
             }
 
             store.push_back(level);
-        }
+            level.clear();
+            swap(que1, que2);
+        } while (!que1.empty());
     }
 
-    void connect_levels(vector<vector<Node*>>& store) {
+    void change(vector<vector<Node*>>& store) {
         for (auto& level : store) {
             for (int i = 0; i < level.size() - 1; ++i) {
                 level[i]->next = level[i + 1];
             }
-            level.back()->next = NULL; // Last node in level
+            level.back()->next = NULL;
         }
     }
 };
