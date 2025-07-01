@@ -20,6 +20,7 @@ LeetCode Solution
 | [0073-set-matrix-zeroes](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0079-word-search](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0079-word-search) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0120-triangle](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -892,6 +893,7 @@ LeetCode Solution
 | [0098-validate-binary-search-tree](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0110-balanced-binary-tree) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
@@ -910,6 +912,7 @@ LeetCode Solution
 | [0098-validate-binary-search-tree](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0110-balanced-binary-tree) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
@@ -926,6 +929,7 @@ LeetCode Solution
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0098-validate-binary-search-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0450-delete-node-in-a-bst](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0450-delete-node-in-a-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0783-search-in-a-binary-search-tree) |
@@ -969,6 +973,7 @@ LeetCode Solution
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 ## Binary Indexed Tree
 |  |
 | ------- |
