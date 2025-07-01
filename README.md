@@ -87,6 +87,7 @@ LeetCode Solution
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/rahulkamble2026rk/Leetcode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1524-string-matching-in-an-array](https://github.com/rahulkamble2026rk/Leetcode/tree/master/1524-string-matching-in-an-array) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/rahulkamble2026rk/Leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+| [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/rahulkamble2026rk/Leetcode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1656-count-good-triplets](https://github.com/rahulkamble2026rk/Leetcode/tree/master/1656-count-good-triplets) |
 | [1663-detect-cycles-in-2d-grid](https://github.com/rahulkamble2026rk/Leetcode/tree/master/1663-detect-cycles-in-2d-grid) |
 | [1704-special-positions-in-a-binary-matrix](https://github.com/rahulkamble2026rk/Leetcode/tree/master/1704-special-positions-in-a-binary-matrix) |
@@ -632,6 +633,7 @@ LeetCode Solution
 | [0532-k-diff-pairs-in-an-array](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0721-accounts-merge](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0721-accounts-merge) |
 | [1129-longest-string-chain](https://github.com/rahulkamble2026rk/Leetcode/tree/master/1129-longest-string-chain) |
+| [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/rahulkamble2026rk/Leetcode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1770-minimum-deletions-to-make-character-frequencies-unique](https://github.com/rahulkamble2026rk/Leetcode/tree/master/1770-minimum-deletions-to-make-character-frequencies-unique) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/rahulkamble2026rk/Leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/rahulkamble2026rk/Leetcode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
@@ -670,6 +672,7 @@ LeetCode Solution
 | [0907-koko-eating-bananas](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0907-koko-eating-bananas) |
 | [1046-max-consecutive-ones-iii](https://github.com/rahulkamble2026rk/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/rahulkamble2026rk/Leetcode/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
+| [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/rahulkamble2026rk/Leetcode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/rahulkamble2026rk/Leetcode/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/rahulkamble2026rk/Leetcode/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/rahulkamble2026rk/Leetcode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
@@ -704,6 +707,7 @@ LeetCode Solution
 | [0768-partition-labels](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0768-partition-labels) |
 | [1129-longest-string-chain](https://github.com/rahulkamble2026rk/Leetcode/tree/master/1129-longest-string-chain) |
 | [1133-last-substring-in-lexicographical-order](https://github.com/rahulkamble2026rk/Leetcode/tree/master/1133-last-substring-in-lexicographical-order) |
+| [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/rahulkamble2026rk/Leetcode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/rahulkamble2026rk/Leetcode/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/rahulkamble2026rk/Leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/rahulkamble2026rk/Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
