@@ -6,6 +6,7 @@ LeetCode Solution
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
@@ -172,6 +173,7 @@ LeetCode Solution
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0073-set-matrix-zeroes](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0496-next-greater-element-i](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0496-next-greater-element-i) |
