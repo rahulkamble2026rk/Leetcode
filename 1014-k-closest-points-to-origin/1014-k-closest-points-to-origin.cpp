@@ -4,24 +4,25 @@ public:
     {
        
        priority_queue<
-                pair<int, pair<int, int>>,                          // Heap element type
-                vector<pair<int, pair<int, int>>>,                  // Underlying container
-                greater<pair<int, pair<int, int>>>                  // Comparator for min-heap
+                pair<int,int>,                          // Heap element type
+                vector<pair<int,int>>,                  // Underlying container
+                greater<pair<int,int>>                  // Comparator for min-heap
                 > que;
-        for(auto it:points)
+        for(int i=0;i<points.size();i++)
         {
-            int x=count_distance(it); 
-            que.push({x,{it[0],it[1]}});
+            vector<int>temp= {points[i][0] , points[i][1]};
+            int x=count_distance(temp); 
+            que.push({x,i});
         }  
 
         vector<vector<int>>ans;
         for(int i=1;i<=k;i++)
         {  
-             vector<int>ans2;  
-             ans2.push_back(que.top().second.first); 
-             ans2.push_back(que.top().second.second);  
+            //  vector<int>ans2;  
+            //  ans2.push_back(que.top().second.first); 
+            //  ans2.push_back(que.top().second.second);  
+             ans.push_back(points[que.top().second]);
              que.pop();
-             ans.push_back(ans2);
         } 
         return ans;
        
