@@ -30,6 +30,7 @@ LeetCode Solution
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0198-house-robber](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0200-number-of-islands) |
+| [0204-count-primes](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0204-count-primes) |
 | [0213-house-robber-ii](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0213-house-robber-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0216-combination-sum-iii](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0216-combination-sum-iii) |
@@ -283,6 +284,7 @@ LeetCode Solution
 | [0070-climbing-stairs](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0070-climbing-stairs) |
 | [0096-unique-binary-search-trees](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0168-excel-sheet-column-title](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0168-excel-sheet-column-title) |
+| [0204-count-primes](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0204-count-primes) |
 | [0343-integer-break](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0343-integer-break) |
 | [0368-largest-divisible-subset](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0368-largest-divisible-subset) |
 | [0797-rabbits-in-forest](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0797-rabbits-in-forest) |
@@ -883,6 +885,7 @@ LeetCode Solution
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0204-count-primes) |
 | [1585-the-kth-factor-of-n](https://github.com/rahulkamble2026rk/Leetcode/tree/master/1585-the-kth-factor-of-n) |
 | [2491-smallest-even-multiple](https://github.com/rahulkamble2026rk/Leetcode/tree/master/2491-smallest-even-multiple) |
 | [2595-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/rahulkamble2026rk/Leetcode/tree/master/2595-smallest-value-after-replacing-with-sum-of-prime-factors) |
@@ -961,6 +964,7 @@ LeetCode Solution
 ## Enumeration
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0204-count-primes) |
 | [1656-count-good-triplets](https://github.com/rahulkamble2026rk/Leetcode/tree/master/1656-count-good-triplets) |
 | [2998-count-symmetric-integers](https://github.com/rahulkamble2026rk/Leetcode/tree/master/2998-count-symmetric-integers) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/rahulkamble2026rk/Leetcode/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
