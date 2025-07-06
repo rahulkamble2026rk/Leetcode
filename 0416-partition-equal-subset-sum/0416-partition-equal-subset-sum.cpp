@@ -68,12 +68,13 @@ public:
               int nottake=dp[i - 1][j];
                 
                 // Take the current element if possible 
-                dp[i][j]=nottake;
+
+                int take=false;
                 if (j >= nums[i - 1])  
                 {  
-                    int take=dp[i - 1][j - nums[i - 1]];
-                    dp[i][j] = nottake|| take;
-                }
+                     take=dp[i - 1][j - nums[i - 1]];
+                } 
+                dp[i][j] = nottake|| take;
             }
         } 
           return dp[n][target];
