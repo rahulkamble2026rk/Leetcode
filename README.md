@@ -8,6 +8,7 @@ LeetCode Solution
 | ------- |
 | [0001-two-sum](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0014-longest-common-prefix](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0033-search-in-rotated-sorted-array](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0035-search-insert-position) |
@@ -318,6 +319,7 @@ LeetCode Solution
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0014-longest-common-prefix](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0038-count-and-say](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0038-count-and-say) |
 | [0072-edit-distance](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0072-edit-distance) |
 | [0079-word-search](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0079-word-search) |
@@ -533,6 +535,7 @@ LeetCode Solution
 ## Trie
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0386-lexicographical-numbers](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0386-lexicographical-numbers) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/rahulkamble2026rk/Leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Rolling Hash
