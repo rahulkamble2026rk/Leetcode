@@ -185,6 +185,7 @@ LeetCode Solution
 | [0003-longest-substring-without-repeating-characters](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0073-set-matrix-zeroes](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0205-isomorphic-strings](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0496-next-greater-element-i](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0575-distribute-candies](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0575-distribute-candies) |
@@ -325,6 +326,7 @@ LeetCode Solution
 | [0079-word-search](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0079-word-search) |
 | [0115-distinct-subsequences](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0115-distinct-subsequences) |
 | [0168-excel-sheet-column-title](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0168-excel-sheet-column-title) |
+| [0205-isomorphic-strings](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0316-remove-duplicate-letters](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0316-remove-duplicate-letters) |
 | [0402-remove-k-digits](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0402-remove-k-digits) |
 | [0434-number-of-segments-in-a-string](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0434-number-of-segments-in-a-string) |
