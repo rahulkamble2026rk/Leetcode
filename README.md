@@ -331,6 +331,7 @@ LeetCode Solution
 | [0115-distinct-subsequences](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0115-distinct-subsequences) |
 | [0168-excel-sheet-column-title](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0168-excel-sheet-column-title) |
 | [0205-isomorphic-strings](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0205-isomorphic-strings) |
+| [0214-shortest-palindrome](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0214-shortest-palindrome) |
 | [0316-remove-duplicate-letters](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0316-remove-duplicate-letters) |
 | [0402-remove-k-digits](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0402-remove-k-digits) |
 | [0434-number-of-segments-in-a-string](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0434-number-of-segments-in-a-string) |
@@ -391,6 +392,7 @@ LeetCode Solution
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0214-shortest-palindrome](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0214-shortest-palindrome) |
 | [0686-repeated-string-match](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0686-repeated-string-match) |
 | [0812-rotate-string](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0812-rotate-string) |
 | [1508-longest-happy-prefix](https://github.com/rahulkamble2026rk/Leetcode/tree/master/1508-longest-happy-prefix) |
@@ -556,11 +558,13 @@ LeetCode Solution
 ## Rolling Hash
 |  |
 | ------- |
+| [0214-shortest-palindrome](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0214-shortest-palindrome) |
 | [1508-longest-happy-prefix](https://github.com/rahulkamble2026rk/Leetcode/tree/master/1508-longest-happy-prefix) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/rahulkamble2026rk/Leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Hash Function
 |  |
 | ------- |
+| [0214-shortest-palindrome](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0214-shortest-palindrome) |
 | [1508-longest-happy-prefix](https://github.com/rahulkamble2026rk/Leetcode/tree/master/1508-longest-happy-prefix) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/rahulkamble2026rk/Leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Stack
