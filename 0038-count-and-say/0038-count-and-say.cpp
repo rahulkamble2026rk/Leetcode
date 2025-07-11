@@ -1,40 +1,34 @@
 class Solution {
 public:
     string countAndSay(int n)  
-    {   
-        string ans2="";
-         ans(1,n,"1",ans2); 
-         return ans2;
-    } 
-    void ans(int i,int n,string str,string &str2)
     {
-        if(i==n)
-        { 
-            str2=str;
-            return;
-        } 
-        map<char,int>stdmap; 
-        for(int i=0;i<str.size();i++)
+        if(n==1)
         {
-            stdmap[str[i]]++;
+            return "1";
         } 
 
-        string newstring=""; 
-        int count = 1;
-
-        for (int j = 0; j < str.size(); j++)  
+        string str="1";
+        for(int i=2;i<=n;i++)
         {
-            if (j+1<str.size() && str[j] == str[j+1])  
-            {
+            str=count_check(str);
+        } 
+        return str;
+    } 
+
+    string count_check(string str)
+    {
+        string ans="";  
+        int count=1;
+        for (int i = 1; i <= str.size(); i++) {
+            if (i < str.size() && str[i] == str[i - 1]) {
                 count++;
-            }  
-            else  
-            {
-                newstring += to_string(count);
-                newstring += str[j];
+            } else {
+                ans += to_string(count);
+                ans += str[i - 1];
                 count = 1;
             }
-        }
-        ans(i+1,n,newstring,str2);
+        } 
+
+        return ans;
     }
 };
