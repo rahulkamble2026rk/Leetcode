@@ -338,6 +338,7 @@ LeetCode Solution
 | [0516-longest-palindromic-subsequence](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0583-delete-operation-for-two-strings) |
 | [0678-valid-parenthesis-string](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0678-valid-parenthesis-string) |
+| [0686-repeated-string-match](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0686-repeated-string-match) |
 | [0721-accounts-merge](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0721-accounts-merge) |
 | [0768-partition-labels](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0768-partition-labels) |
 | [0812-rotate-string](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0812-rotate-string) |
@@ -388,6 +389,7 @@ LeetCode Solution
 ## String Matching
 |  |
 | ------- |
+| [0686-repeated-string-match](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0686-repeated-string-match) |
 | [0812-rotate-string](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0812-rotate-string) |
 | [1508-longest-happy-prefix](https://github.com/rahulkamble2026rk/Leetcode/tree/master/1508-longest-happy-prefix) |
 | [1524-string-matching-in-an-array](https://github.com/rahulkamble2026rk/Leetcode/tree/master/1524-string-matching-in-an-array) |
