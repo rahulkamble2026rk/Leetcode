@@ -299,6 +299,7 @@ LeetCode Solution
 | [0909-stone-game](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0909-stone-game) |
 | [1014-k-closest-points-to-origin](https://github.com/rahulkamble2026rk/Leetcode/tree/master/1014-k-closest-points-to-origin) |
 | [1370-count-number-of-nice-subarrays](https://github.com/rahulkamble2026rk/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
+| [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/rahulkamble2026rk/Leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/rahulkamble2026rk/Leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1477-product-of-the-last-k-numbers](https://github.com/rahulkamble2026rk/Leetcode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1500-count-largest-group](https://github.com/rahulkamble2026rk/Leetcode/tree/master/1500-count-largest-group) |
@@ -632,6 +633,7 @@ LeetCode Solution
 | [0086-partition-list](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0086-partition-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [1072-next-greater-node-in-linked-list](https://github.com/rahulkamble2026rk/Leetcode/tree/master/1072-next-greater-node-in-linked-list) |
+| [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/rahulkamble2026rk/Leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [3773-minimum-pair-removal-to-sort-array-i](https://github.com/rahulkamble2026rk/Leetcode/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
 ## Greedy
 |  |
