@@ -393,6 +393,7 @@ LeetCode Solution
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/rahulkamble2026rk/Leetcode/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/rahulkamble2026rk/Leetcode/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 | [3797-design-spreadsheet](https://github.com/rahulkamble2026rk/Leetcode/tree/master/3797-design-spreadsheet) |
+| [3931-process-string-with-special-operations-i](https://github.com/rahulkamble2026rk/Leetcode/tree/master/3931-process-string-with-special-operations-i) |
 ## String Matching
 |  |
 | ------- |
@@ -917,6 +918,7 @@ LeetCode Solution
 | [3447-clear-digits](https://github.com/rahulkamble2026rk/Leetcode/tree/master/3447-clear-digits) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/rahulkamble2026rk/Leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3773-minimum-pair-removal-to-sort-array-i](https://github.com/rahulkamble2026rk/Leetcode/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
+| [3931-process-string-with-special-operations-i](https://github.com/rahulkamble2026rk/Leetcode/tree/master/3931-process-string-with-special-operations-i) |
 ## Topological Sort
 |  |
 | ------- |
