@@ -632,6 +632,7 @@ LeetCode Solution
 | ------- |
 | [0086-partition-list](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0086-partition-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0237-delete-node-in-a-linked-list](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0237-delete-node-in-a-linked-list) |
 | [1072-next-greater-node-in-linked-list](https://github.com/rahulkamble2026rk/Leetcode/tree/master/1072-next-greater-node-in-linked-list) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/rahulkamble2026rk/Leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [3773-minimum-pair-removal-to-sort-array-i](https://github.com/rahulkamble2026rk/Leetcode/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
