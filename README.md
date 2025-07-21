@@ -1066,4 +1066,8 @@ LeetCode Solution
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0451-sort-characters-by-frequency) |
+## Database
+|  |
+| ------- |
+| [1908-recyclable-and-low-fat-products](https://github.com/rahulkamble2026rk/Leetcode/tree/master/1908-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
