@@ -43,6 +43,7 @@ LeetCode Solution
 | [0368-largest-divisible-subset](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0368-largest-divisible-subset) |
 | [0407-trapping-rain-water-ii](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0407-trapping-rain-water-ii) |
 | [0416-partition-equal-subset-sum](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0416-partition-equal-subset-sum) |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0435-non-overlapping-intervals](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0455-assign-cookies) |
@@ -189,6 +190,7 @@ LeetCode Solution
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0205-isomorphic-strings](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0208-implement-trie-prefix-tree](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
@@ -413,6 +415,7 @@ LeetCode Solution
 | ------- |
 | [0201-bitwise-and-of-numbers-range](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0201-bitwise-and-of-numbers-range) |
 | [0338-counting-bits](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0338-counting-bits) |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/rahulkamble2026rk/Leetcode/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2308-divide-array-into-equal-pairs](https://github.com/rahulkamble2026rk/Leetcode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2478-longest-nice-subarray](https://github.com/rahulkamble2026rk/Leetcode/tree/master/2478-longest-nice-subarray) |
@@ -565,6 +568,7 @@ LeetCode Solution
 | [0014-longest-common-prefix](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0208-implement-trie-prefix-tree](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0386-lexicographical-numbers](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0386-lexicographical-numbers) |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/rahulkamble2026rk/Leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Rolling Hash
 |  |
