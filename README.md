@@ -14,6 +14,7 @@ LeetCode Solution
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0035-search-insert-position) |
 | [0045-jump-game-ii](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0045-jump-game-ii) |
+| [0046-permutations](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0046-permutations) |
 | [0055-jump-game](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0057-insert-interval) |
@@ -525,6 +526,7 @@ LeetCode Solution
 ## Backtracking
 |  |
 | ------- |
+| [0046-permutations](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0046-permutations) |
 | [0077-combinations](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0077-combinations) |
 | [0079-word-search](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0079-word-search) |
 | [0216-combination-sum-iii](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0216-combination-sum-iii) |
