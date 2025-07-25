@@ -15,6 +15,7 @@ LeetCode Solution
 | [0035-search-insert-position](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0035-search-insert-position) |
 | [0045-jump-game-ii](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0047-permutations-ii) |
 | [0055-jump-game](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0057-insert-interval) |
@@ -527,6 +528,7 @@ LeetCode Solution
 |  |
 | ------- |
 | [0046-permutations](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0047-permutations-ii) |
 | [0077-combinations](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0077-combinations) |
 | [0079-word-search](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0079-word-search) |
 | [0216-combination-sum-iii](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0216-combination-sum-iii) |
@@ -695,6 +697,7 @@ LeetCode Solution
 ## Sorting
 |  |
 | ------- |
+| [0047-permutations-ii](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0047-permutations-ii) |
 | [0056-merge-intervals](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0056-merge-intervals) |
 | [0215-kth-largest-element-in-an-array](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0274-h-index](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0274-h-index) |
