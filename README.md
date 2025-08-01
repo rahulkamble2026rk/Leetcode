@@ -348,6 +348,7 @@ LeetCode Solution
 | [0003-longest-substring-without-repeating-characters](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0008-string-to-integer-atoi](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0008-string-to-integer-atoi) |
 | [0014-longest-common-prefix](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0014-longest-common-prefix) |
+| [0020-valid-parentheses](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0038-count-and-say](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0038-count-and-say) |
 | [0072-edit-distance](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0072-edit-distance) |
@@ -605,6 +606,7 @@ LeetCode Solution
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0020-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
