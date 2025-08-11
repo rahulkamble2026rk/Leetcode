@@ -24,6 +24,7 @@ LeetCode Solution
 | [0073-set-matrix-zeroes](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0079-word-search](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0079-word-search) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0090-subsets-ii](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0090-subsets-ii) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0118-pascals-triangle) |
@@ -432,6 +433,7 @@ LeetCode Solution
 ## Bit Manipulation
 |  |
 | ------- |
+| [0090-subsets-ii](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0090-subsets-ii) |
 | [0201-bitwise-and-of-numbers-range](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0201-bitwise-and-of-numbers-range) |
 | [0231-power-of-two](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0231-power-of-two) |
 | [0338-counting-bits](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0338-counting-bits) |
@@ -544,6 +546,7 @@ LeetCode Solution
 | [0047-permutations-ii](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0047-permutations-ii) |
 | [0077-combinations](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0077-combinations) |
 | [0079-word-search](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0079-word-search) |
+| [0090-subsets-ii](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0090-subsets-ii) |
 | [0216-combination-sum-iii](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0216-combination-sum-iii) |
 | [0494-target-sum](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0494-target-sum) |
 | [0813-all-paths-from-source-to-target](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0813-all-paths-from-source-to-target) |
