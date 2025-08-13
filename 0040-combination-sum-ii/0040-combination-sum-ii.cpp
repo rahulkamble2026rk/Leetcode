@@ -16,14 +16,19 @@ public:
     void take(int ind, int target, vector<int>& candidates, vector<int>& vct, 
               set<vector<int>>& ans, vector<vector<int>>& dp)
     {
-        if (target == 0) {
+        if (target == 0) 
+        {
             ans.insert(vct); 
             return;
         }
-        if (ind >= candidates.size()) return;
+        if (ind >= candidates.size()) 
+        {
+            return;
+        }
 
         // TAKE case
-        if (candidates[ind] <= target) { 
+        if (candidates[ind] <= target) 
+        { 
             vct.push_back(candidates[ind]);
             take(ind + 1, target - candidates[ind], candidates, vct, ans, dp); 
             vct.pop_back();
@@ -32,7 +37,10 @@ public:
         // NOT TAKE case — skip duplicates here
         int nextInd = ind + 1;
         while (nextInd < candidates.size() && candidates[nextInd] == candidates[ind]) 
+        { 
+
             nextInd++;
+        }
 
         take(nextInd, target, candidates, vct, ans, dp); 
 
