@@ -309,6 +309,7 @@ LeetCode Solution
 ## Math
 |  |
 | ------- |
+| [0060-permutation-sequence](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0060-permutation-sequence) |
 | [0062-unique-paths](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0062-unique-paths) |
 | [0069-sqrtx](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0070-climbing-stairs) |
@@ -861,6 +862,7 @@ LeetCode Solution
 ## Recursion
 |  |
 | ------- |
+| [0060-permutation-sequence](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0060-permutation-sequence) |
 | [0231-power-of-two](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0326-power-of-three) |
 | [2050-count-good-numbers](https://github.com/rahulkamble2026rk/Leetcode/tree/master/2050-count-good-numbers) |
