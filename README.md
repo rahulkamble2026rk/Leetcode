@@ -271,6 +271,7 @@ LeetCode Solution
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0867-new-21-game](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0867-new-21-game) |
 | [0966-binary-subarrays-with-sum](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0966-binary-subarrays-with-sum) |
 | [1034-subarrays-with-k-different-integers](https://github.com/rahulkamble2026rk/Leetcode/tree/master/1034-subarrays-with-k-different-integers) |
 | [1046-max-consecutive-ones-iii](https://github.com/rahulkamble2026rk/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
@@ -323,6 +324,7 @@ LeetCode Solution
 | [0343-integer-break](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0343-integer-break) |
 | [0368-largest-divisible-subset](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0368-largest-divisible-subset) |
 | [0797-rabbits-in-forest](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0797-rabbits-in-forest) |
+| [0867-new-21-game](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0867-new-21-game) |
 | [0900-reordered-power-of-2](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0900-reordered-power-of-2) |
 | [0909-stone-game](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0909-stone-game) |
 | [1014-k-closest-points-to-origin](https://github.com/rahulkamble2026rk/Leetcode/tree/master/1014-k-closest-points-to-origin) |
@@ -501,6 +503,7 @@ LeetCode Solution
 | [0678-valid-parenthesis-string](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0747-min-cost-climbing-stairs](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0747-min-cost-climbing-stairs) |
+| [0867-new-21-game](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0867-new-21-game) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0909-stone-game](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0909-stone-game) |
 | [0943-sum-of-subarray-minimums](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0943-sum-of-subarray-minimums) |
@@ -1169,4 +1172,8 @@ LeetCode Solution
 | [1882-the-number-of-employees-which-report-to-each-employee](https://github.com/rahulkamble2026rk/Leetcode/tree/master/1882-the-number-of-employees-which-report-to-each-employee) |
 | [1908-recyclable-and-low-fat-products](https://github.com/rahulkamble2026rk/Leetcode/tree/master/1908-recyclable-and-low-fat-products) |
 | [2495-number-of-unique-subjects-taught-by-each-teacher](https://github.com/rahulkamble2026rk/Leetcode/tree/master/2495-number-of-unique-subjects-taught-by-each-teacher) |
+## Probability and Statistics
+|  |
+| ------- |
+| [0867-new-21-game](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0867-new-21-game) |
 <!---LeetCode Topics End-->
