@@ -98,6 +98,7 @@ LeetCode Solution
 | [1364-tuple-with-same-product](https://github.com/rahulkamble2026rk/Leetcode/tree/master/1364-tuple-with-same-product) |
 | [1370-count-number-of-nice-subarrays](https://github.com/rahulkamble2026rk/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1396-count-servers-that-communicate](https://github.com/rahulkamble2026rk/Leetcode/tree/master/1396-count-servers-that-communicate) |
+| [1402-count-square-submatrices-with-all-ones](https://github.com/rahulkamble2026rk/Leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/rahulkamble2026rk/Leetcode/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/rahulkamble2026rk/Leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1449-print-words-vertically](https://github.com/rahulkamble2026rk/Leetcode/tree/master/1449-print-words-vertically) |
@@ -515,6 +516,7 @@ LeetCode Solution
 | [1129-longest-string-chain](https://github.com/rahulkamble2026rk/Leetcode/tree/master/1129-longest-string-chain) |
 | [1170-shortest-common-supersequence](https://github.com/rahulkamble2026rk/Leetcode/tree/master/1170-shortest-common-supersequence) |
 | [1250-longest-common-subsequence](https://github.com/rahulkamble2026rk/Leetcode/tree/master/1250-longest-common-subsequence) |
+| [1402-count-square-submatrices-with-all-ones](https://github.com/rahulkamble2026rk/Leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/rahulkamble2026rk/Leetcode/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1628-count-submatrices-with-all-ones](https://github.com/rahulkamble2026rk/Leetcode/tree/master/1628-count-submatrices-with-all-ones) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/rahulkamble2026rk/Leetcode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
@@ -546,6 +548,7 @@ LeetCode Solution
 | [1073-number-of-enclaves](https://github.com/rahulkamble2026rk/Leetcode/tree/master/1073-number-of-enclaves) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/rahulkamble2026rk/Leetcode/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1396-count-servers-that-communicate](https://github.com/rahulkamble2026rk/Leetcode/tree/master/1396-count-servers-that-communicate) |
+| [1402-count-square-submatrices-with-all-ones](https://github.com/rahulkamble2026rk/Leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/rahulkamble2026rk/Leetcode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1628-count-submatrices-with-all-ones](https://github.com/rahulkamble2026rk/Leetcode/tree/master/1628-count-submatrices-with-all-ones) |
 | [1663-detect-cycles-in-2d-grid](https://github.com/rahulkamble2026rk/Leetcode/tree/master/1663-detect-cycles-in-2d-grid) |
