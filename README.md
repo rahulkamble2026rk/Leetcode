@@ -107,6 +107,7 @@ LeetCode Solution
 | [1510-find-lucky-integer-in-an-array](https://github.com/rahulkamble2026rk/Leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1524-string-matching-in-an-array](https://github.com/rahulkamble2026rk/Leetcode/tree/master/1524-string-matching-in-an-array) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/rahulkamble2026rk/Leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+| [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/rahulkamble2026rk/Leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/rahulkamble2026rk/Leetcode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1628-count-submatrices-with-all-ones](https://github.com/rahulkamble2026rk/Leetcode/tree/master/1628-count-submatrices-with-all-ones) |
 | [1656-count-good-triplets](https://github.com/rahulkamble2026rk/Leetcode/tree/master/1656-count-good-triplets) |
@@ -282,6 +283,7 @@ LeetCode Solution
 | [1370-count-number-of-nice-subarrays](https://github.com/rahulkamble2026rk/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/rahulkamble2026rk/Leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/rahulkamble2026rk/Leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+| [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/rahulkamble2026rk/Leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1813-maximum-erasure-value](https://github.com/rahulkamble2026rk/Leetcode/tree/master/1813-maximum-erasure-value) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/rahulkamble2026rk/Leetcode/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/rahulkamble2026rk/Leetcode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
@@ -518,6 +520,7 @@ LeetCode Solution
 | [1250-longest-common-subsequence](https://github.com/rahulkamble2026rk/Leetcode/tree/master/1250-longest-common-subsequence) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/rahulkamble2026rk/Leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/rahulkamble2026rk/Leetcode/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
+| [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/rahulkamble2026rk/Leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1628-count-submatrices-with-all-ones](https://github.com/rahulkamble2026rk/Leetcode/tree/master/1628-count-submatrices-with-all-ones) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/rahulkamble2026rk/Leetcode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/rahulkamble2026rk/Leetcode/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
