@@ -18,6 +18,7 @@ LeetCode Solution
 | [0045-jump-game-ii](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0047-permutations-ii) |
+| [0053-maximum-subarray](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0057-insert-interval) |
@@ -476,6 +477,7 @@ LeetCode Solution
 |  |
 | ------- |
 | [0045-jump-game-ii](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0045-jump-game-ii) |
+| [0053-maximum-subarray](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0063-unique-paths-ii) |
@@ -1144,6 +1146,7 @@ LeetCode Solution
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0053-maximum-subarray](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0053-maximum-subarray) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0215-kth-largest-element-in-an-array](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
