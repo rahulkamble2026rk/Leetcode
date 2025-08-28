@@ -97,6 +97,7 @@ LeetCode Solution
 | [1129-longest-string-chain](https://github.com/rahulkamble2026rk/Leetcode/tree/master/1129-longest-string-chain) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/rahulkamble2026rk/Leetcode/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/rahulkamble2026rk/Leetcode/tree/master/1227-number-of-equivalent-domino-pairs) |
+| [1253-sort-the-matrix-diagonally](https://github.com/rahulkamble2026rk/Leetcode/tree/master/1253-sort-the-matrix-diagonally) |
 | [1364-tuple-with-same-product](https://github.com/rahulkamble2026rk/Leetcode/tree/master/1364-tuple-with-same-product) |
 | [1370-count-number-of-nice-subarrays](https://github.com/rahulkamble2026rk/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1396-count-servers-that-communicate](https://github.com/rahulkamble2026rk/Leetcode/tree/master/1396-count-servers-that-communicate) |
@@ -558,6 +559,7 @@ LeetCode Solution
 | [1036-rotting-oranges](https://github.com/rahulkamble2026rk/Leetcode/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/rahulkamble2026rk/Leetcode/tree/master/1073-number-of-enclaves) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/rahulkamble2026rk/Leetcode/tree/master/1171-shortest-path-in-binary-matrix) |
+| [1253-sort-the-matrix-diagonally](https://github.com/rahulkamble2026rk/Leetcode/tree/master/1253-sort-the-matrix-diagonally) |
 | [1396-count-servers-that-communicate](https://github.com/rahulkamble2026rk/Leetcode/tree/master/1396-count-servers-that-communicate) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/rahulkamble2026rk/Leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/rahulkamble2026rk/Leetcode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
@@ -778,6 +780,7 @@ LeetCode Solution
 | [0900-reordered-power-of-2](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0900-reordered-power-of-2) |
 | [1014-k-closest-points-to-origin](https://github.com/rahulkamble2026rk/Leetcode/tree/master/1014-k-closest-points-to-origin) |
 | [1129-longest-string-chain](https://github.com/rahulkamble2026rk/Leetcode/tree/master/1129-longest-string-chain) |
+| [1253-sort-the-matrix-diagonally](https://github.com/rahulkamble2026rk/Leetcode/tree/master/1253-sort-the-matrix-diagonally) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/rahulkamble2026rk/Leetcode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1770-minimum-deletions-to-make-character-frequencies-unique](https://github.com/rahulkamble2026rk/Leetcode/tree/master/1770-minimum-deletions-to-make-character-frequencies-unique) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/rahulkamble2026rk/Leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
