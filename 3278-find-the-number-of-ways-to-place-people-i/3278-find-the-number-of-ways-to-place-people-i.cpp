@@ -104,9 +104,10 @@ public:
             vector<int> middle = points[k];
            
             if (middle[0] >= points[i][0] && middle[0] <= points[j][0] &&
-                middle[1] <= points[i][1] && middle[1] >= points[j][1]) {
-                return false;
-            }
+                middle[1] <= points[i][1] && middle[1] >= points[j][1])  
+                {
+                   return false;
+                }
         }
         return true;
     }
