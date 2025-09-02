@@ -121,6 +121,7 @@ LeetCode Solution
 | [1813-maximum-erasure-value](https://github.com/rahulkamble2026rk/Leetcode/tree/master/1813-maximum-erasure-value) |
 | [1876-map-of-highest-peak](https://github.com/rahulkamble2026rk/Leetcode/tree/master/1876-map-of-highest-peak) |
 | [1901-equal-sum-arrays-with-minimum-number-of-operations](https://github.com/rahulkamble2026rk/Leetcode/tree/master/1901-equal-sum-arrays-with-minimum-number-of-operations) |
+| [1917-maximum-average-pass-ratio](https://github.com/rahulkamble2026rk/Leetcode/tree/master/1917-maximum-average-pass-ratio) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/rahulkamble2026rk/Leetcode/tree/master/1927-maximum-ascending-subarray-sum) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/rahulkamble2026rk/Leetcode/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2048-build-array-from-permutation](https://github.com/rahulkamble2026rk/Leetcode/tree/master/2048-build-array-from-permutation) |
@@ -758,6 +759,7 @@ LeetCode Solution
 | [1502-construct-k-palindrome-strings](https://github.com/rahulkamble2026rk/Leetcode/tree/master/1502-construct-k-palindrome-strings) |
 | [1770-minimum-deletions-to-make-character-frequencies-unique](https://github.com/rahulkamble2026rk/Leetcode/tree/master/1770-minimum-deletions-to-make-character-frequencies-unique) |
 | [1901-equal-sum-arrays-with-minimum-number-of-operations](https://github.com/rahulkamble2026rk/Leetcode/tree/master/1901-equal-sum-arrays-with-minimum-number-of-operations) |
+| [1917-maximum-average-pass-ratio](https://github.com/rahulkamble2026rk/Leetcode/tree/master/1917-maximum-average-pass-ratio) |
 | [2032-largest-odd-number-in-string](https://github.com/rahulkamble2026rk/Leetcode/tree/master/2032-largest-odd-number-in-string) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/rahulkamble2026rk/Leetcode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/rahulkamble2026rk/Leetcode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
@@ -1005,6 +1007,7 @@ LeetCode Solution
 | [1014-k-closest-points-to-origin](https://github.com/rahulkamble2026rk/Leetcode/tree/master/1014-k-closest-points-to-origin) |
 | [1127-last-stone-weight](https://github.com/rahulkamble2026rk/Leetcode/tree/master/1127-last-stone-weight) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/rahulkamble2026rk/Leetcode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+| [1917-maximum-average-pass-ratio](https://github.com/rahulkamble2026rk/Leetcode/tree/master/1917-maximum-average-pass-ratio) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/rahulkamble2026rk/Leetcode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2434-design-a-number-container-system](https://github.com/rahulkamble2026rk/Leetcode/tree/master/2434-design-a-number-container-system) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/rahulkamble2026rk/Leetcode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
