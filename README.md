@@ -338,6 +338,7 @@ LeetCode Solution
 | [0168-excel-sheet-column-title](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0168-excel-sheet-column-title) |
 | [0189-rotate-array](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0204-count-primes) |
+| [0223-rectangle-area](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0223-rectangle-area) |
 | [0231-power-of-two](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0342-power-of-four) |
@@ -1132,6 +1133,7 @@ LeetCode Solution
 ## Geometry
 |  |
 | ------- |
+| [0223-rectangle-area](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0223-rectangle-area) |
 | [1014-k-closest-points-to-origin](https://github.com/rahulkamble2026rk/Leetcode/tree/master/1014-k-closest-points-to-origin) |
 | [2575-minimum-cuts-to-divide-a-circle](https://github.com/rahulkamble2026rk/Leetcode/tree/master/2575-minimum-cuts-to-divide-a-circle) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/rahulkamble2026rk/Leetcode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
