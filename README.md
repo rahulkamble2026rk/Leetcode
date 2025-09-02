@@ -177,6 +177,7 @@ LeetCode Solution
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/rahulkamble2026rk/Leetcode/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3227-find-missing-and-repeated-values](https://github.com/rahulkamble2026rk/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/rahulkamble2026rk/Leetcode/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
+| [3278-find-the-number-of-ways-to-place-people-i](https://github.com/rahulkamble2026rk/Leetcode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/rahulkamble2026rk/Leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3321-type-of-triangle](https://github.com/rahulkamble2026rk/Leetcode/tree/master/3321-type-of-triangle) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/rahulkamble2026rk/Leetcode/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
@@ -372,6 +373,7 @@ LeetCode Solution
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/rahulkamble2026rk/Leetcode/tree/master/2802-find-the-punishment-number-of-an-integer) |
 | [2998-count-symmetric-integers](https://github.com/rahulkamble2026rk/Leetcode/tree/master/2998-count-symmetric-integers) |
 | [3227-find-missing-and-repeated-values](https://github.com/rahulkamble2026rk/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
+| [3278-find-the-number-of-ways-to-place-people-i](https://github.com/rahulkamble2026rk/Leetcode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3279-alice-and-bob-playing-flower-game](https://github.com/rahulkamble2026rk/Leetcode/tree/master/3279-alice-and-bob-playing-flower-game) |
 | [3321-type-of-triangle](https://github.com/rahulkamble2026rk/Leetcode/tree/master/3321-type-of-triangle) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/rahulkamble2026rk/Leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
@@ -806,6 +808,7 @@ LeetCode Solution
 | [2586-longest-square-streak-in-an-array](https://github.com/rahulkamble2026rk/Leetcode/tree/master/2586-longest-square-streak-in-an-array) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/rahulkamble2026rk/Leetcode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/rahulkamble2026rk/Leetcode/tree/master/2888-minimum-index-of-a-valid-split) |
+| [3278-find-the-number-of-ways-to-place-people-i](https://github.com/rahulkamble2026rk/Leetcode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3321-type-of-triangle](https://github.com/rahulkamble2026rk/Leetcode/tree/master/3321-type-of-triangle) |
 | [3430-count-days-without-meetings](https://github.com/rahulkamble2026rk/Leetcode/tree/master/3430-count-days-without-meetings) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/rahulkamble2026rk/Leetcode/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
@@ -1131,6 +1134,7 @@ LeetCode Solution
 | ------- |
 | [1014-k-closest-points-to-origin](https://github.com/rahulkamble2026rk/Leetcode/tree/master/1014-k-closest-points-to-origin) |
 | [2575-minimum-cuts-to-divide-a-circle](https://github.com/rahulkamble2026rk/Leetcode/tree/master/2575-minimum-cuts-to-divide-a-circle) |
+| [3278-find-the-number-of-ways-to-place-people-i](https://github.com/rahulkamble2026rk/Leetcode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 ## Enumeration
 |  |
 | ------- |
@@ -1138,6 +1142,7 @@ LeetCode Solution
 | [0900-reordered-power-of-2](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0900-reordered-power-of-2) |
 | [1656-count-good-triplets](https://github.com/rahulkamble2026rk/Leetcode/tree/master/1656-count-good-triplets) |
 | [2998-count-symmetric-integers](https://github.com/rahulkamble2026rk/Leetcode/tree/master/2998-count-symmetric-integers) |
+| [3278-find-the-number-of-ways-to-place-people-i](https://github.com/rahulkamble2026rk/Leetcode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/rahulkamble2026rk/Leetcode/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/rahulkamble2026rk/Leetcode/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 | [3799-unique-3-digit-even-numbers](https://github.com/rahulkamble2026rk/Leetcode/tree/master/3799-unique-3-digit-even-numbers) |
