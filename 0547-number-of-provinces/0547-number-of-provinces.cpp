@@ -1,43 +1,39 @@
 class Solution {
 public:
-    int findCircleNum(vector<vector<int>>& isConnected) 
+    int findCircleNum(vector<vector<int>>& isConnected)  
     {
-        int n=isConnected.size();  
-        int count=0;
-        //forming the adc.list 
-        vector<vector<int>>adjlist(n+1);
-        for(int i=0;i<n;i++)
-        {    
-            for(int j=0;j<n;j++)
-            {
-                if(isConnected[i][j]==1 && i!=j)
-                {
-                    adjlist[i+1].push_back(j+1); 
-                    adjlist[j+1].push_back(i+1);
-                }
-            } 
-        }  
+        //step1: formation of the adjaceny list: 
+        int size=isConnected.size(); 
+        vector<int>visited(size,0);  
+        int count=0; 
 
-        vector<int>visited(n+1,0); 
-        for(int i=1;i<=n;i++)
+        for(int i=0;i<size;i++)
         {
-            if(visited[i]==0) 
-            {   
+            if(!visited[i])
+            { 
+                dfs(i,isConnected,visited);
                 count++;
-                dfs(i,adjlist,visited);
             }
-        }
-      
-      return count;
+        } 
+        return count;
     } 
-    void dfs(int node,vector<vector<int>>adjlist,vector<int>&visited)
+
+    void dfs(int row,vector<vector<int>>&matrix,vector<int>&visited)
     {
-        visited[node]=1; 
-        for(auto it:adjlist[node])
+        int m=matrix[row].size();  
+        visited[row]=1; 
+        for(int i=0;i<m;i++)
         {
-            if(visited[it]!=1)
+            if(matrix[row][i]==1)
             {
-                dfs(it,adjlist,visited);
+                if(i==row || visited[i]==1)
+                {
+                    continue;
+                } 
+                else
+                {
+                    dfs(i,matrix,visited);
+                }
             }
         }
     }
