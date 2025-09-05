@@ -84,6 +84,7 @@ LeetCode Solution
 | [0907-koko-eating-bananas](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0907-koko-eating-bananas) |
 | [0909-stone-game](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0909-stone-game) |
 | [0943-sum-of-subarray-minimums](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0943-sum-of-subarray-minimums) |
+| [0945-snakes-and-ladders](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0945-snakes-and-ladders) |
 | [0952-word-subsets](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0952-word-subsets) |
 | [0966-binary-subarrays-with-sum](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0966-binary-subarrays-with-sum) |
 | [0967-minimum-falling-path-sum](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0967-minimum-falling-path-sum) |
@@ -574,6 +575,7 @@ LeetCode Solution
 | [0542-01-matrix](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0542-01-matrix) |
 | [0695-max-area-of-island](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0733-flood-fill) |
+| [0945-snakes-and-ladders](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0945-snakes-and-ladders) |
 | [0967-minimum-falling-path-sum](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0967-minimum-falling-path-sum) |
 | [1036-rotting-oranges](https://github.com/rahulkamble2026rk/Leetcode/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/rahulkamble2026rk/Leetcode/tree/master/1073-number-of-enclaves) |
@@ -959,6 +961,7 @@ LeetCode Solution
 | [0813-all-paths-from-source-to-target](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0813-all-paths-from-source-to-target) |
 | [0820-find-eventual-safe-states](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0820-find-eventual-safe-states) |
 | [0871-keys-and-rooms](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0871-keys-and-rooms) |
+| [0945-snakes-and-ladders](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0945-snakes-and-ladders) |
 | [1036-rotting-oranges](https://github.com/rahulkamble2026rk/Leetcode/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/rahulkamble2026rk/Leetcode/tree/master/1073-number-of-enclaves) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/rahulkamble2026rk/Leetcode/tree/master/1171-shortest-path-in-binary-matrix) |
