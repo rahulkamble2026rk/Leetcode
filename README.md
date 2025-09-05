@@ -488,6 +488,7 @@ LeetCode Solution
 | [2700-substring-xor-queries](https://github.com/rahulkamble2026rk/Leetcode/tree/master/2700-substring-xor-queries) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/rahulkamble2026rk/Leetcode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2792-neighboring-bitwise-xor](https://github.com/rahulkamble2026rk/Leetcode/tree/master/2792-neighboring-bitwise-xor) |
+| [2837-minimum-operations-to-make-the-integer-zero](https://github.com/rahulkamble2026rk/Leetcode/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/rahulkamble2026rk/Leetcode/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/rahulkamble2026rk/Leetcode/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/rahulkamble2026rk/Leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
@@ -921,6 +922,7 @@ LeetCode Solution
 | ------- |
 | [2481-strictly-palindromic-number](https://github.com/rahulkamble2026rk/Leetcode/tree/master/2481-strictly-palindromic-number) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/rahulkamble2026rk/Leetcode/tree/master/2533-bitwise-xor-of-all-pairings) |
+| [2837-minimum-operations-to-make-the-integer-zero](https://github.com/rahulkamble2026rk/Leetcode/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 ## Recursion
 |  |
 | ------- |
@@ -1156,6 +1158,7 @@ LeetCode Solution
 | [0204-count-primes](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0204-count-primes) |
 | [0900-reordered-power-of-2](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0900-reordered-power-of-2) |
 | [1656-count-good-triplets](https://github.com/rahulkamble2026rk/Leetcode/tree/master/1656-count-good-triplets) |
+| [2837-minimum-operations-to-make-the-integer-zero](https://github.com/rahulkamble2026rk/Leetcode/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 | [2998-count-symmetric-integers](https://github.com/rahulkamble2026rk/Leetcode/tree/master/2998-count-symmetric-integers) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/rahulkamble2026rk/Leetcode/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/rahulkamble2026rk/Leetcode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
