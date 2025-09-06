@@ -204,6 +204,7 @@ LeetCode Solution
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/rahulkamble2026rk/Leetcode/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/rahulkamble2026rk/Leetcode/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 | [3738-make-array-non-decreasing](https://github.com/rahulkamble2026rk/Leetcode/tree/master/3738-make-array-non-decreasing) |
+| [3744-minimum-operations-to-make-array-elements-zero](https://github.com/rahulkamble2026rk/Leetcode/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/rahulkamble2026rk/Leetcode/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 | [3748-sort-matrix-by-diagonals](https://github.com/rahulkamble2026rk/Leetcode/tree/master/3748-sort-matrix-by-diagonals) |
 | [3764-maximum-sum-with-at-most-k-elements](https://github.com/rahulkamble2026rk/Leetcode/tree/master/3764-maximum-sum-with-at-most-k-elements) |
@@ -383,6 +384,7 @@ LeetCode Solution
 | [3279-alice-and-bob-playing-flower-game](https://github.com/rahulkamble2026rk/Leetcode/tree/master/3279-alice-and-bob-playing-flower-game) |
 | [3321-type-of-triangle](https://github.com/rahulkamble2026rk/Leetcode/tree/master/3321-type-of-triangle) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/rahulkamble2026rk/Leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+| [3744-minimum-operations-to-make-array-elements-zero](https://github.com/rahulkamble2026rk/Leetcode/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/rahulkamble2026rk/Leetcode/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3830-find-closest-person](https://github.com/rahulkamble2026rk/Leetcode/tree/master/3830-find-closest-person) |
 ## String
@@ -494,6 +496,7 @@ LeetCode Solution
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/rahulkamble2026rk/Leetcode/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/rahulkamble2026rk/Leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/rahulkamble2026rk/Leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+| [3744-minimum-operations-to-make-array-elements-zero](https://github.com/rahulkamble2026rk/Leetcode/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 ## Dynamic Programming
 |  |
 | ------- |
