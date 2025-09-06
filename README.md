@@ -1235,6 +1235,7 @@ LeetCode Solution
 | [0180-consecutive-numbers](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0180-consecutive-numbers) |
 | [0183-customers-who-never-order](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0183-customers-who-never-order) |
 | [0184-department-highest-salary](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0184-department-highest-salary) |
+| [0196-delete-duplicate-emails](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0196-delete-duplicate-emails) |
 | [0197-rising-temperature](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0197-rising-temperature) |
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0570-managers-with-at-least-5-direct-reports) |
 | [0577-employee-bonus](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0577-employee-bonus) |
