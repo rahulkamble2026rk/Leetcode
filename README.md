@@ -121,6 +121,7 @@ LeetCode Solution
 | [1663-detect-cycles-in-2d-grid](https://github.com/rahulkamble2026rk/Leetcode/tree/master/1663-detect-cycles-in-2d-grid) |
 | [1704-special-positions-in-a-binary-matrix](https://github.com/rahulkamble2026rk/Leetcode/tree/master/1704-special-positions-in-a-binary-matrix) |
 | [1813-maximum-erasure-value](https://github.com/rahulkamble2026rk/Leetcode/tree/master/1813-maximum-erasure-value) |
+| [1834-minimum-number-of-people-to-teach](https://github.com/rahulkamble2026rk/Leetcode/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1876-map-of-highest-peak](https://github.com/rahulkamble2026rk/Leetcode/tree/master/1876-map-of-highest-peak) |
 | [1901-equal-sum-arrays-with-minimum-number-of-operations](https://github.com/rahulkamble2026rk/Leetcode/tree/master/1901-equal-sum-arrays-with-minimum-number-of-operations) |
 | [1917-maximum-average-pass-ratio](https://github.com/rahulkamble2026rk/Leetcode/tree/master/1917-maximum-average-pass-ratio) |
@@ -254,6 +255,7 @@ LeetCode Solution
 | [1510-find-lucky-integer-in-an-array](https://github.com/rahulkamble2026rk/Leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1770-minimum-deletions-to-make-character-frequencies-unique](https://github.com/rahulkamble2026rk/Leetcode/tree/master/1770-minimum-deletions-to-make-character-frequencies-unique) |
 | [1813-maximum-erasure-value](https://github.com/rahulkamble2026rk/Leetcode/tree/master/1813-maximum-erasure-value) |
+| [1834-minimum-number-of-people-to-teach](https://github.com/rahulkamble2026rk/Leetcode/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1844-maximum-number-of-balls-in-a-box](https://github.com/rahulkamble2026rk/Leetcode/tree/master/1844-maximum-number-of-balls-in-a-box) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/rahulkamble2026rk/Leetcode/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [1901-equal-sum-arrays-with-minimum-number-of-operations](https://github.com/rahulkamble2026rk/Leetcode/tree/master/1901-equal-sum-arrays-with-minimum-number-of-operations) |
@@ -781,6 +783,7 @@ LeetCode Solution
 | [1448-maximum-69-number](https://github.com/rahulkamble2026rk/Leetcode/tree/master/1448-maximum-69-number) |
 | [1502-construct-k-palindrome-strings](https://github.com/rahulkamble2026rk/Leetcode/tree/master/1502-construct-k-palindrome-strings) |
 | [1770-minimum-deletions-to-make-character-frequencies-unique](https://github.com/rahulkamble2026rk/Leetcode/tree/master/1770-minimum-deletions-to-make-character-frequencies-unique) |
+| [1834-minimum-number-of-people-to-teach](https://github.com/rahulkamble2026rk/Leetcode/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1901-equal-sum-arrays-with-minimum-number-of-operations](https://github.com/rahulkamble2026rk/Leetcode/tree/master/1901-equal-sum-arrays-with-minimum-number-of-operations) |
 | [1917-maximum-average-pass-ratio](https://github.com/rahulkamble2026rk/Leetcode/tree/master/1917-maximum-average-pass-ratio) |
 | [2032-largest-odd-number-in-string](https://github.com/rahulkamble2026rk/Leetcode/tree/master/2032-largest-odd-number-in-string) |
