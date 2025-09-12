@@ -389,6 +389,7 @@ LeetCode Solution
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/rahulkamble2026rk/Leetcode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3279-alice-and-bob-playing-flower-game](https://github.com/rahulkamble2026rk/Leetcode/tree/master/3279-alice-and-bob-playing-flower-game) |
 | [3321-type-of-triangle](https://github.com/rahulkamble2026rk/Leetcode/tree/master/3321-type-of-triangle) |
+| [3462-vowels-game-in-a-string](https://github.com/rahulkamble2026rk/Leetcode/tree/master/3462-vowels-game-in-a-string) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/rahulkamble2026rk/Leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/rahulkamble2026rk/Leetcode/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/rahulkamble2026rk/Leetcode/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
@@ -461,6 +462,7 @@ LeetCode Solution
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/rahulkamble2026rk/Leetcode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3447-clear-digits](https://github.com/rahulkamble2026rk/Leetcode/tree/master/3447-clear-digits) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/rahulkamble2026rk/Leetcode/tree/master/3455-minimum-length-of-string-after-operations) |
+| [3462-vowels-game-in-a-string](https://github.com/rahulkamble2026rk/Leetcode/tree/master/3462-vowels-game-in-a-string) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/rahulkamble2026rk/Leetcode/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3617-find-the-original-typed-string-i](https://github.com/rahulkamble2026rk/Leetcode/tree/master/3617-find-the-original-typed-string-i) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/rahulkamble2026rk/Leetcode/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
@@ -941,6 +943,7 @@ LeetCode Solution
 | [2481-strictly-palindromic-number](https://github.com/rahulkamble2026rk/Leetcode/tree/master/2481-strictly-palindromic-number) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/rahulkamble2026rk/Leetcode/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/rahulkamble2026rk/Leetcode/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
+| [3462-vowels-game-in-a-string](https://github.com/rahulkamble2026rk/Leetcode/tree/master/3462-vowels-game-in-a-string) |
 ## Recursion
 |  |
 | ------- |
@@ -1211,6 +1214,7 @@ LeetCode Solution
 |  |
 | ------- |
 | [0909-stone-game](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0909-stone-game) |
+| [3462-vowels-game-in-a-string](https://github.com/rahulkamble2026rk/Leetcode/tree/master/3462-vowels-game-in-a-string) |
 ## Monotonic Queue
 |  |
 | ------- |
