@@ -280,6 +280,7 @@ LeetCode Solution
 | [2888-minimum-index-of-a-valid-split](https://github.com/rahulkamble2026rk/Leetcode/tree/master/2888-minimum-index-of-a-valid-split) |
 | [2915-count-of-interesting-subarrays](https://github.com/rahulkamble2026rk/Leetcode/tree/master/2915-count-of-interesting-subarrays) |
 | [3227-find-missing-and-repeated-values](https://github.com/rahulkamble2026rk/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
+| [3349-maximum-length-substring-with-two-occurrences](https://github.com/rahulkamble2026rk/Leetcode/tree/master/3349-maximum-length-substring-with-two-occurrences) |
 | [3420-find-occurrences-of-an-element-in-an-array](https://github.com/rahulkamble2026rk/Leetcode/tree/master/3420-find-occurrences-of-an-element-in-an-array) |
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/rahulkamble2026rk/Leetcode/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/rahulkamble2026rk/Leetcode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
@@ -314,6 +315,7 @@ LeetCode Solution
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/rahulkamble2026rk/Leetcode/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/rahulkamble2026rk/Leetcode/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/rahulkamble2026rk/Leetcode/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
+| [3349-maximum-length-substring-with-two-occurrences](https://github.com/rahulkamble2026rk/Leetcode/tree/master/3349-maximum-length-substring-with-two-occurrences) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/rahulkamble2026rk/Leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3483-alternating-groups-ii](https://github.com/rahulkamble2026rk/Leetcode/tree/master/3483-alternating-groups-ii) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/rahulkamble2026rk/Leetcode/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
@@ -460,6 +462,7 @@ LeetCode Solution
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/rahulkamble2026rk/Leetcode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3194-find-words-containing-character](https://github.com/rahulkamble2026rk/Leetcode/tree/master/3194-find-words-containing-character) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/rahulkamble2026rk/Leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+| [3349-maximum-length-substring-with-two-occurrences](https://github.com/rahulkamble2026rk/Leetcode/tree/master/3349-maximum-length-substring-with-two-occurrences) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/rahulkamble2026rk/Leetcode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3447-clear-digits](https://github.com/rahulkamble2026rk/Leetcode/tree/master/3447-clear-digits) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/rahulkamble2026rk/Leetcode/tree/master/3455-minimum-length-of-string-after-operations) |
