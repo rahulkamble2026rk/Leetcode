@@ -248,6 +248,7 @@ LeetCode Solution
 | [1039-find-the-town-judge](https://github.com/rahulkamble2026rk/Leetcode/tree/master/1039-find-the-town-judge) |
 | [1129-longest-string-chain](https://github.com/rahulkamble2026rk/Leetcode/tree/master/1129-longest-string-chain) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/rahulkamble2026rk/Leetcode/tree/master/1227-number-of-equivalent-domino-pairs) |
+| [1264-maximum-number-of-words-you-can-type](https://github.com/rahulkamble2026rk/Leetcode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1364-tuple-with-same-product](https://github.com/rahulkamble2026rk/Leetcode/tree/master/1364-tuple-with-same-product) |
 | [1370-count-number-of-nice-subarrays](https://github.com/rahulkamble2026rk/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/rahulkamble2026rk/Leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
@@ -437,6 +438,7 @@ LeetCode Solution
 | [1159-smallest-subsequence-of-distinct-characters](https://github.com/rahulkamble2026rk/Leetcode/tree/master/1159-smallest-subsequence-of-distinct-characters) |
 | [1170-shortest-common-supersequence](https://github.com/rahulkamble2026rk/Leetcode/tree/master/1170-shortest-common-supersequence) |
 | [1250-longest-common-subsequence](https://github.com/rahulkamble2026rk/Leetcode/tree/master/1250-longest-common-subsequence) |
+| [1264-maximum-number-of-words-you-can-type](https://github.com/rahulkamble2026rk/Leetcode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/rahulkamble2026rk/Leetcode/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/rahulkamble2026rk/Leetcode/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1449-print-words-vertically](https://github.com/rahulkamble2026rk/Leetcode/tree/master/1449-print-words-vertically) |
