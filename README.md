@@ -151,6 +151,7 @@ LeetCode Solution
 | [2308-divide-array-into-equal-pairs](https://github.com/rahulkamble2026rk/Leetcode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/rahulkamble2026rk/Leetcode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/rahulkamble2026rk/Leetcode/tree/master/2394-count-subarrays-with-score-less-than-k) |
+| [2429-design-a-food-rating-system](https://github.com/rahulkamble2026rk/Leetcode/tree/master/2429-design-a-food-rating-system) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/rahulkamble2026rk/Leetcode/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2448-count-number-of-bad-pairs](https://github.com/rahulkamble2026rk/Leetcode/tree/master/2448-count-number-of-bad-pairs) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/rahulkamble2026rk/Leetcode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
@@ -271,6 +272,7 @@ LeetCode Solution
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/rahulkamble2026rk/Leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/rahulkamble2026rk/Leetcode/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
 | [2308-divide-array-into-equal-pairs](https://github.com/rahulkamble2026rk/Leetcode/tree/master/2308-divide-array-into-equal-pairs) |
+| [2429-design-a-food-rating-system](https://github.com/rahulkamble2026rk/Leetcode/tree/master/2429-design-a-food-rating-system) |
 | [2434-design-a-number-container-system](https://github.com/rahulkamble2026rk/Leetcode/tree/master/2434-design-a-number-container-system) |
 | [2448-count-number-of-bad-pairs](https://github.com/rahulkamble2026rk/Leetcode/tree/master/2448-count-number-of-bad-pairs) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/rahulkamble2026rk/Leetcode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
@@ -461,6 +463,7 @@ LeetCode Solution
 | [2292-counting-words-with-a-given-prefix](https://github.com/rahulkamble2026rk/Leetcode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/rahulkamble2026rk/Leetcode/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/rahulkamble2026rk/Leetcode/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
+| [2429-design-a-food-rating-system](https://github.com/rahulkamble2026rk/Leetcode/tree/master/2429-design-a-food-rating-system) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/rahulkamble2026rk/Leetcode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/rahulkamble2026rk/Leetcode/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2536-determine-if-two-events-have-conflict](https://github.com/rahulkamble2026rk/Leetcode/tree/master/2536-determine-if-two-events-have-conflict) |
@@ -747,6 +750,7 @@ LeetCode Solution
 | [1477-product-of-the-last-k-numbers](https://github.com/rahulkamble2026rk/Leetcode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/rahulkamble2026rk/Leetcode/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2357-count-integers-in-intervals](https://github.com/rahulkamble2026rk/Leetcode/tree/master/2357-count-integers-in-intervals) |
+| [2429-design-a-food-rating-system](https://github.com/rahulkamble2026rk/Leetcode/tree/master/2429-design-a-food-rating-system) |
 | [2434-design-a-number-container-system](https://github.com/rahulkamble2026rk/Leetcode/tree/master/2434-design-a-number-container-system) |
 | [3797-design-spreadsheet](https://github.com/rahulkamble2026rk/Leetcode/tree/master/3797-design-spreadsheet) |
 ## Monotonic Stack
@@ -944,6 +948,7 @@ LeetCode Solution
 | [0456-132-pattern](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0456-132-pattern) |
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/rahulkamble2026rk/Leetcode/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2357-count-integers-in-intervals](https://github.com/rahulkamble2026rk/Leetcode/tree/master/2357-count-integers-in-intervals) |
+| [2429-design-a-food-rating-system](https://github.com/rahulkamble2026rk/Leetcode/tree/master/2429-design-a-food-rating-system) |
 | [2434-design-a-number-container-system](https://github.com/rahulkamble2026rk/Leetcode/tree/master/2434-design-a-number-container-system) |
 | [3773-minimum-pair-removal-to-sort-array-i](https://github.com/rahulkamble2026rk/Leetcode/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
 ## Segment Tree
@@ -1069,6 +1074,7 @@ LeetCode Solution
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/rahulkamble2026rk/Leetcode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1917-maximum-average-pass-ratio](https://github.com/rahulkamble2026rk/Leetcode/tree/master/1917-maximum-average-pass-ratio) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/rahulkamble2026rk/Leetcode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
+| [2429-design-a-food-rating-system](https://github.com/rahulkamble2026rk/Leetcode/tree/master/2429-design-a-food-rating-system) |
 | [2434-design-a-number-container-system](https://github.com/rahulkamble2026rk/Leetcode/tree/master/2434-design-a-number-container-system) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/rahulkamble2026rk/Leetcode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/rahulkamble2026rk/Leetcode/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
