@@ -217,6 +217,7 @@ LeetCode Solution
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/rahulkamble2026rk/Leetcode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3797-design-spreadsheet](https://github.com/rahulkamble2026rk/Leetcode/tree/master/3797-design-spreadsheet) |
 | [3799-unique-3-digit-even-numbers](https://github.com/rahulkamble2026rk/Leetcode/tree/master/3799-unique-3-digit-even-numbers) |
+| [3827-implement-router](https://github.com/rahulkamble2026rk/Leetcode/tree/master/3827-implement-router) |
 ## Hash Table
 |  |
 | ------- |
@@ -302,6 +303,7 @@ LeetCode Solution
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/rahulkamble2026rk/Leetcode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3797-design-spreadsheet](https://github.com/rahulkamble2026rk/Leetcode/tree/master/3797-design-spreadsheet) |
 | [3799-unique-3-digit-even-numbers](https://github.com/rahulkamble2026rk/Leetcode/tree/master/3799-unique-3-digit-even-numbers) |
+| [3827-implement-router](https://github.com/rahulkamble2026rk/Leetcode/tree/master/3827-implement-router) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/rahulkamble2026rk/Leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Sliding Window
 |  |
@@ -755,6 +757,7 @@ LeetCode Solution
 | [2434-design-a-number-container-system](https://github.com/rahulkamble2026rk/Leetcode/tree/master/2434-design-a-number-container-system) |
 | [3678-design-task-manager](https://github.com/rahulkamble2026rk/Leetcode/tree/master/3678-design-task-manager) |
 | [3797-design-spreadsheet](https://github.com/rahulkamble2026rk/Leetcode/tree/master/3797-design-spreadsheet) |
+| [3827-implement-router](https://github.com/rahulkamble2026rk/Leetcode/tree/master/3827-implement-router) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -897,6 +900,7 @@ LeetCode Solution
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/rahulkamble2026rk/Leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/rahulkamble2026rk/Leetcode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [3643-zero-array-transformation-ii](https://github.com/rahulkamble2026rk/Leetcode/tree/master/3643-zero-array-transformation-ii) |
+| [3827-implement-router](https://github.com/rahulkamble2026rk/Leetcode/tree/master/3827-implement-router) |
 ## Counting
 |  |
 | ------- |
@@ -954,6 +958,7 @@ LeetCode Solution
 | [2434-design-a-number-container-system](https://github.com/rahulkamble2026rk/Leetcode/tree/master/2434-design-a-number-container-system) |
 | [3678-design-task-manager](https://github.com/rahulkamble2026rk/Leetcode/tree/master/3678-design-task-manager) |
 | [3773-minimum-pair-removal-to-sort-array-i](https://github.com/rahulkamble2026rk/Leetcode/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
+| [3827-implement-router](https://github.com/rahulkamble2026rk/Leetcode/tree/master/3827-implement-router) |
 ## Segment Tree
 |  |
 | ------- |
@@ -1229,6 +1234,7 @@ LeetCode Solution
 | [2408-number-of-people-aware-of-a-secret](https://github.com/rahulkamble2026rk/Leetcode/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/rahulkamble2026rk/Leetcode/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/rahulkamble2026rk/Leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+| [3827-implement-router](https://github.com/rahulkamble2026rk/Leetcode/tree/master/3827-implement-router) |
 ## Counting Sort
 |  |
 | ------- |
