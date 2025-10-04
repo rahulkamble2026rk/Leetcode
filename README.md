@@ -8,6 +8,7 @@ LeetCode Solution
 | ------- |
 | [0001-two-sum](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0011-container-with-most-water](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0031-next-permutation](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
@@ -798,6 +799,7 @@ LeetCode Solution
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0011-container-with-most-water) |
 | [0045-jump-game-ii](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -939,6 +941,7 @@ LeetCode Solution
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0011-container-with-most-water) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0031-next-permutation) |
 | [0086-partition-list](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0086-partition-list) |
