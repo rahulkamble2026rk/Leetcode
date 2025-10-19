@@ -466,6 +466,7 @@ LeetCode Solution
 | [1508-longest-happy-prefix](https://github.com/rahulkamble2026rk/Leetcode/tree/master/1508-longest-happy-prefix) |
 | [1524-string-matching-in-an-array](https://github.com/rahulkamble2026rk/Leetcode/tree/master/1524-string-matching-in-an-array) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/rahulkamble2026rk/Leetcode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
+| [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/rahulkamble2026rk/Leetcode/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [1770-minimum-deletions-to-make-character-frequencies-unique](https://github.com/rahulkamble2026rk/Leetcode/tree/master/1770-minimum-deletions-to-make-character-frequencies-unique) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/rahulkamble2026rk/Leetcode/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/rahulkamble2026rk/Leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
@@ -696,6 +697,7 @@ LeetCode Solution
 | [1442-number-of-operations-to-make-network-connected](https://github.com/rahulkamble2026rk/Leetcode/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/rahulkamble2026rk/Leetcode/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [1663-detect-cycles-in-2d-grid](https://github.com/rahulkamble2026rk/Leetcode/tree/master/1663-detect-cycles-in-2d-grid) |
+| [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/rahulkamble2026rk/Leetcode/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [2121-find-if-path-exists-in-graph](https://github.com/rahulkamble2026rk/Leetcode/tree/master/2121-find-if-path-exists-in-graph) |
 | [2439-longest-cycle-in-a-graph](https://github.com/rahulkamble2026rk/Leetcode/tree/master/2439-longest-cycle-in-a-graph) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/rahulkamble2026rk/Leetcode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
@@ -1039,6 +1041,7 @@ LeetCode Solution
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/rahulkamble2026rk/Leetcode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/rahulkamble2026rk/Leetcode/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [1663-detect-cycles-in-2d-grid](https://github.com/rahulkamble2026rk/Leetcode/tree/master/1663-detect-cycles-in-2d-grid) |
+| [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/rahulkamble2026rk/Leetcode/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [1876-map-of-highest-peak](https://github.com/rahulkamble2026rk/Leetcode/tree/master/1876-map-of-highest-peak) |
 | [2121-find-if-path-exists-in-graph](https://github.com/rahulkamble2026rk/Leetcode/tree/master/2121-find-if-path-exists-in-graph) |
 | [2439-longest-cycle-in-a-graph](https://github.com/rahulkamble2026rk/Leetcode/tree/master/2439-longest-cycle-in-a-graph) |
@@ -1243,6 +1246,7 @@ LeetCode Solution
 | [0204-count-primes](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0204-count-primes) |
 | [0900-reordered-power-of-2](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0900-reordered-power-of-2) |
 | [1656-count-good-triplets](https://github.com/rahulkamble2026rk/Leetcode/tree/master/1656-count-good-triplets) |
+| [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/rahulkamble2026rk/Leetcode/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/rahulkamble2026rk/Leetcode/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 | [2998-count-symmetric-integers](https://github.com/rahulkamble2026rk/Leetcode/tree/master/2998-count-symmetric-integers) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/rahulkamble2026rk/Leetcode/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
