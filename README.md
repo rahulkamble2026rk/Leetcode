@@ -225,6 +225,7 @@ LeetCode Solution
 | [3797-design-spreadsheet](https://github.com/rahulkamble2026rk/Leetcode/tree/master/3797-design-spreadsheet) |
 | [3799-unique-3-digit-even-numbers](https://github.com/rahulkamble2026rk/Leetcode/tree/master/3799-unique-3-digit-even-numbers) |
 | [3827-implement-router](https://github.com/rahulkamble2026rk/Leetcode/tree/master/3827-implement-router) |
+| [4080-smallest-missing-multiple-of-k](https://github.com/rahulkamble2026rk/Leetcode/tree/master/4080-smallest-missing-multiple-of-k) |
 ## Hash Table
 |  |
 | ------- |
@@ -313,6 +314,7 @@ LeetCode Solution
 | [3799-unique-3-digit-even-numbers](https://github.com/rahulkamble2026rk/Leetcode/tree/master/3799-unique-3-digit-even-numbers) |
 | [3827-implement-router](https://github.com/rahulkamble2026rk/Leetcode/tree/master/3827-implement-router) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/rahulkamble2026rk/Leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
+| [4080-smallest-missing-multiple-of-k](https://github.com/rahulkamble2026rk/Leetcode/tree/master/4080-smallest-missing-multiple-of-k) |
 ## Sliding Window
 |  |
 | ------- |
