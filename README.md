@@ -140,6 +140,7 @@ LeetCode Solution
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/rahulkamble2026rk/Leetcode/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/rahulkamble2026rk/Leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/rahulkamble2026rk/Leetcode/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
+| [2169-simple-bank-system](https://github.com/rahulkamble2026rk/Leetcode/tree/master/2169-simple-bank-system) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/rahulkamble2026rk/Leetcode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/rahulkamble2026rk/Leetcode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2205-find-good-days-to-rob-the-bank](https://github.com/rahulkamble2026rk/Leetcode/tree/master/2205-find-good-days-to-rob-the-bank) |
@@ -277,6 +278,7 @@ LeetCode Solution
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/rahulkamble2026rk/Leetcode/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2107-find-unique-binary-string](https://github.com/rahulkamble2026rk/Leetcode/tree/master/2107-find-unique-binary-string) |
 | [2117-find-original-array-from-doubled-array](https://github.com/rahulkamble2026rk/Leetcode/tree/master/2117-find-original-array-from-doubled-array) |
+| [2169-simple-bank-system](https://github.com/rahulkamble2026rk/Leetcode/tree/master/2169-simple-bank-system) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/rahulkamble2026rk/Leetcode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/rahulkamble2026rk/Leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/rahulkamble2026rk/Leetcode/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
@@ -773,6 +775,7 @@ LeetCode Solution
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/rahulkamble2026rk/Leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1477-product-of-the-last-k-numbers](https://github.com/rahulkamble2026rk/Leetcode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/rahulkamble2026rk/Leetcode/tree/master/1995-finding-pairs-with-a-certain-sum) |
+| [2169-simple-bank-system](https://github.com/rahulkamble2026rk/Leetcode/tree/master/2169-simple-bank-system) |
 | [2357-count-integers-in-intervals](https://github.com/rahulkamble2026rk/Leetcode/tree/master/2357-count-integers-in-intervals) |
 | [2429-design-a-food-rating-system](https://github.com/rahulkamble2026rk/Leetcode/tree/master/2429-design-a-food-rating-system) |
 | [2434-design-a-number-container-system](https://github.com/rahulkamble2026rk/Leetcode/tree/master/2434-design-a-number-container-system) |
@@ -1137,6 +1140,7 @@ LeetCode Solution
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/rahulkamble2026rk/Leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2048-build-array-from-permutation](https://github.com/rahulkamble2026rk/Leetcode/tree/master/2048-build-array-from-permutation) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/rahulkamble2026rk/Leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2169-simple-bank-system](https://github.com/rahulkamble2026rk/Leetcode/tree/master/2169-simple-bank-system) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/rahulkamble2026rk/Leetcode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/rahulkamble2026rk/Leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/rahulkamble2026rk/Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
