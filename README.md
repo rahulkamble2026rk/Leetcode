@@ -230,6 +230,7 @@ LeetCode Solution
 | [3797-design-spreadsheet](https://github.com/rahulkamble2026rk/Leetcode/tree/master/3797-design-spreadsheet) |
 | [3799-unique-3-digit-even-numbers](https://github.com/rahulkamble2026rk/Leetcode/tree/master/3799-unique-3-digit-even-numbers) |
 | [3827-implement-router](https://github.com/rahulkamble2026rk/Leetcode/tree/master/3827-implement-router) |
+| [4045-longest-balanced-subarray-i](https://github.com/rahulkamble2026rk/Leetcode/tree/master/4045-longest-balanced-subarray-i) |
 | [4080-smallest-missing-multiple-of-k](https://github.com/rahulkamble2026rk/Leetcode/tree/master/4080-smallest-missing-multiple-of-k) |
 ## Hash Table
 |  |
@@ -320,6 +321,7 @@ LeetCode Solution
 | [3799-unique-3-digit-even-numbers](https://github.com/rahulkamble2026rk/Leetcode/tree/master/3799-unique-3-digit-even-numbers) |
 | [3827-implement-router](https://github.com/rahulkamble2026rk/Leetcode/tree/master/3827-implement-router) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/rahulkamble2026rk/Leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
+| [4045-longest-balanced-subarray-i](https://github.com/rahulkamble2026rk/Leetcode/tree/master/4045-longest-balanced-subarray-i) |
 | [4080-smallest-missing-multiple-of-k](https://github.com/rahulkamble2026rk/Leetcode/tree/master/4080-smallest-missing-multiple-of-k) |
 ## Sliding Window
 |  |
@@ -364,6 +366,7 @@ LeetCode Solution
 | [3639-zero-array-transformation-i](https://github.com/rahulkamble2026rk/Leetcode/tree/master/3639-zero-array-transformation-i) |
 | [3643-zero-array-transformation-ii](https://github.com/rahulkamble2026rk/Leetcode/tree/master/3643-zero-array-transformation-ii) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/rahulkamble2026rk/Leetcode/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
+| [4045-longest-balanced-subarray-i](https://github.com/rahulkamble2026rk/Leetcode/tree/master/4045-longest-balanced-subarray-i) |
 ## Math
 |  |
 | ------- |
@@ -1013,6 +1016,7 @@ LeetCode Solution
 | ------- |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [2357-count-integers-in-intervals](https://github.com/rahulkamble2026rk/Leetcode/tree/master/2357-count-integers-in-intervals) |
+| [4045-longest-balanced-subarray-i](https://github.com/rahulkamble2026rk/Leetcode/tree/master/4045-longest-balanced-subarray-i) |
 ## Brainteaser
 |  |
 | ------- |
@@ -1322,6 +1326,7 @@ LeetCode Solution
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0215-kth-largest-element-in-an-array](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [1014-k-closest-points-to-origin](https://github.com/rahulkamble2026rk/Leetcode/tree/master/1014-k-closest-points-to-origin) |
+| [4045-longest-balanced-subarray-i](https://github.com/rahulkamble2026rk/Leetcode/tree/master/4045-longest-balanced-subarray-i) |
 ## Binary Indexed Tree
 |  |
 | ------- |
