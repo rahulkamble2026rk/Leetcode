@@ -160,6 +160,7 @@ LeetCode Solution
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/rahulkamble2026rk/Leetcode/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2308-divide-array-into-equal-pairs](https://github.com/rahulkamble2026rk/Leetcode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/rahulkamble2026rk/Leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
+| [2343-count-unguarded-cells-in-the-grid](https://github.com/rahulkamble2026rk/Leetcode/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/rahulkamble2026rk/Leetcode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/rahulkamble2026rk/Leetcode/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2429-design-a-food-rating-system](https://github.com/rahulkamble2026rk/Leetcode/tree/master/2429-design-a-food-rating-system) |
@@ -666,6 +667,7 @@ LeetCode Solution
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/rahulkamble2026rk/Leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/rahulkamble2026rk/Leetcode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/rahulkamble2026rk/Leetcode/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
+| [2343-count-unguarded-cells-in-the-grid](https://github.com/rahulkamble2026rk/Leetcode/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2606-difference-between-ones-and-zeros-in-row-and-column](https://github.com/rahulkamble2026rk/Leetcode/tree/master/2606-difference-between-ones-and-zeros-in-row-and-column) |
 | [2685-first-completely-painted-row-or-column](https://github.com/rahulkamble2026rk/Leetcode/tree/master/2685-first-completely-painted-row-or-column) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/rahulkamble2026rk/Leetcode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
@@ -1173,6 +1175,7 @@ LeetCode Solution
 | [2265-partition-array-according-to-given-pivot](https://github.com/rahulkamble2026rk/Leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/rahulkamble2026rk/Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/rahulkamble2026rk/Leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
+| [2343-count-unguarded-cells-in-the-grid](https://github.com/rahulkamble2026rk/Leetcode/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/rahulkamble2026rk/Leetcode/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [2551-apply-operations-to-an-array](https://github.com/rahulkamble2026rk/Leetcode/tree/master/2551-apply-operations-to-an-array) |
 | [2595-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/rahulkamble2026rk/Leetcode/tree/master/2595-smallest-value-after-replacing-with-sum-of-prime-factors) |
