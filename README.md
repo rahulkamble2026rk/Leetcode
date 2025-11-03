@@ -129,6 +129,7 @@ LeetCode Solution
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/rahulkamble2026rk/Leetcode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1656-count-good-triplets](https://github.com/rahulkamble2026rk/Leetcode/tree/master/1656-count-good-triplets) |
 | [1663-detect-cycles-in-2d-grid](https://github.com/rahulkamble2026rk/Leetcode/tree/master/1663-detect-cycles-in-2d-grid) |
+| [1700-minimum-time-to-make-rope-colorful](https://github.com/rahulkamble2026rk/Leetcode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1704-special-positions-in-a-binary-matrix](https://github.com/rahulkamble2026rk/Leetcode/tree/master/1704-special-positions-in-a-binary-matrix) |
 | [1813-maximum-erasure-value](https://github.com/rahulkamble2026rk/Leetcode/tree/master/1813-maximum-erasure-value) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/rahulkamble2026rk/Leetcode/tree/master/1834-minimum-number-of-people-to-teach) |
@@ -492,6 +493,7 @@ LeetCode Solution
 | [1502-construct-k-palindrome-strings](https://github.com/rahulkamble2026rk/Leetcode/tree/master/1502-construct-k-palindrome-strings) |
 | [1508-longest-happy-prefix](https://github.com/rahulkamble2026rk/Leetcode/tree/master/1508-longest-happy-prefix) |
 | [1524-string-matching-in-an-array](https://github.com/rahulkamble2026rk/Leetcode/tree/master/1524-string-matching-in-an-array) |
+| [1700-minimum-time-to-make-rope-colorful](https://github.com/rahulkamble2026rk/Leetcode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/rahulkamble2026rk/Leetcode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/rahulkamble2026rk/Leetcode/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [1770-minimum-deletions-to-make-character-frequencies-unique](https://github.com/rahulkamble2026rk/Leetcode/tree/master/1770-minimum-deletions-to-make-character-frequencies-unique) |
@@ -625,6 +627,7 @@ LeetCode Solution
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/rahulkamble2026rk/Leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1628-count-submatrices-with-all-ones](https://github.com/rahulkamble2026rk/Leetcode/tree/master/1628-count-submatrices-with-all-ones) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/rahulkamble2026rk/Leetcode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
+| [1700-minimum-time-to-make-rope-colorful](https://github.com/rahulkamble2026rk/Leetcode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/rahulkamble2026rk/Leetcode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/rahulkamble2026rk/Leetcode/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2205-find-good-days-to-rob-the-bank](https://github.com/rahulkamble2026rk/Leetcode/tree/master/2205-find-good-days-to-rob-the-bank) |
@@ -866,6 +869,7 @@ LeetCode Solution
 | [1448-maximum-69-number](https://github.com/rahulkamble2026rk/Leetcode/tree/master/1448-maximum-69-number) |
 | [1502-construct-k-palindrome-strings](https://github.com/rahulkamble2026rk/Leetcode/tree/master/1502-construct-k-palindrome-strings) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/rahulkamble2026rk/Leetcode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
+| [1700-minimum-time-to-make-rope-colorful](https://github.com/rahulkamble2026rk/Leetcode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1770-minimum-deletions-to-make-character-frequencies-unique](https://github.com/rahulkamble2026rk/Leetcode/tree/master/1770-minimum-deletions-to-make-character-frequencies-unique) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/rahulkamble2026rk/Leetcode/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1901-equal-sum-arrays-with-minimum-number-of-operations](https://github.com/rahulkamble2026rk/Leetcode/tree/master/1901-equal-sum-arrays-with-minimum-number-of-operations) |
