@@ -430,6 +430,7 @@ LeetCode Solution
 | [1500-count-largest-group](https://github.com/rahulkamble2026rk/Leetcode/tree/master/1500-count-largest-group) |
 | [1513-number-of-substrings-with-only-1s](https://github.com/rahulkamble2026rk/Leetcode/tree/master/1513-number-of-substrings-with-only-1s) |
 | [1585-the-kth-factor-of-n](https://github.com/rahulkamble2026rk/Leetcode/tree/master/1585-the-kth-factor-of-n) |
+| [1759-count-number-of-homogenous-substrings](https://github.com/rahulkamble2026rk/Leetcode/tree/master/1759-count-number-of-homogenous-substrings) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/rahulkamble2026rk/Leetcode/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [1844-maximum-number-of-balls-in-a-box](https://github.com/rahulkamble2026rk/Leetcode/tree/master/1844-maximum-number-of-balls-in-a-box) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/rahulkamble2026rk/Leetcode/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
@@ -518,6 +519,7 @@ LeetCode Solution
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/rahulkamble2026rk/Leetcode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/rahulkamble2026rk/Leetcode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/rahulkamble2026rk/Leetcode/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
+| [1759-count-number-of-homogenous-substrings](https://github.com/rahulkamble2026rk/Leetcode/tree/master/1759-count-number-of-homogenous-substrings) |
 | [1770-minimum-deletions-to-make-character-frequencies-unique](https://github.com/rahulkamble2026rk/Leetcode/tree/master/1770-minimum-deletions-to-make-character-frequencies-unique) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/rahulkamble2026rk/Leetcode/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/rahulkamble2026rk/Leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
