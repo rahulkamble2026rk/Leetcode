@@ -554,6 +554,7 @@ LeetCode Solution
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/rahulkamble2026rk/Leetcode/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3617-find-the-original-typed-string-i](https://github.com/rahulkamble2026rk/Leetcode/tree/master/3617-find-the-original-typed-string-i) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/rahulkamble2026rk/Leetcode/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
+| [3746-minimum-string-length-after-balanced-removals](https://github.com/rahulkamble2026rk/Leetcode/tree/master/3746-minimum-string-length-after-balanced-removals) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/rahulkamble2026rk/Leetcode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/rahulkamble2026rk/Leetcode/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/rahulkamble2026rk/Leetcode/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
@@ -821,6 +822,7 @@ LeetCode Solution
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/rahulkamble2026rk/Leetcode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3447-clear-digits](https://github.com/rahulkamble2026rk/Leetcode/tree/master/3447-clear-digits) |
 | [3738-make-array-non-decreasing](https://github.com/rahulkamble2026rk/Leetcode/tree/master/3738-make-array-non-decreasing) |
+| [3746-minimum-string-length-after-balanced-removals](https://github.com/rahulkamble2026rk/Leetcode/tree/master/3746-minimum-string-length-after-balanced-removals) |
 ## Design
 |  |
 | ------- |
@@ -1023,6 +1025,7 @@ LeetCode Solution
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/rahulkamble2026rk/Leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/rahulkamble2026rk/Leetcode/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/rahulkamble2026rk/Leetcode/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
+| [3746-minimum-string-length-after-balanced-removals](https://github.com/rahulkamble2026rk/Leetcode/tree/master/3746-minimum-string-length-after-balanced-removals) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/rahulkamble2026rk/Leetcode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/rahulkamble2026rk/Leetcode/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/rahulkamble2026rk/Leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
