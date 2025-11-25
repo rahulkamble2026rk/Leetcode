@@ -96,6 +96,7 @@ LeetCode Solution
 | [1006-vowel-spellchecker](https://github.com/rahulkamble2026rk/Leetcode/tree/master/1006-vowel-spellchecker) |
 | [1014-k-closest-points-to-origin](https://github.com/rahulkamble2026rk/Leetcode/tree/master/1014-k-closest-points-to-origin) |
 | [1018-largest-perimeter-triangle](https://github.com/rahulkamble2026rk/Leetcode/tree/master/1018-largest-perimeter-triangle) |
+| [1018-binary-prefix-divisible-by-5](https://github.com/rahulkamble2026rk/Leetcode/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1032-satisfiability-of-equality-equations](https://github.com/rahulkamble2026rk/Leetcode/tree/master/1032-satisfiability-of-equality-equations) |
 | [1034-subarrays-with-k-different-integers](https://github.com/rahulkamble2026rk/Leetcode/tree/master/1034-subarrays-with-k-different-integers) |
 | [1036-rotting-oranges](https://github.com/rahulkamble2026rk/Leetcode/tree/master/1036-rotting-oranges) |
@@ -582,6 +583,7 @@ LeetCode Solution
 | [0338-counting-bits](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0342-power-of-four) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
+| [1018-binary-prefix-divisible-by-5](https://github.com/rahulkamble2026rk/Leetcode/tree/master/1018-binary-prefix-divisible-by-5) |
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/rahulkamble2026rk/Leetcode/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2308-divide-array-into-equal-pairs](https://github.com/rahulkamble2026rk/Leetcode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2478-longest-nice-subarray](https://github.com/rahulkamble2026rk/Leetcode/tree/master/2478-longest-nice-subarray) |
