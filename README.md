@@ -145,6 +145,7 @@ LeetCode Solution
 | [1927-maximum-ascending-subarray-sum](https://github.com/rahulkamble2026rk/Leetcode/tree/master/1927-maximum-ascending-subarray-sum) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/rahulkamble2026rk/Leetcode/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2048-build-array-from-permutation](https://github.com/rahulkamble2026rk/Leetcode/tree/master/2048-build-array-from-permutation) |
+| [2054-two-best-non-overlapping-events](https://github.com/rahulkamble2026rk/Leetcode/tree/master/2054-two-best-non-overlapping-events) |
 | [2107-find-unique-binary-string](https://github.com/rahulkamble2026rk/Leetcode/tree/master/2107-find-unique-binary-string) |
 | [2117-find-original-array-from-doubled-array](https://github.com/rahulkamble2026rk/Leetcode/tree/master/2117-find-original-array-from-doubled-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/rahulkamble2026rk/Leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
@@ -674,6 +675,7 @@ LeetCode Solution
 | [1628-count-submatrices-with-all-ones](https://github.com/rahulkamble2026rk/Leetcode/tree/master/1628-count-submatrices-with-all-ones) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/rahulkamble2026rk/Leetcode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/rahulkamble2026rk/Leetcode/tree/master/1700-minimum-time-to-make-rope-colorful) |
+| [2054-two-best-non-overlapping-events](https://github.com/rahulkamble2026rk/Leetcode/tree/master/2054-two-best-non-overlapping-events) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/rahulkamble2026rk/Leetcode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/rahulkamble2026rk/Leetcode/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2205-find-good-days-to-rob-the-bank](https://github.com/rahulkamble2026rk/Leetcode/tree/master/2205-find-good-days-to-rob-the-bank) |
@@ -967,6 +969,7 @@ LeetCode Solution
 | [1253-sort-the-matrix-diagonally](https://github.com/rahulkamble2026rk/Leetcode/tree/master/1253-sort-the-matrix-diagonally) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/rahulkamble2026rk/Leetcode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1770-minimum-deletions-to-make-character-frequencies-unique](https://github.com/rahulkamble2026rk/Leetcode/tree/master/1770-minimum-deletions-to-make-character-frequencies-unique) |
+| [2054-two-best-non-overlapping-events](https://github.com/rahulkamble2026rk/Leetcode/tree/master/2054-two-best-non-overlapping-events) |
 | [2117-find-original-array-from-doubled-array](https://github.com/rahulkamble2026rk/Leetcode/tree/master/2117-find-original-array-from-doubled-array) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/rahulkamble2026rk/Leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/rahulkamble2026rk/Leetcode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
@@ -1014,6 +1017,7 @@ LeetCode Solution
 | [1046-max-consecutive-ones-iii](https://github.com/rahulkamble2026rk/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/rahulkamble2026rk/Leetcode/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/rahulkamble2026rk/Leetcode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
+| [2054-two-best-non-overlapping-events](https://github.com/rahulkamble2026rk/Leetcode/tree/master/2054-two-best-non-overlapping-events) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/rahulkamble2026rk/Leetcode/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/rahulkamble2026rk/Leetcode/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/rahulkamble2026rk/Leetcode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
@@ -1214,6 +1218,7 @@ LeetCode Solution
 | [1127-last-stone-weight](https://github.com/rahulkamble2026rk/Leetcode/tree/master/1127-last-stone-weight) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/rahulkamble2026rk/Leetcode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1917-maximum-average-pass-ratio](https://github.com/rahulkamble2026rk/Leetcode/tree/master/1917-maximum-average-pass-ratio) |
+| [2054-two-best-non-overlapping-events](https://github.com/rahulkamble2026rk/Leetcode/tree/master/2054-two-best-non-overlapping-events) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/rahulkamble2026rk/Leetcode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2429-design-a-food-rating-system](https://github.com/rahulkamble2026rk/Leetcode/tree/master/2429-design-a-food-rating-system) |
 | [2434-design-a-number-container-system](https://github.com/rahulkamble2026rk/Leetcode/tree/master/2434-design-a-number-container-system) |
