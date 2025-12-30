@@ -141,6 +141,7 @@ LeetCode Solution
 | [1813-maximum-erasure-value](https://github.com/rahulkamble2026rk/Leetcode/tree/master/1813-maximum-erasure-value) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/rahulkamble2026rk/Leetcode/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1876-map-of-highest-peak](https://github.com/rahulkamble2026rk/Leetcode/tree/master/1876-map-of-highest-peak) |
+| [1895-largest-magic-square](https://github.com/rahulkamble2026rk/Leetcode/tree/master/1895-largest-magic-square) |
 | [1901-equal-sum-arrays-with-minimum-number-of-operations](https://github.com/rahulkamble2026rk/Leetcode/tree/master/1901-equal-sum-arrays-with-minimum-number-of-operations) |
 | [1917-maximum-average-pass-ratio](https://github.com/rahulkamble2026rk/Leetcode/tree/master/1917-maximum-average-pass-ratio) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/rahulkamble2026rk/Leetcode/tree/master/1927-maximum-ascending-subarray-sum) |
@@ -398,6 +399,7 @@ LeetCode Solution
 | [1477-product-of-the-last-k-numbers](https://github.com/rahulkamble2026rk/Leetcode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/rahulkamble2026rk/Leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1590-make-sum-divisible-by-p](https://github.com/rahulkamble2026rk/Leetcode/tree/master/1590-make-sum-divisible-by-p) |
+| [1895-largest-magic-square](https://github.com/rahulkamble2026rk/Leetcode/tree/master/1895-largest-magic-square) |
 | [2205-find-good-days-to-rob-the-bank](https://github.com/rahulkamble2026rk/Leetcode/tree/master/2205-find-good-days-to-rob-the-bank) |
 | [2249-count-the-hidden-sequences](https://github.com/rahulkamble2026rk/Leetcode/tree/master/2249-count-the-hidden-sequences) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/rahulkamble2026rk/Leetcode/tree/master/2394-count-subarrays-with-score-less-than-k) |
@@ -723,6 +725,7 @@ LeetCode Solution
 | [1663-detect-cycles-in-2d-grid](https://github.com/rahulkamble2026rk/Leetcode/tree/master/1663-detect-cycles-in-2d-grid) |
 | [1704-special-positions-in-a-binary-matrix](https://github.com/rahulkamble2026rk/Leetcode/tree/master/1704-special-positions-in-a-binary-matrix) |
 | [1876-map-of-highest-peak](https://github.com/rahulkamble2026rk/Leetcode/tree/master/1876-map-of-highest-peak) |
+| [1895-largest-magic-square](https://github.com/rahulkamble2026rk/Leetcode/tree/master/1895-largest-magic-square) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/rahulkamble2026rk/Leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/rahulkamble2026rk/Leetcode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/rahulkamble2026rk/Leetcode/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
