@@ -84,6 +84,7 @@ LeetCode Solution
 | [0792-binary-search](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0792-binary-search) |
 | [0797-rabbits-in-forest](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0797-rabbits-in-forest) |
 | [0830-largest-triangle-area](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0830-largest-triangle-area) |
+| [0840-magic-squares-in-grid](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0840-magic-squares-in-grid) |
 | [0890-lemonade-change](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0890-lemonade-change) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0907-koko-eating-bananas](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0907-koko-eating-bananas) |
@@ -280,6 +281,7 @@ LeetCode Solution
 | [0721-accounts-merge](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0721-accounts-merge) |
 | [0768-partition-labels](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0768-partition-labels) |
 | [0797-rabbits-in-forest](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0797-rabbits-in-forest) |
+| [0840-magic-squares-in-grid](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0840-magic-squares-in-grid) |
 | [0900-reordered-power-of-2](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0900-reordered-power-of-2) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0952-word-subsets](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0952-word-subsets) |
@@ -429,6 +431,7 @@ LeetCode Solution
 | [0628-maximum-product-of-three-numbers](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0797-rabbits-in-forest](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0797-rabbits-in-forest) |
 | [0830-largest-triangle-area](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0830-largest-triangle-area) |
+| [0840-magic-squares-in-grid](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0840-magic-squares-in-grid) |
 | [0867-new-21-game](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0867-new-21-game) |
 | [0900-reordered-power-of-2](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0900-reordered-power-of-2) |
 | [0909-stone-game](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0909-stone-game) |
@@ -705,6 +708,7 @@ LeetCode Solution
 | [0542-01-matrix](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0542-01-matrix) |
 | [0695-max-area-of-island](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0733-flood-fill) |
+| [0840-magic-squares-in-grid](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0840-magic-squares-in-grid) |
 | [0945-snakes-and-ladders](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0945-snakes-and-ladders) |
 | [0967-minimum-falling-path-sum](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0967-minimum-falling-path-sum) |
 | [1036-rotting-oranges](https://github.com/rahulkamble2026rk/Leetcode/tree/master/1036-rotting-oranges) |
