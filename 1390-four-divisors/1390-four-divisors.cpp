@@ -9,9 +9,9 @@ public:
         int sum=0;
         for(int i=0;i<nums.size();i++)
         {   
-            cout<<"For "<<nums[i]<<endl;
+            // cout<<"For "<<nums[i]<<endl;
             int result=check(nums[i]);  
-            cout<<nums[i]<<" sum is : "<<result<<endl;
+            // cout<<nums[i]<<" sum is : "<<result<<endl;
 
             if(result!=-9999)
             {
@@ -30,7 +30,7 @@ public:
         {
             if(num%i==0)
             {  
-                cout<<i<<" & "<<num/i<<endl;
+                // cout<<i<<" & "<<num/i<<endl;
                 vct.insert(i); 
                 vct.insert(num/i);
             }
