@@ -209,6 +209,7 @@ LeetCode Solution
 | [2856-count-complete-subarrays-in-an-array](https://github.com/rahulkamble2026rk/Leetcode/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/rahulkamble2026rk/Leetcode/tree/master/2888-minimum-index-of-a-valid-split) |
 | [2915-count-of-interesting-subarrays](https://github.com/rahulkamble2026rk/Leetcode/tree/master/2915-count-of-interesting-subarrays) |
+| [2943-maximize-area-of-square-hole-in-grid](https://github.com/rahulkamble2026rk/Leetcode/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [3106-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/rahulkamble2026rk/Leetcode/tree/master/3106-length-of-the-longest-subsequence-that-sums-to-target) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/rahulkamble2026rk/Leetcode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/rahulkamble2026rk/Leetcode/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
@@ -999,6 +1000,7 @@ LeetCode Solution
 | [2699-count-the-number-of-fair-pairs](https://github.com/rahulkamble2026rk/Leetcode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2887-sort-vowels-in-a-string](https://github.com/rahulkamble2026rk/Leetcode/tree/master/2887-sort-vowels-in-a-string) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/rahulkamble2026rk/Leetcode/tree/master/2888-minimum-index-of-a-valid-split) |
+| [2943-maximize-area-of-square-hole-in-grid](https://github.com/rahulkamble2026rk/Leetcode/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/rahulkamble2026rk/Leetcode/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/rahulkamble2026rk/Leetcode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3321-type-of-triangle](https://github.com/rahulkamble2026rk/Leetcode/tree/master/3321-type-of-triangle) |
