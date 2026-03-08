@@ -564,6 +564,7 @@ LeetCode Solution
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/rahulkamble2026rk/Leetcode/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [1759-count-number-of-homogenous-substrings](https://github.com/rahulkamble2026rk/Leetcode/tree/master/1759-count-number-of-homogenous-substrings) |
 | [1770-minimum-deletions-to-make-character-frequencies-unique](https://github.com/rahulkamble2026rk/Leetcode/tree/master/1770-minimum-deletions-to-make-character-frequencies-unique) |
+| [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/rahulkamble2026rk/Leetcode/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/rahulkamble2026rk/Leetcode/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/rahulkamble2026rk/Leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [1980-find-unique-binary-string](https://github.com/rahulkamble2026rk/Leetcode/tree/master/1980-find-unique-binary-string) |
