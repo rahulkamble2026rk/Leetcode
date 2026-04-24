@@ -585,6 +585,7 @@ LeetCode Solution
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/rahulkamble2026rk/Leetcode/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2536-determine-if-two-events-have-conflict](https://github.com/rahulkamble2026rk/Leetcode/tree/master/2536-determine-if-two-events-have-conflict) |
 | [2700-substring-xor-queries](https://github.com/rahulkamble2026rk/Leetcode/tree/master/2700-substring-xor-queries) |
+| [2833-furthest-point-from-origin](https://github.com/rahulkamble2026rk/Leetcode/tree/master/2833-furthest-point-from-origin) |
 | [2887-sort-vowels-in-a-string](https://github.com/rahulkamble2026rk/Leetcode/tree/master/2887-sort-vowels-in-a-string) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/rahulkamble2026rk/Leetcode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3194-find-words-containing-character](https://github.com/rahulkamble2026rk/Leetcode/tree/master/3194-find-words-containing-character) |
@@ -1081,6 +1082,7 @@ LeetCode Solution
 | [2308-divide-array-into-equal-pairs](https://github.com/rahulkamble2026rk/Leetcode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2448-count-number-of-bad-pairs](https://github.com/rahulkamble2026rk/Leetcode/tree/master/2448-count-number-of-bad-pairs) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/rahulkamble2026rk/Leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+| [2833-furthest-point-from-origin](https://github.com/rahulkamble2026rk/Leetcode/tree/master/2833-furthest-point-from-origin) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/rahulkamble2026rk/Leetcode/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/rahulkamble2026rk/Leetcode/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3583-count-special-triplets](https://github.com/rahulkamble2026rk/Leetcode/tree/master/3583-count-special-triplets) |
