@@ -221,6 +221,7 @@ LeetCode Solution
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/rahulkamble2026rk/Leetcode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3194-find-words-containing-character](https://github.com/rahulkamble2026rk/Leetcode/tree/master/3194-find-words-containing-character) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/rahulkamble2026rk/Leetcode/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
+| [3225-maximum-score-from-grid-operations](https://github.com/rahulkamble2026rk/Leetcode/tree/master/3225-maximum-score-from-grid-operations) |
 | [3227-find-missing-and-repeated-values](https://github.com/rahulkamble2026rk/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/rahulkamble2026rk/Leetcode/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/rahulkamble2026rk/Leetcode/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
@@ -422,6 +423,7 @@ LeetCode Solution
 | [2618-maximize-the-minimum-powered-city](https://github.com/rahulkamble2026rk/Leetcode/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2625-increment-submatrices-by-one](https://github.com/rahulkamble2026rk/Leetcode/tree/master/2625-increment-submatrices-by-one) |
 | [2915-count-of-interesting-subarrays](https://github.com/rahulkamble2026rk/Leetcode/tree/master/2915-count-of-interesting-subarrays) |
+| [3225-maximum-score-from-grid-operations](https://github.com/rahulkamble2026rk/Leetcode/tree/master/3225-maximum-score-from-grid-operations) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/rahulkamble2026rk/Leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/rahulkamble2026rk/Leetcode/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3639-zero-array-transformation-i](https://github.com/rahulkamble2026rk/Leetcode/tree/master/3639-zero-array-transformation-i) |
@@ -716,6 +718,7 @@ LeetCode Solution
 | [2882-ways-to-express-an-integer-as-sum-of-powers](https://github.com/rahulkamble2026rk/Leetcode/tree/master/2882-ways-to-express-an-integer-as-sum-of-powers) |
 | [3106-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/rahulkamble2026rk/Leetcode/tree/master/3106-length-of-the-longest-subsequence-that-sums-to-target) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/rahulkamble2026rk/Leetcode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
+| [3225-maximum-score-from-grid-operations](https://github.com/rahulkamble2026rk/Leetcode/tree/master/3225-maximum-score-from-grid-operations) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/rahulkamble2026rk/Leetcode/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/rahulkamble2026rk/Leetcode/tree/master/3651-minimum-cost-path-with-teleportations) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/rahulkamble2026rk/Leetcode/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
@@ -761,6 +764,7 @@ LeetCode Solution
 | [2685-first-completely-painted-row-or-column](https://github.com/rahulkamble2026rk/Leetcode/tree/master/2685-first-completely-painted-row-or-column) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/rahulkamble2026rk/Leetcode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/rahulkamble2026rk/Leetcode/tree/master/2794-maximum-number-of-moves-in-a-grid) |
+| [3225-maximum-score-from-grid-operations](https://github.com/rahulkamble2026rk/Leetcode/tree/master/3225-maximum-score-from-grid-operations) |
 | [3227-find-missing-and-repeated-values](https://github.com/rahulkamble2026rk/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/rahulkamble2026rk/Leetcode/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/rahulkamble2026rk/Leetcode/tree/master/3651-minimum-cost-path-with-teleportations) |
