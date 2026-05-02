@@ -55,6 +55,7 @@ LeetCode Solution
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0322-coin-change](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0322-coin-change) |
 | [0368-largest-divisible-subset](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0368-largest-divisible-subset) |
+| [0396-rotate-function](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0396-rotate-function) |
 | [0407-trapping-rain-water-ii](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0407-trapping-rain-water-ii) |
 | [0416-partition-equal-subset-sum](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
@@ -449,6 +450,7 @@ LeetCode Solution
 | [0342-power-of-four](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0342-power-of-four) |
 | [0343-integer-break](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0343-integer-break) |
 | [0368-largest-divisible-subset](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0368-largest-divisible-subset) |
+| [0396-rotate-function](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0396-rotate-function) |
 | [0628-maximum-product-of-three-numbers](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0797-rabbits-in-forest](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0797-rabbits-in-forest) |
 | [0830-largest-triangle-area](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0830-largest-triangle-area) |
@@ -678,6 +680,7 @@ LeetCode Solution
 | [0338-counting-bits](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0338-counting-bits) |
 | [0343-integer-break](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0343-integer-break) |
 | [0368-largest-divisible-subset](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0368-largest-divisible-subset) |
+| [0396-rotate-function](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0396-rotate-function) |
 | [0416-partition-equal-subset-sum](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0466-count-the-repetitions](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0466-count-the-repetitions) |
