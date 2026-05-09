@@ -149,6 +149,7 @@ LeetCode Solution
 | [1876-map-of-highest-peak](https://github.com/rahulkamble2026rk/Leetcode/tree/master/1876-map-of-highest-peak) |
 | [1895-largest-magic-square](https://github.com/rahulkamble2026rk/Leetcode/tree/master/1895-largest-magic-square) |
 | [1901-equal-sum-arrays-with-minimum-number-of-operations](https://github.com/rahulkamble2026rk/Leetcode/tree/master/1901-equal-sum-arrays-with-minimum-number-of-operations) |
+| [1914-cyclically-rotating-a-grid](https://github.com/rahulkamble2026rk/Leetcode/tree/master/1914-cyclically-rotating-a-grid) |
 | [1917-maximum-average-pass-ratio](https://github.com/rahulkamble2026rk/Leetcode/tree/master/1917-maximum-average-pass-ratio) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/rahulkamble2026rk/Leetcode/tree/master/1927-maximum-ascending-subarray-sum) |
 | [1980-find-unique-binary-string](https://github.com/rahulkamble2026rk/Leetcode/tree/master/1980-find-unique-binary-string) |
@@ -758,6 +759,7 @@ LeetCode Solution
 | [1704-special-positions-in-a-binary-matrix](https://github.com/rahulkamble2026rk/Leetcode/tree/master/1704-special-positions-in-a-binary-matrix) |
 | [1876-map-of-highest-peak](https://github.com/rahulkamble2026rk/Leetcode/tree/master/1876-map-of-highest-peak) |
 | [1895-largest-magic-square](https://github.com/rahulkamble2026rk/Leetcode/tree/master/1895-largest-magic-square) |
+| [1914-cyclically-rotating-a-grid](https://github.com/rahulkamble2026rk/Leetcode/tree/master/1914-cyclically-rotating-a-grid) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/rahulkamble2026rk/Leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/rahulkamble2026rk/Leetcode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/rahulkamble2026rk/Leetcode/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
@@ -1292,6 +1294,7 @@ LeetCode Solution
 | [0498-diagonal-traverse](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0498-diagonal-traverse) |
 | [1041-available-captures-for-rook](https://github.com/rahulkamble2026rk/Leetcode/tree/master/1041-available-captures-for-rook) |
 | [1449-print-words-vertically](https://github.com/rahulkamble2026rk/Leetcode/tree/master/1449-print-words-vertically) |
+| [1914-cyclically-rotating-a-grid](https://github.com/rahulkamble2026rk/Leetcode/tree/master/1914-cyclically-rotating-a-grid) |
 | [1971-incremental-memory-leak](https://github.com/rahulkamble2026rk/Leetcode/tree/master/1971-incremental-memory-leak) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/rahulkamble2026rk/Leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2048-build-array-from-permutation](https://github.com/rahulkamble2026rk/Leetcode/tree/master/2048-build-array-from-permutation) |
