@@ -208,6 +208,7 @@ LeetCode Solution
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/rahulkamble2026rk/Leetcode/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/rahulkamble2026rk/Leetcode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/rahulkamble2026rk/Leetcode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
+| [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/rahulkamble2026rk/Leetcode/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [2792-neighboring-bitwise-xor](https://github.com/rahulkamble2026rk/Leetcode/tree/master/2792-neighboring-bitwise-xor) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/rahulkamble2026rk/Leetcode/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/rahulkamble2026rk/Leetcode/tree/master/2856-count-complete-subarrays-in-an-array) |
@@ -718,6 +719,7 @@ LeetCode Solution
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/rahulkamble2026rk/Leetcode/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/rahulkamble2026rk/Leetcode/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [2586-longest-square-streak-in-an-array](https://github.com/rahulkamble2026rk/Leetcode/tree/master/2586-longest-square-streak-in-an-array) |
+| [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/rahulkamble2026rk/Leetcode/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/rahulkamble2026rk/Leetcode/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [2882-ways-to-express-an-integer-as-sum-of-powers](https://github.com/rahulkamble2026rk/Leetcode/tree/master/2882-ways-to-express-an-integer-as-sum-of-powers) |
 | [3106-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/rahulkamble2026rk/Leetcode/tree/master/3106-length-of-the-longest-subsequence-that-sums-to-target) |
