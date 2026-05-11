@@ -195,6 +195,7 @@ LeetCode Solution
 | [2533-bitwise-xor-of-all-pairings](https://github.com/rahulkamble2026rk/Leetcode/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2536-determine-if-two-events-have-conflict](https://github.com/rahulkamble2026rk/Leetcode/tree/master/2536-determine-if-two-events-have-conflict) |
 | [2551-apply-operations-to-an-array](https://github.com/rahulkamble2026rk/Leetcode/tree/master/2551-apply-operations-to-an-array) |
+| [2553-separate-the-digits-in-an-array](https://github.com/rahulkamble2026rk/Leetcode/tree/master/2553-separate-the-digits-in-an-array) |
 | [2586-longest-square-streak-in-an-array](https://github.com/rahulkamble2026rk/Leetcode/tree/master/2586-longest-square-streak-in-an-array) |
 | [2606-difference-between-ones-and-zeros-in-row-and-column](https://github.com/rahulkamble2026rk/Leetcode/tree/master/2606-difference-between-ones-and-zeros-in-row-and-column) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/rahulkamble2026rk/Leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
@@ -1311,6 +1312,7 @@ LeetCode Solution
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/rahulkamble2026rk/Leetcode/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/rahulkamble2026rk/Leetcode/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [2551-apply-operations-to-an-array](https://github.com/rahulkamble2026rk/Leetcode/tree/master/2551-apply-operations-to-an-array) |
+| [2553-separate-the-digits-in-an-array](https://github.com/rahulkamble2026rk/Leetcode/tree/master/2553-separate-the-digits-in-an-array) |
 | [2595-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/rahulkamble2026rk/Leetcode/tree/master/2595-smallest-value-after-replacing-with-sum-of-prime-factors) |
 | [2606-difference-between-ones-and-zeros-in-row-and-column](https://github.com/rahulkamble2026rk/Leetcode/tree/master/2606-difference-between-ones-and-zeros-in-row-and-column) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/rahulkamble2026rk/Leetcode/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
