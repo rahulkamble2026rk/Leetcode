@@ -466,6 +466,7 @@ LeetCode Solution
 | [1014-k-closest-points-to-origin](https://github.com/rahulkamble2026rk/Leetcode/tree/master/1014-k-closest-points-to-origin) |
 | [1018-largest-perimeter-triangle](https://github.com/rahulkamble2026rk/Leetcode/tree/master/1018-largest-perimeter-triangle) |
 | [1266-minimum-time-visiting-all-points](https://github.com/rahulkamble2026rk/Leetcode/tree/master/1266-minimum-time-visiting-all-points) |
+| [1344-angle-between-hands-of-a-clock](https://github.com/rahulkamble2026rk/Leetcode/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1370-count-number-of-nice-subarrays](https://github.com/rahulkamble2026rk/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1390-four-divisors](https://github.com/rahulkamble2026rk/Leetcode/tree/master/1390-four-divisors) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/rahulkamble2026rk/Leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
