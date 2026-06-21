@@ -146,6 +146,7 @@ LeetCode Solution
 | [1704-special-positions-in-a-binary-matrix](https://github.com/rahulkamble2026rk/Leetcode/tree/master/1704-special-positions-in-a-binary-matrix) |
 | [1732-find-the-highest-altitude](https://github.com/rahulkamble2026rk/Leetcode/tree/master/1732-find-the-highest-altitude) |
 | [1813-maximum-erasure-value](https://github.com/rahulkamble2026rk/Leetcode/tree/master/1813-maximum-erasure-value) |
+| [1833-maximum-ice-cream-bars](https://github.com/rahulkamble2026rk/Leetcode/tree/master/1833-maximum-ice-cream-bars) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/rahulkamble2026rk/Leetcode/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1876-map-of-highest-peak](https://github.com/rahulkamble2026rk/Leetcode/tree/master/1876-map-of-highest-peak) |
 | [1895-largest-magic-square](https://github.com/rahulkamble2026rk/Leetcode/tree/master/1895-largest-magic-square) |
@@ -973,6 +974,7 @@ LeetCode Solution
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/rahulkamble2026rk/Leetcode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/rahulkamble2026rk/Leetcode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1770-minimum-deletions-to-make-character-frequencies-unique](https://github.com/rahulkamble2026rk/Leetcode/tree/master/1770-minimum-deletions-to-make-character-frequencies-unique) |
+| [1833-maximum-ice-cream-bars](https://github.com/rahulkamble2026rk/Leetcode/tree/master/1833-maximum-ice-cream-bars) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/rahulkamble2026rk/Leetcode/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1901-equal-sum-arrays-with-minimum-number-of-operations](https://github.com/rahulkamble2026rk/Leetcode/tree/master/1901-equal-sum-arrays-with-minimum-number-of-operations) |
 | [1917-maximum-average-pass-ratio](https://github.com/rahulkamble2026rk/Leetcode/tree/master/1917-maximum-average-pass-ratio) |
@@ -1020,6 +1022,7 @@ LeetCode Solution
 | [1253-sort-the-matrix-diagonally](https://github.com/rahulkamble2026rk/Leetcode/tree/master/1253-sort-the-matrix-diagonally) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/rahulkamble2026rk/Leetcode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1770-minimum-deletions-to-make-character-frequencies-unique](https://github.com/rahulkamble2026rk/Leetcode/tree/master/1770-minimum-deletions-to-make-character-frequencies-unique) |
+| [1833-maximum-ice-cream-bars](https://github.com/rahulkamble2026rk/Leetcode/tree/master/1833-maximum-ice-cream-bars) |
 | [2054-two-best-non-overlapping-events](https://github.com/rahulkamble2026rk/Leetcode/tree/master/2054-two-best-non-overlapping-events) |
 | [2117-find-original-array-from-doubled-array](https://github.com/rahulkamble2026rk/Leetcode/tree/master/2117-find-original-array-from-doubled-array) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/rahulkamble2026rk/Leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
@@ -1461,6 +1464,7 @@ LeetCode Solution
 |  |
 | ------- |
 | [0274-h-index](https://github.com/rahulkamble2026rk/Leetcode/tree/master/0274-h-index) |
+| [1833-maximum-ice-cream-bars](https://github.com/rahulkamble2026rk/Leetcode/tree/master/1833-maximum-ice-cream-bars) |
 ## Doubly-Linked List
 |  |
 | ------- |
