@@ -436,6 +436,7 @@ LeetCode Solution
 | [3616-make-array-elements-equal-to-zero](https://github.com/rahulkamble2026rk/Leetcode/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3639-zero-array-transformation-i](https://github.com/rahulkamble2026rk/Leetcode/tree/master/3639-zero-array-transformation-i) |
 | [3643-zero-array-transformation-ii](https://github.com/rahulkamble2026rk/Leetcode/tree/master/3643-zero-array-transformation-ii) |
+| [3699-number-of-zigzag-arrays-i](https://github.com/rahulkamble2026rk/Leetcode/tree/master/3699-number-of-zigzag-arrays-i) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/rahulkamble2026rk/Leetcode/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 | [4045-longest-balanced-subarray-i](https://github.com/rahulkamble2026rk/Leetcode/tree/master/4045-longest-balanced-subarray-i) |
 ## Math
@@ -734,6 +735,7 @@ LeetCode Solution
 | [3225-maximum-score-from-grid-operations](https://github.com/rahulkamble2026rk/Leetcode/tree/master/3225-maximum-score-from-grid-operations) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/rahulkamble2026rk/Leetcode/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/rahulkamble2026rk/Leetcode/tree/master/3651-minimum-cost-path-with-teleportations) |
+| [3699-number-of-zigzag-arrays-i](https://github.com/rahulkamble2026rk/Leetcode/tree/master/3699-number-of-zigzag-arrays-i) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/rahulkamble2026rk/Leetcode/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 ## Matrix
 |  |
